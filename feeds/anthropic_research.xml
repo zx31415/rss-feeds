@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:45:32 +0000</lastBuildDate>
+    <item>
+      <title>An alignment assessment of recent cybersecurity incidents</title>
+      <link>https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</link>
+      <description>Alignment</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents</guid>
+      <pubDate>Wed, 09 Sep 2026 21:45:32 +0000</pubDate>
+    </item>
     <item>
       <title>Formalizing Fermat's Last Theorem</title>
       <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
@@ -71,13 +78,6 @@
       <description>Frontier Red Team</description>
       <guid isPermaLink="true">https://www.anthropic.com/research/project-pilot</guid>
       <pubDate>Sun, 06 Sep 2026 10:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Canada uses Claude: Findings from the Anthropic Economic Index</title>
-      <link>https://www.anthropic.com/research/how-canada-uses-claude</link>
-      <description>Economics</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/how-canada-uses-claude</guid>
-      <pubDate>Sun, 06 Sep 2026 10:06:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
