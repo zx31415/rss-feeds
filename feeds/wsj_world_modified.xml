@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:29:37 +0000</lastBuildDate>
+    <item>
+      <title>The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil</title>
+      <link>https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_worldnews</link>
+      <description>Fred Ehrsam, a Trump administration ally and co-founder of Coinbase, lived for months in a luxury Caracas hotel pursuing investments in Venezuela.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_worldnews</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Defending Ukraine Is Getting More Expensive, and Europe Is Struggling to Foot the Bill</title>
       <link>https://www.wsj.com/world/europe/defending-ukraine-is-getting-more-expensive-and-europe-is-struggling-to-foot-the-bill-eaecea4a?mod=rss_worldnews</link>
       <description>European leaders are reluctant to close Ukraine’s funding gap, as opposition parties who are against paying for the war grow in influence.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/defending-ukraine-is-getting-more-expensive-and-europe-is-struggling-to-foot-the-bill-eaecea4a?mod=rss_worldnews</guid>
-      <pubDate>Thu, 10 Sep 2026 18:24:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 19:49:00 +0000</pubDate>
     </item>
     <item>
       <title>Iran Is Producing Ballistic Missiles Again</title>
@@ -141,13 +148,6 @@
       <description>The country has hundreds of projects in development, but they are now threatened by growing instability in the Himalayas.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/asia/nepal-flood-hydropower-glacier-6df52308?mod=rss_worldnews</guid>
       <pubDate>Wed, 09 Sep 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The States on the Front Lines of the Trade War With Canada</title>
-      <link>https://www.wsj.com/economy/trade/the-states-on-the-front-lines-of-the-trade-war-with-canada-9dc4da90?mod=rss_worldnews</link>
-      <description>The latest Canadian tariffs on $20 billion of U.S. exports went into effect Tuesday. A handful of U.S. states are likely to feel a big effect.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/trade/the-states-on-the-front-lines-of-the-trade-war-with-canada-9dc4da90?mod=rss_worldnews</guid>
-      <pubDate>Tue, 08 Sep 2026 23:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
