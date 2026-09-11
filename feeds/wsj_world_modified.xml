@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 02:46:23 +0000</lastBuildDate>
+    <item>
+      <title>Iranians Are Running Out of Gas as Economic Squeeze Takes Hold</title>
+      <link>https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b?mod=rss_worldnews</link>
+      <description>Cuts to subsidies and quotas are fueling anger and spurring walkouts by truck and taxi drivers.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b?mod=rss_worldnews</guid>
+      <pubDate>Fri, 11 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil</title>
       <link>https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The American attacks come after Iran targeted U.S. warships, as fears grow that Tehran’s missiles are becoming more sophisticated.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews</guid>
       <pubDate>Wed, 09 Sep 2026 01:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nepal’s Big Bet on Hydropower Miscalculated One Thing—Monster Floods</title>
-      <link>https://www.wsj.com/world/asia/nepal-flood-hydropower-glacier-6df52308?mod=rss_worldnews</link>
-      <description>The country has hundreds of projects in development, but they are now threatened by growing instability in the Himalayas.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/nepal-flood-hydropower-glacier-6df52308?mod=rss_worldnews</guid>
-      <pubDate>Wed, 09 Sep 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
