@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:52:16 +0000</lastBuildDate>
+    <item>
+      <title>Sept. 11 Changed the World Order. But Not for the Reason We May Think.</title>
+      <link>https://www.wsj.com/world/sept-11-changed-world-order-1508c504?mod=rss_worldnews</link>
+      <description>The terrorist attacks 25 years ago consumed U.S. resources and attention, and left the country unable to address the bigger threats to its economy and global leadership.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/sept-11-changed-world-order-1508c504?mod=rss_worldnews</guid>
+      <pubDate>Fri, 11 Sep 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iranians Are Running Out of Gas as Economic Squeeze Takes Hold</title>
       <link>https://www.wsj.com/world/middle-east/iranians-are-running-out-of-gas-as-economic-squeeze-takes-hold-67e38a7b?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The ban will affect a small subset of industries but could be ruinous for those companies if the trade prohibitions go into effect in three weeks.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/trade/trump-says-he-will-block-canadian-firms-from-government-contracts-a4c3c21e?mod=rss_worldnews</guid>
       <pubDate>Wed, 09 Sep 2026 02:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Strikes Iranian Oil Tankers in Response to Tehran’s Attacks on Navy Ships</title>
-      <link>https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews</link>
-      <description>The American attacks come after Iran targeted U.S. warships, as fears grow that Tehran’s missiles are becoming more sophisticated.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-launched-undisclosed-second-wave-of-attacks-on-u-s-navy-ships-560f31a1?mod=rss_worldnews</guid>
-      <pubDate>Wed, 09 Sep 2026 01:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
