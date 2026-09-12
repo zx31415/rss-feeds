@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:01:30 +0000</lastBuildDate>
+    <item>
+      <title>China’s Economic Troubles Reach the Mushroom Hunters of Shangri-La</title>
+      <link>https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d?mod=rss_worldnews</link>
+      <description>High in the Himalayas, cutthroat competition is squeezing the Tibetans who scour the hills several weeks a year for a prized delicacy.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/chinas-economic-troubles-reach-the-mushroom-hunters-of-shangri-la-ea4cd49d?mod=rss_worldnews</guid>
+      <pubDate>Sat, 12 Sep 2026 15:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AI Fears Leap From Silicon Valley Into Mainstream America</title>
       <link>https://www.wsj.com/tech/ai-fears-leap-from-silicon-valley-into-mainstream-america-3e632708?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>European leaders are reluctant to close Ukraine’s funding gap, as opposition parties who are against paying for the war grow in influence.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/defending-ukraine-is-getting-more-expensive-and-europe-is-struggling-to-foot-the-bill-eaecea4a?mod=rss_worldnews</guid>
       <pubDate>Thu, 10 Sep 2026 19:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Is Producing Ballistic Missiles Again</title>
-      <link>https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12?mod=rss_worldnews</link>
-      <description>Intelligence findings say Tehran is assembling stockpiled components into weapons in underground facilities.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-ballistic-missile-production-5538af12?mod=rss_worldnews</guid>
-      <pubDate>Thu, 10 Sep 2026 16:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
