@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 05:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:38:36 +0000</lastBuildDate>
+    <item>
+      <title>This Spanish Island Wants to Ditch Drunk British Tourists for Rich American Ones</title>
+      <link>https://www.wsj.com/world/europe/this-spanish-island-wants-to-ditch-drunk-british-tourists-for-rich-american-ones-c1f6c0fd?mod=rss_worldnews</link>
+      <description>Mallorca is taking a less-is-more approach to tourism as anger swells among locals.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/this-spanish-island-wants-to-ditch-drunk-british-tourists-for-rich-american-ones-c1f6c0fd?mod=rss_worldnews</guid>
+      <pubDate>Sat, 12 Sep 2026 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>Latin American Allies Are Going All In on Trump’s Drug War</title>
       <link>https://www.wsj.com/world/americas/trump-drug-war-strikes-latin-amercia-b1ed3908?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The militant group captured the port of Mokha and left Saudi-backed government forces in retreat, expanding its control near a chokepoint for energy exports.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79?mod=rss_worldnews</guid>
       <pubDate>Thu, 10 Sep 2026 15:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Long Shadow of 9/11, Told Through the WSJ Archive</title>
-      <link>https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b?mod=rss_worldnews</link>
-      <description>We scoured hundreds of The Wall Street Journal’s articles to show how the terrorist attacks continue to reverberate a quarter-century later.</description>
-      <guid isPermaLink="true">https://www.wsj.com/us-news/sept-11-terrorist-attacks-anniversary-coverage-6339aa0b?mod=rss_worldnews</guid>
-      <pubDate>Thu, 10 Sep 2026 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
