@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:41:48 +0000</lastBuildDate>
+    <item>
+      <title>Wealthy Europeans Are Moving North as Temperatures Climb</title>
+      <link>https://www.wsj.com/world/europe/wealthy-europeans-are-moving-north-as-temperatures-climb-9b47dac0?mod=rss_worldnews</link>
+      <description>Regions of northern Spain, France and Italy are becoming more attractive for buyers as wildfires and droughts hit southern hot spots.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/wealthy-europeans-are-moving-north-as-temperatures-climb-9b47dac0?mod=rss_worldnews</guid>
+      <pubDate>Sun, 13 Sep 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Latest Spot for a Trump Tower: An Ex-Soviet Republic Moving Closer to Russia</title>
+      <link>https://www.wsj.com/politics/policy/the-latest-spot-for-a-trump-tower-an-ex-soviet-republic-moving-closer-to-russia-adb04f38?mod=rss_worldnews</link>
+      <description>Developers are planning to launch marketing on the Trump Tower Tbilisi, the latest foreign project for the Trump family’s business.</description>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/the-latest-spot-for-a-trump-tower-an-ex-soviet-republic-moving-closer-to-russia-adb04f38?mod=rss_worldnews</guid>
+      <pubDate>Sun, 13 Sep 2026 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>A U.S. Scholar Was Invited to China. Then He Vanished.</title>
       <link>https://www.wsj.com/world/china/a-u-s-scholar-was-invited-to-china-then-he-vanished-88c720af?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>The central bank left its key interest rate unchanged after a series of 10 cuts as Ukraine’s drone strikes threaten to push inflation even higher.</description>
       <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/russian-central-bank-holds-key-rate-despite-rising-price-pressures-09066344?mod=rss_worldnews</guid>
       <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The WSJ Newsroom Was Across the Street From the Towers on 9/11. Here’s What We Saw.</title>
-      <link>https://www.wsj.com/world/americas/how-the-wsj-covered-9-11-from-the-ground-25-years-ago-12c02067?mod=rss_worldnews</link>
-      <description>Watch WSJ staff recall how they put together 9/11 coverage from a shattered newsroom in New York City.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/how-the-wsj-covered-9-11-from-the-ground-25-years-ago-12c02067?mod=rss_worldnews</guid>
-      <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sept. 11 Changed the World Order. But Not for the Reason We May Think.</title>
-      <link>https://www.wsj.com/world/sept-11-changed-world-order-1508c504?mod=rss_worldnews</link>
-      <description>The terrorist attacks 25 years ago consumed U.S. resources and attention, and left the country unable to address the bigger threats to its economy and global leadership.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/sept-11-changed-world-order-1508c504?mod=rss_worldnews</guid>
-      <pubDate>Fri, 11 Sep 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
