@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:58:38 +0000</lastBuildDate>
+    <item>
+      <title>Widening Mideast Instability Squeezes Global Oil Supplies</title>
+      <link>https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=rss_worldnews</link>
+      <description>A Houthi offensive in Yemen has put a second vital energy corridor in the region under the sway of Iran and its allies.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=rss_worldnews</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Pledges to Rescind 10% Tariff on Irish Whiskey</title>
       <link>https://www.wsj.com/economy/trade/trump-pledges-to-rescind-10-tariff-on-irish-whiskey-fc456b00?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The gathering, which starts Monday, seeks to pair companies pitching projects with some of the world’s top asset managers responsible for assets totaling over $100 trillion.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/canada-pins-hope-for-economic-turbocharge-on-high-profile-investor-summit-4c7325d0?mod=rss_worldnews</guid>
       <pubDate>Fri, 11 Sep 2026 17:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abu Dhabi’s Oil Giant Inks Partnerships With German Energy, Industry Groups as Part of UAE’s $46.5 Billion Investment</title>
-      <link>https://www.wsj.com/business/energy-oil/abu-dhabis-oil-giant-inks-partnerships-with-german-energy-industry-groups-as-part-of-uaes-46-5-billion-investment-03dc5ace?mod=rss_worldnews</link>
-      <description>The deals come as capital-rich UAE looks to invest in Germany’s economy, where its leaders have been received on a visit this week.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/abu-dhabis-oil-giant-inks-partnerships-with-german-energy-industry-groups-as-part-of-uaes-46-5-billion-investment-03dc5ace?mod=rss_worldnews</guid>
-      <pubDate>Fri, 11 Sep 2026 17:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
