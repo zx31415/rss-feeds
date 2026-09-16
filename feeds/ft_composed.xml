@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Financial Times</title>
+    <link>https://zx31415.github.io/rss-feeds/feeds/ft_composed.xml</link>
+    <description>合并FT各栏目RSS 源，去重后统一输出</description>
+    <atom:link href="https://zx31415.github.io/rss-feeds/feeds/ft_composed.xml" rel="self"/>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <generator>gh-rss-builder</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 16 Sep 2026 05:50:36 +0000</lastBuildDate>
+    <item>
+      <title>‘Buy British’ military procurement is a poor way to defend the realm</title>
+      <link>https://www.ft.com/content/3a216d29-6ed0-46a2-9835-2d9b427b7e88?syn-25a6b1a6=1</link>
+      <description>If governments really want to keep their defence purchasing close, one solution is to team up with allies</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3a216d29-6ed0-46a2-9835-2d9b427b7e88?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the US and China are at odds on AI threats</title>
+      <link>https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1</link>
+      <description>Technological rivalry between Washington and Beijing makes it harder to agree how to manage potentially existential dangers</description>
+      <guid isPermaLink="true">https://www.ft.com/content/83023f2f-0c12-4239-bf27-99d8e378ec5d?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 16 Sep 2026 01:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese restaurant chains put AI on the menu</title>
+      <link>https://www.ft.com/content/26b4d949-3e3d-4172-a2f0-435eb797f3d8?syn-25a6b1a6=1</link>
+      <description>AI-driven reductions in food waste and labour costs can make culinary economics much more juicy</description>
+      <guid isPermaLink="true">https://www.ft.com/content/26b4d949-3e3d-4172-a2f0-435eb797f3d8?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bessent to meet He Lifeng in New York ahead of Trump-Xi summit</title>
+      <link>https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1</link>
+      <description>US Treasury secretary and Chinese vice-premier to hold talks as one-year expiry in trade war truce nears</description>
+      <guid isPermaLink="true">https://www.ft.com/content/7cc04edd-2897-4655-99d4-ede1ccfcd91c?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 22:32:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larry Ellison shows even billionaires struggle with liquidity</title>
+      <link>https://www.ft.com/content/6bbec28d-7ccf-455b-932a-0edad91a6d0e?syn-25a6b1a6=1</link>
+      <description>The Oracle co-founder may have little choice but to sell shares if he wants to raise vast sums of money</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6bbec28d-7ccf-455b-932a-0edad91a6d0e?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 17:24:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>The main Trump-Xi summit achievement will be it happening at all</title>
+      <link>https://www.ft.com/content/86078ee7-0c8a-4d2b-8ce7-4fc47d965985?syn-25a6b1a6=1</link>
+      <description>The US and China are in a stand-off rather than a state of agreement</description>
+      <guid isPermaLink="true">https://www.ft.com/content/86078ee7-0c8a-4d2b-8ce7-4fc47d965985?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 13:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>China tightens control of overseas travel in sweeping new law</title>
+      <link>https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1</link>
+      <description>President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 12:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New fertiliser exporters blunt food crisis fears</title>
+      <link>https://www.ft.com/content/e1b2e9c2-9086-4ba1-bbda-58133c60f011?syn-25a6b1a6=1</link>
+      <description>Countries outside the Gulf increase market share of urea exports as supplies through Strait of Hormuz collapse</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e1b2e9c2-9086-4ba1-bbda-58133c60f011?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 10:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s AI listings glut drags Hong Kong stocks lower</title>
+      <link>https://www.ft.com/content/6d169ac7-0d3a-4f21-91ee-b8119fc63e65?syn-25a6b1a6=1</link>
+      <description>Disparity between equity issuance and overall performance highlights weak global demand for Chinese stocks</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6d169ac7-0d3a-4f21-91ee-b8119fc63e65?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 07:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s economy shows signs of weakness as investment slumps</title>
+      <link>https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1</link>
+      <description>Deteriorating domestic indicators add pressure on policymakers to increase stimulus spending</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 04:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hyrox’s new owners hope to turn burpees into billions</title>
+      <link>https://www.ft.com/content/3abf587d-af1b-4de4-b1fe-b5b4cb48a6cd?syn-25a6b1a6=1</link>
+      <description>The brand is well placed to expand: clothing and accessories would be the obvious first place followed by travel</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3abf587d-af1b-4de4-b1fe-b5b4cb48a6cd?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 04:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>US equities eclipse Treasuries in rare foreign capital shift</title>
+      <link>https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1</link>
+      <description>International flows into American equities exceed government debt for first time this century outside pandemic and aftermath of global financial crisis</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 04:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK and Japan seek to fully benefit from ‘Made in Europe’ car sector rules</title>
+      <link>https://www.ft.com/content/7265f15f-c1e4-49c5-b6e0-8c3a29e70892?syn-25a6b1a6=1</link>
+      <description>Britain says its automobile industry should not be caught in the crossfire of an EU push to counter China</description>
+      <guid isPermaLink="true">https://www.ft.com/content/7265f15f-c1e4-49c5-b6e0-8c3a29e70892?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 04:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Have Hong Kong’s eateries gone to the dogs?</title>
+      <link>https://www.ft.com/content/a718a93c-5565-46ec-be3e-f9f67d5e6864?syn-25a6b1a6=1</link>
+      <description>The end of a decades-old prohibition has been welcomed by owners but is prompting disquiet from some patrons</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a718a93c-5565-46ec-be3e-f9f67d5e6864?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 23:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>US tech stocks fall after big AI groups call for slowdown</title>
+      <link>https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1</link>
+      <description>Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 20:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why delaying an AI doomsday would benefit investors too</title>
+      <link>https://www.ft.com/content/38ea0870-0100-4f4e-bd71-89074761095c?syn-25a6b1a6=1</link>
+      <description>A slowdown would reduce the enormous amounts of cash being lavished on training new models</description>
+      <guid isPermaLink="true">https://www.ft.com/content/38ea0870-0100-4f4e-bd71-89074761095c?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time for a pause on cutting-edge AI</title>
+      <link>https://www.ft.com/content/b132d848-7d0b-4938-81ee-3683ef2004db?syn-25a6b1a6=1</link>
+      <description>The most advanced models are starting to escape human control</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b132d848-7d0b-4938-81ee-3683ef2004db?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 17:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Despite high-end holiday boom, Club Med investors have a lot to unpack</title>
+      <link>https://www.ft.com/content/4618a2e9-b080-43c7-aeea-d31c6c23caae?syn-25a6b1a6=1</link>
+      <description>Resort operator plans to offer more premium all-inclusive breaks but it is a tough business in a highly competitive market</description>
+      <guid isPermaLink="true">https://www.ft.com/content/4618a2e9-b080-43c7-aeea-d31c6c23caae?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 14:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beijing launches drone buyback in crackdown after Citic Tower crash</title>
+      <link>https://www.ft.com/content/8ec31da9-9922-44e2-98c2-3225c9eb0e21?syn-25a6b1a6=1</link>
+      <description>Amnesty for banned aerial devices comes months after light aircraft struck Chinese capital’s tallest office tower</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8ec31da9-9922-44e2-98c2-3225c9eb0e21?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 08:52:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hostile forces using AI for ‘cognitive warfare’ against China, spy agency warns</title>
+      <link>https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1</link>
+      <description>Beijing signals growing concern over how rapid advances in technology could be used against the country</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 14 Sep 2026 05:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump rejects calls from tech bosses for AI slowdown</title>
+      <link>https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1</link>
+      <description>President denounces demands for regulation as existential fears over technology move to the centre of US politics</description>
+      <guid isPermaLink="true">https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 13 Sep 2026 21:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>The anti-AI portfolio: fountain pens, Warhammer and film cameras</title>
+      <link>https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1</link>
+      <description>Journaling, sudoku, puzzle books and other non-digital pursuits are staging a comeback</description>
+      <guid isPermaLink="true">https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 13 Sep 2026 04:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brics push for Gulf peace as war worries mount</title>
+      <link>https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1</link>
+      <description>India-China rapprochement faces obstacles over economic and geopolitical rivalry</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 12 Sep 2026 14:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Windshield megadeal could fix Europe’s broken IPO window</title>
+      <link>https://www.ft.com/content/0e25f645-4e80-4299-a6b6-c09c7d459871?syn-25a6b1a6=1</link>
+      <description>Belron is the sort of business that might help investors warm up to more deals</description>
+      <guid isPermaLink="true">https://www.ft.com/content/0e25f645-4e80-4299-a6b6-c09c7d459871?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exorbitant tennis tickets are the price of the sport’s success</title>
+      <link>https://www.ft.com/content/ac02d67e-4576-48d9-b50f-69b38294ae67?syn-25a6b1a6=1</link>
+      <description>US Open’s growing popularity plus rising expense of running the tournament mean there is no obvious solution to affordability issues</description>
+      <guid isPermaLink="true">https://www.ft.com/content/ac02d67e-4576-48d9-b50f-69b38294ae67?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 12 Sep 2026 04:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Larry Ellison to sell up to $7.5bn worth of Oracle stock</title>
+      <link>https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1</link>
+      <description>Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI</description>
+      <guid isPermaLink="true">https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 12 Sep 2026 01:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s $5,000 dividend is bad corporate finance</title>
+      <link>https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1</link>
+      <description>US president’s proposed $1.2tn handout fails to make sense in a country lacking excess cash and in need of investment</description>
+      <guid isPermaLink="true">https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 11 Sep 2026 17:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong imprisons Tiananmen vigil organisers</title>
+      <link>https://www.ft.com/content/45ba5468-87fa-4afb-8c35-ff27579109d3?syn-25a6b1a6=1</link>
+      <description>Pro-democracy activists handed jail terms of more than 5 years as authorities snuff out political dissent</description>
+      <guid isPermaLink="true">https://www.ft.com/content/45ba5468-87fa-4afb-8c35-ff27579109d3?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 11 Sep 2026 10:10:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anglo nickel deal tests EU resolve over Chinese control of resources</title>
+      <link>https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1</link>
+      <description>China-backed MMG urges Brussels to approve $500mn transaction as European regulators prepare formal warning</description>
+      <guid isPermaLink="true">https://www.ft.com/content/1dbb63ef-359b-410e-8e86-5cd2df59fc3d?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 11 Sep 2026 09:59:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk’s gas turbines could shake up the backlogged sector</title>
+      <link>https://www.ft.com/content/38e0e6c6-0775-4f05-89e4-c02bbcf7008a?syn-25a6b1a6=1</link>
+      <description>Just the threat of market disruption might help ease bottlenecks, to the extent that it prods manufacturers to expand output</description>
+      <guid isPermaLink="true">https://www.ft.com/content/38e0e6c6-0775-4f05-89e4-c02bbcf7008a?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 11 Sep 2026 04:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>China extends its long legal arm across the world</title>
+      <link>https://www.ft.com/content/87bf1a74-29f1-419e-a0d9-504c1c54b6a6?syn-25a6b1a6=1</link>
+      <description>Growing judicial web threatens multinationals and individuals, even for actions taken outside the country</description>
+      <guid isPermaLink="true">https://www.ft.com/content/87bf1a74-29f1-419e-a0d9-504c1c54b6a6?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 11 Sep 2026 03:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS</title>
+      <link>https://www.ft.com/content/6508d169-35b1-4e56-a29a-57911d9123d8?syn-25a6b1a6=1</link>
+      <description>Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6508d169-35b1-4e56-a29a-57911d9123d8?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 16:35:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is now really the time to worry about a new China shock?</title>
+      <link>https://www.ft.com/content/796f0045-d300-4e22-be82-fa9a111fb634</link>
+      <description>Be careful what you wish for</description>
+      <guid isPermaLink="true">https://www.ft.com/content/796f0045-d300-4e22-be82-fa9a111fb634</guid>
+      <pubDate>Thu, 10 Sep 2026 11:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK banks don’t have a windfall to tax</title>
+      <link>https://www.ft.com/content/718a525e-d6d8-4944-b149-95c57212c168?syn-25a6b1a6=1</link>
+      <description>The so-called big four are in decent shape, but hardly world beaters</description>
+      <guid isPermaLink="true">https://www.ft.com/content/718a525e-d6d8-4944-b149-95c57212c168?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 10:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abu Dhabi buys into China’s Luckin Coffee with $1bn deal</title>
+      <link>https://www.ft.com/content/7f9a5140-e3f5-45a9-9620-08b8e819ba41?syn-25a6b1a6=1</link>
+      <description>Mubadala widens presence in world’s second-largest consumer market</description>
+      <guid isPermaLink="true">https://www.ft.com/content/7f9a5140-e3f5-45a9-9620-08b8e819ba41?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 06:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>The battery price war is playing into CATL’s hands</title>
+      <link>https://www.ft.com/content/29d0d34e-9a21-450d-ab07-f3744437926c?syn-25a6b1a6=1</link>
+      <description>The Chinese battery maker’s cost structure is becoming difficult for rivals to replicate</description>
+      <guid isPermaLink="true">https://www.ft.com/content/29d0d34e-9a21-450d-ab07-f3744437926c?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 04:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>US-China borrowing costs diverge to widest level ever</title>
+      <link>https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1</link>
+      <description>Rising Treasury yields threaten to accelerate shift in capital flows between world’s two largest economies</description>
+      <guid isPermaLink="true">https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 03:54:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>China warns bankers not to flood IPO market</title>
+      <link>https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1</link>
+      <description>Regulators say they want listings to remain priced cheaply amid push to boost investors’ faith in stock markets</description>
+      <guid isPermaLink="true">https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 10 Sep 2026 00:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI labs test the rigour of credit rating agencies</title>
+      <link>https://www.ft.com/content/6842ca4b-1a16-4a76-89b5-098cd288ffc7?syn-25a6b1a6=1</link>
+      <description>AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6842ca4b-1a16-4a76-89b5-098cd288ffc7?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 18:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cost of UK air disruptions spreads far beyond hit to airlines’ profits</title>
+      <link>https://www.ft.com/content/f8f14dfd-2656-4edf-9b29-25e96842db05?syn-25a6b1a6=1</link>
+      <description>Air travel isn’t the only segment of UK infrastructure showing signs of strain</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f8f14dfd-2656-4edf-9b29-25e96842db05?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 15:33:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s giant trade surplus has an increasingly geopolitical twist</title>
+      <link>https://www.ft.com/content/b397ced1-b9bc-4fe6-8dc7-20f0752e2591?syn-25a6b1a6=1</link>
+      <description>Partners are faced with a model that combines export-led growth with tech supremacy</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b397ced1-b9bc-4fe6-8dc7-20f0752e2591?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people</title>
+      <link>https://www.ft.com/content/6525cf15-0cf0-4fff-a3a4-298a41569d97?syn-25a6b1a6=1</link>
+      <description>Brics summit expected to bring China’s leader to India for first time in seven years after cautious diplomacy to put bilateral relations back on track</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6525cf15-0cf0-4fff-a3a4-298a41569d97?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 04:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>The benefits of next-generation peptides will be thinly spread</title>
+      <link>https://www.ft.com/content/d547b293-2dd2-458b-ad29-599f76803e08?syn-25a6b1a6=1</link>
+      <description>One big battleground in the carve-up of market spoils will be branding</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d547b293-2dd2-458b-ad29-599f76803e08?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 04:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investors pay steep fees for access to DeepSeek fundraising</title>
+      <link>https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1</link>
+      <description>New investment round triggers rush of vehicles with escalating fees and five-year lock-ups</description>
+      <guid isPermaLink="true">https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 09 Sep 2026 01:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple looks to AI capabilities to drive its new foldable phone sales</title>
+      <link>https://www.ft.com/content/944fd36f-8f91-4178-b05a-2b961c44e310?syn-25a6b1a6=1</link>
+      <description>Halo effect from new device may also allow Apple to raise prices of its other products</description>
+      <guid isPermaLink="true">https://www.ft.com/content/944fd36f-8f91-4178-b05a-2b961c44e310?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 08 Sep 2026 16:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Will data centres avoid the curse of the mega-project?</title>
+      <link>https://www.ft.com/content/9f2c4755-6425-420c-a061-1a76a6da7c6d?syn-25a6b1a6=1</link>
+      <description>Many things can go awry, from materials shortages, planning delays, labour scarcity and access to power</description>
+      <guid isPermaLink="true">https://www.ft.com/content/9f2c4755-6425-420c-a061-1a76a6da7c6d?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 08 Sep 2026 09:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Japan Inc can brush off interest-rate hikes — and America can’t</title>
+      <link>https://www.ft.com/content/462fddd0-850d-46e0-b2e7-5804d483ab52?syn-25a6b1a6=1</link>
+      <description>Divergent reactions underline the importance of the narrative behind rate rises</description>
+      <guid isPermaLink="true">https://www.ft.com/content/462fddd0-850d-46e0-b2e7-5804d483ab52?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 08 Sep 2026 04:00:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pricey oil is laying the groundwork for its own decline</title>
+      <link>https://www.ft.com/content/f7f164ea-83eb-44d6-93e5-ecec8b2648d9?syn-25a6b1a6=1</link>
+      <description>Crude is helping to make clean technologies more competitive</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f7f164ea-83eb-44d6-93e5-ecec8b2648d9?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 07 Sep 2026 17:17:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why America’s debt binge is starting to matter</title>
+      <link>https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1</link>
+      <description>If long-term interest rates decisively breach the 5% threshold, the impact could derail the AI boom</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tax losses have become a hot property in sports M&amp;A</title>
+      <link>https://www.ft.com/content/4aba032b-f3f4-48c0-8f56-1c7a739e21ae?syn-25a6b1a6=1</link>
+      <description>Should BC Partners win the LIV Golf auction, it will be in possession of tax-offsetting firepower</description>
+      <guid isPermaLink="true">https://www.ft.com/content/4aba032b-f3f4-48c0-8f56-1c7a739e21ae?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 07 Sep 2026 04:00:19 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
