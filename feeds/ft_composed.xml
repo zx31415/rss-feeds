@@ -3,12 +3,19 @@
   <channel>
     <title>Financial Times</title>
     <link>https://zx31415.github.io/rss-feeds/feeds/ft_composed.xml</link>
-    <description>合并FT各栏目RSS 源，去重后统一输出</description>
+    <description>Lex, US Equities &amp; China</description>
     <atom:link href="https://zx31415.github.io/rss-feeds/feeds/ft_composed.xml" rel="self"/>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:26:53 +0000</lastBuildDate>
+    <item>
+      <title>Freewheeling Hong Kong takes cue from China with first five-year plan</title>
+      <link>https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1</link>
+      <description>Financial hub aligns itself closer with Beijing’s state-planning practices</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f082ea1d-112a-4278-aa4a-8783a9077755?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 16 Sep 2026 06:13:47 +0000</pubDate>
+    </item>
     <item>
       <title>‘Buy British’ military procurement is a poor way to defend the realm</title>
       <link>https://www.ft.com/content/3a216d29-6ed0-46a2-9835-2d9b427b7e88?syn-25a6b1a6=1</link>
@@ -350,13 +357,6 @@
       <link>https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1</link>
       <description>If long-term interest rates decisively breach the 5% threshold, the impact could derail the AI boom</description>
       <guid isPermaLink="true">https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 07 Sep 2026 04:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tax losses have become a hot property in sports M&amp;A</title>
-      <link>https://www.ft.com/content/4aba032b-f3f4-48c0-8f56-1c7a739e21ae?syn-25a6b1a6=1</link>
-      <description>Should BC Partners win the LIV Golf auction, it will be in possession of tax-offsetting firepower</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4aba032b-f3f4-48c0-8f56-1c7a739e21ae?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 07 Sep 2026 04:00:19 +0000</pubDate>
     </item>
   </channel>

@@ -3,12 +3,47 @@
   <channel>
     <title>WSJ | World</title>
     <link>https://zx31415.github.io/rss-feeds/feeds/wsj_world_modified.xml</link>
-    <description>WSJ World News RSS modified</description>
+    <description>WSJ World News RSS, without Opinions</description>
     <atom:link href="https://zx31415.github.io/rss-feeds/feeds/wsj_world_modified.xml" rel="self"/>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:26:54 +0000</lastBuildDate>
+    <item>
+      <title>Oil Prices Edge Lower Ahead of Fed Decision</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-ahead-of-fed-decision-aa5afb9c?mod=rss_worldnews</link>
+      <description>Oil prices fell ahead of the Federal Reserve’s interest-rate decision and amid continuing disruptions in the Middle East keeping supply risks elevated.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-ahead-of-fed-decision-aa5afb9c?mod=rss_worldnews</guid>
+      <pubDate>Wed, 16 Sep 2026 12:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eurozone Industrial Production Fell at Start of Third Quarter</title>
+      <link>https://www.wsj.com/world/europe/eurozone-industrial-production-fell-at-start-of-third-quarter-eea9c3bf?mod=rss_worldnews</link>
+      <description>The data highlights the uneven nature of the region’s recovery as manufacturers contend with higher energy costs despite signs of improving demand.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/eurozone-industrial-production-fell-at-start-of-third-quarter-eea9c3bf?mod=rss_worldnews</guid>
+      <pubDate>Wed, 16 Sep 2026 11:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Chief Proposes Making Canada First Associate Member</title>
+      <link>https://www.wsj.com/world/europe/eu-chief-floats-plan-to-make-canada-first-associate-member-da300f13?mod=rss_worldnews</link>
+      <description>European Commission President Ursula von der Leyen’s comments follow a push by Canada’s Mark Carney to accelerate his country’s pivot to the bloc.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/eu-chief-floats-plan-to-make-canada-first-associate-member-da300f13?mod=rss_worldnews</guid>
+      <pubDate>Wed, 16 Sep 2026 11:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Chief Reveals Plans for Curbing Children’s Access to Social Media</title>
+      <link>https://www.wsj.com/world/europe/eu-chief-reveals-plans-for-curbing-childrens-access-to-social-media-99aef329?mod=rss_worldnews</link>
+      <description>The European Commission’s president revealed details of a plan for a new EU-wide law curbing minors’ access to social networks.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/eu-chief-reveals-plans-for-curbing-childrens-access-to-social-media-99aef329?mod=rss_worldnews</guid>
+      <pubDate>Wed, 16 Sep 2026 09:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp</title>
+      <link>https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610?mod=rss_worldnews</link>
+      <description>Piddington, population 350, is up in arms over a proposal to house 1,250 asylum seekers at a former military site.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610?mod=rss_worldnews</guid>
+      <pubDate>Wed, 16 Sep 2026 08:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Probes Cyberattacks on Energy Tankers Bound for American Coast</title>
       <link>https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a?mod=rss_worldnews</link>
@@ -35,13 +70,6 @@
       <link>https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?mod=rss_worldnews</link>
       <description>Internal company materials illustrate an AI-powered effort to make pilfered foreign government documents digestible for police; targets include Russia, Pakistan.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?mod=rss_worldnews</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>This English Village Is Threatening to Quit the U.K. Over Planned Asylum Camp</title>
-      <link>https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610?mod=rss_worldnews</link>
-      <description>Piddington, population 350, is up in arms over a proposal to house 1,250 asylum seekers at a former military site.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/uk/this-english-village-is-threatening-to-quit-the-u-k-over-planned-asylum-camp-cd0d7610?mod=rss_worldnews</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -120,34 +148,6 @@
       <description>A mixed set of data suggests that a K-shaped growth path is becoming further entrenched in the Chinese economy.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/weak-domestic-demand-continues-to-weigh-on-chinese-economic-activity-b8ba09d5?mod=rss_worldnews</guid>
       <pubDate>Tue, 15 Sep 2026 03:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Lightning Offensive That Saw the Houthis Grab a Crucial Oil Corridor</title>
-      <link>https://www.wsj.com/world/middle-east/the-lightning-offensive-that-saw-the-houthis-grab-a-crucial-oil-corridor-f70f0e96?mod=rss_worldnews</link>
-      <description>The Yemeni rebels had sat out the Iran war, until the militant group saw an opening. Now, it has to be reckoned with.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/the-lightning-offensive-that-saw-the-houthis-grab-a-crucial-oil-corridor-f70f0e96?mod=rss_worldnews</guid>
-      <pubDate>Tue, 15 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Driscoll’s Gave China Its Blueberries—Then China Swiped the Secret to Growing Them</title>
-      <link>https://www.wsj.com/business/driscolls-berry-farms-china-competition-b0b49f04?mod=rss_worldnews</link>
-      <description>The California grower’s expansion into China ignited local competition and widespread intellectual-property theft. Private investigators went undercover at nurseries.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/driscolls-berry-farms-china-competition-b0b49f04?mod=rss_worldnews</guid>
-      <pubDate>Tue, 15 Sep 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone</title>
-      <link>https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?mod=rss_worldnews</link>
-      <description>Amazon data centers in the U.A.E. and Bahrain are still offline months after being hit in the Iran war, testing the region’s multibillion-dollar ambitions.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?mod=rss_worldnews</guid>
-      <pubDate>Mon, 14 Sep 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Businessman Financed Donald Trump Jr.’s Wedding Celebrations</title>
-      <link>https://www.wsj.com/world/russia/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-fe993af8?mod=rss_worldnews</link>
-      <description>Umar Kremlev paid for two nights of celebration after the wedding, Donald Trump Jr. and his wife confirmed.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/russian-businessman-financed-donald-trump-jr-s-wedding-celebrations-fe993af8?mod=rss_worldnews</guid>
-      <pubDate>Mon, 14 Sep 2026 18:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
