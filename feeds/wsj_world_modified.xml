@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:25:19 +0000</lastBuildDate>
+    <item>
+      <title>Trump Says Allowing Canada to Become Associate Member of EU Could Be ‘Hostile Act’</title>
+      <link>https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766?mod=rss_worldnews</link>
+      <description>The president threatened to either cut off trade or impose more tariffs on European countries.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766?mod=rss_worldnews</guid>
+      <pubDate>Thu, 17 Sep 2026 00:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>Top Democrat Opposes Trump’s Planned Sale of Heavy Bombs to Israel</title>
       <link>https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Canada is implementing a tax change tied to the accelerated write off of capital equipment that attempts to move the country toward Prime Minister Mark Carney’s goal of attracting nearly $1 trillion of new investment.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/canada-looks-to-lure-investment-with-expensing-change-that-promises-to-give-country-a-tax-edge-d515a518?mod=rss_worldnews</guid>
       <pubDate>Tue, 15 Sep 2026 18:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia’s Shadow Fleet Is Sailing in NATO’s Blind Spot: Irish Waters</title>
-      <link>https://www.wsj.com/world/europe/russias-shadow-fleet-is-sailing-in-natos-blind-spot-irish-waters-4a560ee2?mod=rss_worldnews</link>
-      <description>A growing number of suspected Russian shadow fleet ships regularly ply waters near Ireland that hold many crucial undersea cables.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/russias-shadow-fleet-is-sailing-in-natos-blind-spot-irish-waters-4a560ee2?mod=rss_worldnews</guid>
-      <pubDate>Tue, 15 Sep 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
