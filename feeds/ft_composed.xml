@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:13:32 +0000</lastBuildDate>
+    <item>
+      <title>US regulator opens markets to tokenised stock trading</title>
+      <link>https://www.ft.com/content/b528698e-9b04-4497-9d22-67e401be21d3?syn-25a6b1a6=1</link>
+      <description>Blockchain-based representations of traditional equities can be traded around-the-clock and more easily used as collateral</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b528698e-9b04-4497-9d22-67e401be21d3?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 17 Sep 2026 18:29:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rising rates throw a spanner in investment bankers’ spreadsheets</title>
+      <link>https://www.ft.com/content/0480bd32-41e7-465d-b828-156edae94ecb?syn-25a6b1a6=1</link>
+      <description>When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story</description>
+      <guid isPermaLink="true">https://www.ft.com/content/0480bd32-41e7-465d-b828-156edae94ecb?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 17 Sep 2026 16:39:53 +0000</pubDate>
+    </item>
     <item>
       <title>China’s AI labs must accelerate development, says Huawei chair</title>
       <link>https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1</link>
@@ -344,20 +358,6 @@
       <description>Regulators say they want listings to remain priced cheaply amid push to boost investors’ faith in stock markets</description>
       <guid isPermaLink="true">https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 10 Sep 2026 00:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI labs test the rigour of credit rating agencies</title>
-      <link>https://www.ft.com/content/6842ca4b-1a16-4a76-89b5-098cd288ffc7?syn-25a6b1a6=1</link>
-      <description>AI labs have huge private market valuations, but are seeking the investment-grade score of public groups such as Oracle</description>
-      <guid isPermaLink="true">https://www.ft.com/content/6842ca4b-1a16-4a76-89b5-098cd288ffc7?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 09 Sep 2026 18:02:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cost of UK air disruptions spreads far beyond hit to airlines’ profits</title>
-      <link>https://www.ft.com/content/f8f14dfd-2656-4edf-9b29-25e96842db05?syn-25a6b1a6=1</link>
-      <description>Air travel isn’t the only segment of UK infrastructure showing signs of strain</description>
-      <guid isPermaLink="true">https://www.ft.com/content/f8f14dfd-2656-4edf-9b29-25e96842db05?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 09 Sep 2026 15:33:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
