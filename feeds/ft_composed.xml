@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:24:37 +0000</lastBuildDate>
+    <item>
+      <title>Why Scott Bessent should pay attention to Turkey’s market scandal</title>
+      <link>https://www.ft.com/content/d6adb7bb-72b4-47d1-b3bd-11e908d06b60?syn-25a6b1a6=1</link>
+      <description>It does not take a fraud to cause problems when markets get overstretched</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d6adb7bb-72b4-47d1-b3bd-11e908d06b60?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 18 Sep 2026 13:45:54 +0000</pubDate>
+    </item>
     <item>
       <title>Europe can attract more stock trading with fewer, better markets</title>
       <link>https://www.ft.com/content/fa36c637-05fd-4669-8784-0ada6f671f39?syn-25a6b1a6=1</link>
@@ -351,13 +358,6 @@
       <description>Mubadala widens presence in world’s second-largest consumer market</description>
       <guid isPermaLink="true">https://www.ft.com/content/7f9a5140-e3f5-45a9-9620-08b8e819ba41?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 10 Sep 2026 06:43:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The battery price war is playing into CATL’s hands</title>
-      <link>https://www.ft.com/content/29d0d34e-9a21-450d-ab07-f3744437926c?syn-25a6b1a6=1</link>
-      <description>The Chinese battery maker’s cost structure is becoming difficult for rivals to replicate</description>
-      <guid isPermaLink="true">https://www.ft.com/content/29d0d34e-9a21-450d-ab07-f3744437926c?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 10 Sep 2026 04:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
