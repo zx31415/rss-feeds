@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:21:03 +0000</lastBuildDate>
     <item>
-      <title>Oil Prices Fall for Third Day as Saudi Supply Concerns Ease Slightly</title>
+      <title>Multibillion-Dollar Stock-Market Scandal Roils Erdogan’s Turkey</title>
+      <link>https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_worldnews</link>
+      <description>The implosion of a series of investment funds that held billions of dollars heaped fresh stress on Turkey’s troubled economy.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 16:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Retreat Slows on Saudi Supply Concerns</title>
       <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</link>
-      <description>Oil prices fell for a third day Friday, with WTI crude slipping below $100 a barrel as expectations of restored Saudi pipeline flows eased immediate supply concerns.</description>
+      <description>Oil futures extended declines to a third consecutive session Friday, with market concerns about Saudi Arabia supply disruptions tempered by expectations that some flows could soon be restored through the kingdom’s damaged East-West Pipeline.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 13:38:00 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hundreds of Thousands Rally in Iran as War and Economy Squeeze</title>
+      <link>https://www.wsj.com/world/middle-east/hundreds-of-thousands-rally-in-iran-as-war-and-economy-squeeze-7dadb4d4?mod=rss_worldnews</link>
+      <description>The pro-government push comes as Iran faces economic woes in the U.S. blockade and an anniversary of the 2022 protests.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/hundreds-of-thousands-rally-in-iran-as-war-and-economy-squeeze-7dadb4d4?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 16:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Best High-Yield Savings Accounts for September 2026: Up to 4.50%</title>
@@ -134,20 +148,6 @@
       <description>The president threatened to either cut off trade or impose more tariffs on European countries.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766?mod=rss_worldnews</guid>
       <pubDate>Thu, 17 Sep 2026 00:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Democrat Opposes Trump’s Planned Sale of Heavy Bombs to Israel</title>
-      <link>https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8?mod=rss_worldnews</link>
-      <description>The administration has options to bypass the objection, but the move highlights a sensitive issue ahead of the midterms.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-administration-plans-one-of-largest-u-s-sales-of-heavy-bombs-to-israel-545fccb8?mod=rss_worldnews</guid>
-      <pubDate>Wed, 16 Sep 2026 20:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harold Hamm’s Continental Resources Signs Preliminary Oil Deal in Venezuela</title>
-      <link>https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=rss_worldnews</link>
-      <description>The company, led by one of President Trump’s closest allies in the U.S. oil industry, said it would explore one of Venezuela’s undeveloped oil fields.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/harold-hamms-continental-resources-signs-preliminary-oil-deal-in-venezuela-ff46cfd3?mod=rss_worldnews</guid>
-      <pubDate>Wed, 16 Sep 2026 19:11:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
