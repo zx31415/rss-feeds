@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:36:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:44:14 +0000</lastBuildDate>
+    <item>
+      <title>Trump Says His Son Repaid Russian Businessman Who Funded Wedding Afterparty</title>
+      <link>https://www.wsj.com/politics/trump-says-his-son-repaid-russian-businessman-who-funded-wedding-afterparty-e051c552?mod=rss_worldnews</link>
+      <description>The two-day post-wedding celebrations in the Bahamas were financed by Umar Kremlev, a businessman with ties to Russian President Putin.</description>
+      <guid isPermaLink="true">https://www.wsj.com/politics/trump-says-his-son-repaid-russian-businessman-who-funded-wedding-afterparty-e051c552?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 21:39:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Futures Fall for Third Day on Easing Supply Concerns</title>
       <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>A shuttle service that slips oil through the Strait of Hormuz now looks like the kingdom’s best fallback.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabia-has-another-option-to-get-its-oil-out-7ef2a9da?mod=rss_worldnews</guid>
       <pubDate>Thu, 17 Sep 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall</title>
-      <link>https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe?mod=rss_worldnews</link>
-      <description>While Saudi Arabia and others move goods overland, hundreds of truckers are trapped at Iran’s land borders, threatening its economy.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe?mod=rss_worldnews</guid>
-      <pubDate>Thu, 17 Sep 2026 02:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
