@@ -8,20 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:36:35 +0000</lastBuildDate>
+    <item>
+      <title>Oil Futures Fall for Third Day on Easing Supply Concerns</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</link>
+      <description>Oil futures fell, with market concerns about Saudi Arabia supply disruptions tempered by expectations that some flows could soon be restored through the kingdom’s damaged East-West Pipeline.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 19:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada Ready to Clawback Stellantis Cash Unless Production Resumes at Toronto-Area Factory</title>
+      <link>https://www.wsj.com/business/autos/canada-ready-to-clawback-stellantis-cash-unless-production-resumes-at-toronto-area-factory-1217b3f1?mod=rss_worldnews</link>
+      <description>The plant, in Brampton, Ontario, has been idle since 2024, and Stelantis is in advanced talks to sell that factory to a Canadian armored-car maker.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/autos/canada-ready-to-clawback-stellantis-cash-unless-production-resumes-at-toronto-area-factory-1217b3f1?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 19:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Russia Is Holding an Election When Voters Know the Result</title>
+      <link>https://www.wsj.com/world/russia/why-russia-is-holding-an-election-when-voters-know-the-result-169acf43?mod=rss_worldnews</link>
+      <description>The election is meant to jump-start flagging support for President Vladimir Putin and the war.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/why-russia-is-holding-an-election-when-voters-know-the-result-169acf43?mod=rss_worldnews</guid>
+      <pubDate>Fri, 18 Sep 2026 18:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>Multibillion-Dollar Stock-Market Scandal Roils Erdogan’s Turkey</title>
       <link>https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_worldnews</link>
       <description>The implosion of a series of investment funds that held billions of dollars heaped fresh stress on Turkey’s troubled economy.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/multibillion-dollar-stock-market-scandal-roils-erdogans-turkey-05931e02?mod=rss_worldnews</guid>
       <pubDate>Fri, 18 Sep 2026 16:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Retreat Slows on Saudi Supply Concerns</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</link>
-      <description>Oil futures extended declines to a third consecutive session Friday, with market concerns about Saudi Arabia supply disruptions tempered by expectations that some flows could soon be restored through the kingdom’s damaged East-West Pipeline.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-for-third-day-as-wti-slips-below-100-e533d2fe?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 16:52:00 +0000</pubDate>
     </item>
     <item>
       <title>Hundreds of Thousands Rally in Iran as War and Economy Squeeze</title>
@@ -134,20 +148,6 @@
       <description>While Saudi Arabia and others move goods overland, hundreds of truckers are trapped at Iran’s land borders, threatening its economy.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe?mod=rss_worldnews</guid>
       <pubDate>Thu, 17 Sep 2026 02:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>See How Jet Power Is Giving Russia the Edge in the Drone War</title>
-      <link>https://www.wsj.com/world/see-how-jet-power-is-giving-russia-the-edge-in-the-drone-war-5329dfab?mod=rss_worldnews</link>
-      <description>Jet drones are the latest innovation in robot combat over Ukraine.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/see-how-jet-power-is-giving-russia-the-edge-in-the-drone-war-5329dfab?mod=rss_worldnews</guid>
-      <pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Says Allowing Canada to Become Associate Member of EU Could Be ‘Hostile Act’</title>
-      <link>https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766?mod=rss_worldnews</link>
-      <description>The president threatened to either cut off trade or impose more tariffs on European countries.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/trump-says-allowing-canada-to-become-associate-member-of-eu-could-be-hostile-act-c6a02766?mod=rss_worldnews</guid>
-      <pubDate>Thu, 17 Sep 2026 00:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
