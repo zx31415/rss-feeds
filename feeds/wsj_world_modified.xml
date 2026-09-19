@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 20:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:29:29 +0000</lastBuildDate>
+    <item>
+      <title>Refineries Are Now the Main Chokepoint for Global Energy Supplies</title>
+      <link>https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_worldnews</link>
+      <description>The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_worldnews</guid>
+      <pubDate>Sat, 19 Sep 2026 20:53:00 +0000</pubDate>
+    </item>
     <item>
       <title>Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport</title>
       <link>https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c?mod=rss_worldnews</link>
       <description>The assault comes as the kingdom has been targeted by Yemen’s Houthi rebels and by drones from Iraq.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c?mod=rss_worldnews</guid>
-      <pubDate>Sat, 19 Sep 2026 18:27:00 +0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 20:38:00 +0000</pubDate>
     </item>
     <item>
       <title>German General Wins Top NATO Role—and a Platform to Warn About Russia</title>
@@ -141,13 +148,6 @@
       <description>American dialogue has centered on protecting humanity from the technology, while Beijing is chiefly concerned with safeguarding the Communist Party.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/u-s-and-china-agree-ai-needs-guardrails-their-ideas-are-very-different-845415ff?mod=rss_worldnews</guid>
       <pubDate>Fri, 18 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stellantis Could Face Strike Threat in Canada Over Factory Sale</title>
-      <link>https://www.wsj.com/business/autos/stellantis-could-face-strike-threat-in-canada-over-factory-sale-1cdd72e4?mod=rss_worldnews</link>
-      <description>The union representing more than 9,000 Stellantis employees in Canada said it could be in a strike position in the coming weeks unless the carmaker changes course on its plan to sell a Toronto-area factory to a defense firm.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/autos/stellantis-could-face-strike-threat-in-canada-over-factory-sale-1cdd72e4?mod=rss_worldnews</guid>
-      <pubDate>Thu, 17 Sep 2026 20:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
