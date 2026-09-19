@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 14:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:56:59 +0000</lastBuildDate>
+    <item>
+      <title>German General Wins Top NATO Role—and a Platform to Warn About Russia</title>
+      <link>https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5?mod=rss_worldnews</link>
+      <description>Carsten Breuer, an advocate of strong European defense against Russia, will become the alliance’s highest military official.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/german-general-wins-top-nato-roleand-a-platform-to-warn-about-russia-fecf91c5?mod=rss_worldnews</guid>
+      <pubDate>Sat, 19 Sep 2026 16:31:00 +0000</pubDate>
+    </item>
     <item>
       <title>Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital</title>
       <link>https://www.wsj.com/world/middle-east/air-attack-sets-fuel-depot-ablaze-at-airport-in-saudi-capital-8bcc439c?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The union representing more than 9,000 Stellantis employees in Canada said it could be in a strike position in the coming weeks unless the carmaker changes course on its plan to sell a Toronto-area factory to a defense firm.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/autos/stellantis-could-face-strike-threat-in-canada-over-factory-sale-1cdd72e4?mod=rss_worldnews</guid>
       <pubDate>Thu, 17 Sep 2026 20:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crude Oil Futures Post Back-to Back Losses</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-slip-after-feds-first-rate-hike-in-three-years-4efe3854?mod=rss_worldnews</link>
-      <description>Oil prices fell amid expectations that Saudi Arabia could soon restore some oil flows through its damaged East-West pipeline while shipping crude through the Strait of Hormuz.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-slip-after-feds-first-rate-hike-in-three-years-4efe3854?mod=rss_worldnews</guid>
-      <pubDate>Thu, 17 Sep 2026 19:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
