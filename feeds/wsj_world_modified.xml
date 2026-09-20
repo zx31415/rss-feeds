@@ -8,11 +8,18 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 18:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 21:28:41 +0000</lastBuildDate>
     <item>
-      <title>Trump Administration Prepares to Sanction the International Criminal Court</title>
+      <title>Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island</title>
+      <link>https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960?mod=rss_worldnews</link>
+      <description>The agreement doesn’t deliver the control he wanted, but it raises hopes of more investment and less local stigma around working with America.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960?mod=rss_worldnews</guid>
+      <pubDate>Sun, 20 Sep 2026 21:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Ramps Up Bid to Dismantle International Criminal Court</title>
       <link>https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c?mod=rss_worldnews</link>
-      <description>The move would ramp up the Trump administration’s attack on the court, cutting it off from much of the global financial system.</description>
+      <description>The U.S. administration is preparing sweeping sanctions that would cut the court off from much of the global financial system.</description>
       <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-administration-prepares-to-sanction-the-international-criminal-court-85f5f44c?mod=rss_worldnews</guid>
       <pubDate>Sun, 20 Sep 2026 18:30:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>The yen weakened as two members of the bank’s board suggested future rate rises might come more slowly than anticipated.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/central-banking/bank-of-japan-raises-benchmark-interest-rate-to-1-25-highest-level-since-1995-2b28cbe9?mod=rss_worldnews</guid>
       <pubDate>Fri, 18 Sep 2026 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malaysia’s Former Prime Minister Can Serve Rest of 1MDB Sentence Under House Arrest</title>
-      <link>https://www.wsj.com/world/africa/malaysias-former-prime-minister-can-serve-rest-of-1mdb-sentence-under-house-arrest-21d28a26?mod=rss_worldnews</link>
-      <description>The royal pardon for Najib Razak marks the latest chapter in one of the largest financial crimes of the century.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/africa/malaysias-former-prime-minister-can-serve-rest-of-1mdb-sentence-under-house-arrest-21d28a26?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 06:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
