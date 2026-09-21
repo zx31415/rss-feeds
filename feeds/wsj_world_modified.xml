@@ -8,9 +8,30 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 21 Sep 2026 19:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:37:42 +0000</lastBuildDate>
     <item>
-      <title>Trump Administration Proposes $5 Billion to Kickstart Investment Fund to Rebuild Gulf Energy Sites</title>
+      <title>Canada to Enshrine Expedited Project Reviews With Legislation</title>
+      <link>https://www.wsj.com/world/americas/canada-to-enshrine-expedited-project-reviews-with-legislation-8d7048d6?mod=rss_worldnews</link>
+      <description>The legislation also attempts to minimize labor disruptions in key trade-focused parts of the economy like railways and ports.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/canada-to-enshrine-expedited-project-reviews-with-legislation-8d7048d6?mod=rss_worldnews</guid>
+      <pubDate>Mon, 21 Sep 2026 21:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>British Columbia Sues OpenAI, Alleging ChatGPT Aided Mass School Shooting</title>
+      <link>https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_worldnews</link>
+      <description>The lawsuit alleges that the AI company failed to notify law enforcement and calls out product safety gaps.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568?mod=rss_worldnews</guid>
+      <pubDate>Mon, 21 Sep 2026 21:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Fall for Fourth Day as Supply Concerns Ease</title>
+      <link>https://www.wsj.com/world/middle-east/oil-prices-fall-for-fourth-day-as-supply-concerns-ease-f2583983?mod=rss_worldnews</link>
+      <description>Improving flows through the Strait of Hormuz and prospects for renewed diplomacy over the Iran conflict eased immediate supply concerns.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-fall-for-fourth-day-as-supply-concerns-ease-f2583983?mod=rss_worldnews</guid>
+      <pubDate>Mon, 21 Sep 2026 20:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Proposes $5 Billion to Kickstart Fund to Rebuild Gulf Energy Sites</title>
       <link>https://www.wsj.com/world/middle-east/trump-administration-proposes-5-billion-to-kickstart-investment-fund-to-rebuild-gulf-energy-sites-5b75cadf?mod=rss_worldnews</link>
       <description>The proposal is under discussion with several Middle Eastern countries including Saudi Arabia and U.A.E.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-administration-proposes-5-billion-to-kickstart-investment-fund-to-rebuild-gulf-energy-sites-5b75cadf?mod=rss_worldnews</guid>
@@ -36,13 +57,6 @@
       <description>These are the accounts that offer the best interest rates—without burdensome fees, gimmicks or other hassles</description>
       <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
       <pubDate>Mon, 21 Sep 2026 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices Fall for Fourth Day as Supply Concerns Ease</title>
-      <link>https://www.wsj.com/world/middle-east/oil-prices-fall-for-fourth-day-as-supply-concerns-ease-f2583983?mod=rss_worldnews</link>
-      <description>Improving flows through the Strait of Hormuz and prospects for renewed diplomacy over the Iran conflict eased immediate supply concerns.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-fall-for-fourth-day-as-supply-concerns-ease-f2583983?mod=rss_worldnews</guid>
-      <pubDate>Mon, 21 Sep 2026 12:40:00 +0000</pubDate>
     </item>
     <item>
       <title>How Harley-Davidson, an American Icon, Became a Tariff Punching Bag</title>
@@ -134,20 +148,6 @@
       <description>The deal, which will enhance American military presence on the Arctic island, falls short of the president’s stated takeover ambitions.</description>
       <guid isPermaLink="true">https://www.wsj.com/politics/national-security/trump-says-u-s-has-reached-greenland-security-agreement-with-denmark-61a7ffcd?mod=rss_worldnews</guid>
       <pubDate>Fri, 18 Sep 2026 23:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi Jinping Skipped One Dinner—and Sparked a Flurry of Questions About His Health</title>
-      <link>https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</link>
-      <description>The Chinese leader felt unwell at the recent Brics event in India, reviving worries over who would succeed him.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/xi-jinping-skipped-one-dinnerand-sparked-a-flurry-of-questions-about-his-health-348b55b7?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump Jr. Repaid Russian Businessman Who Funded Wedding Afterparty, President Says</title>
-      <link>https://www.wsj.com/politics/trump-says-his-son-repaid-russian-businessman-who-funded-wedding-afterparty-e051c552?mod=rss_worldnews</link>
-      <description>The two-day post-wedding celebrations in the Bahamas were financed by Umar Kremlev, a businessman with ties to Russian President Putin.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/trump-says-his-son-repaid-russian-businessman-who-funded-wedding-afterparty-e051c552?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 21:39:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
