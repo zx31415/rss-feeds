@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 21:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:10:16 +0000</lastBuildDate>
+    <item>
+      <title>A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High</title>
+      <link>https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a?mod=rss_worldnews</link>
+      <description>Record shipping rates through the Strait of Hormuz could offset falling crude prices.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a?mod=rss_worldnews</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump’s Greenland Deal Eases Way for U.S. Business on Arctic Island</title>
       <link>https://www.wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Russia also placed the local businesses of French retailers Auchan and Leroy Merlin under temporary external administration, according to a presidential decree.</description>
       <guid isPermaLink="true">https://www.wsj.com/articles/nestle-weighs-options-for-russia-unit-after-moscow-puts-it-under-administration-221402de?mod=rss_worldnews</guid>
       <pubDate>Fri, 18 Sep 2026 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of Japan Raises Rates, Making U.S. Less Alluring for Tokyo Investors</title>
-      <link>https://www.wsj.com/economy/central-banking/bank-of-japan-raises-benchmark-interest-rate-to-1-25-highest-level-since-1995-2b28cbe9?mod=rss_worldnews</link>
-      <description>The yen weakened as two members of the bank’s board suggested future rate rises might come more slowly than anticipated.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/central-banking/bank-of-japan-raises-benchmark-interest-rate-to-1-25-highest-level-since-1995-2b28cbe9?mod=rss_worldnews</guid>
-      <pubDate>Fri, 18 Sep 2026 08:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
