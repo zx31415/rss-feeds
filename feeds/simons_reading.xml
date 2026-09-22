@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:18:09 +0000</lastBuildDate>
+    <item>
+      <title>Baby Girls’ Greater Interest in Faces Offers Clue to Nature v Nurture Debate, The Guardian</title>
+      <link>https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture</link>
+      <description>Study finds overall differences between groups of newborns by sex that are likely to be determined by biology</description>
+      <guid isPermaLink="true">https://www.theguardian.com/science/2026/sep/21/baby-girls-boys-interest-faces-nature-nurture</guid>
+      <pubDate>Tue, 22 Sep 2026 22:18:09 +0000</pubDate>
+    </item>
     <item>
       <title>Scientists Observe Einstein’s Gravity in the Quantum World, University of Oxford</title>
       <link>https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world</link>
@@ -71,13 +78,6 @@
       <description>One of the most transformational projects in New York higher education is Empire AI, a first-in-the-nation consortium of public and private research universities to advance artificial intelligence research in the state.</description>
       <guid isPermaLink="true">https://www.cityandstateny.com/personality/2026/05/empire-ai-already-making-rapid-progress-drug-discovery/413806/</guid>
       <pubDate>Sun, 06 Sep 2026 12:34:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early Eukaryotes Used Oxygen at the Seafloor, The Scientist</title>
-      <link>https://www.the-scientist.com/early-eukaryotes-used-oxygen-at-the-seafloor-74502</link>
-      <description>Combining fossil and geochemical analysis, researchers showed that eukaryotic cells were already complex and aerobic 1.7 billion years ago, pushing back the dawn of eukaryogenesis.</description>
-      <guid isPermaLink="true">https://www.the-scientist.com/early-eukaryotes-used-oxygen-at-the-seafloor-74502</guid>
-      <pubDate>Sun, 06 Sep 2026 12:34:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
