@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:47:53 +0000</lastBuildDate>
+    <item>
+      <title>Paramount wins over US states — but can it win over the bond market?</title>
+      <link>https://www.ft.com/content/a2d22720-60bc-45aa-8fdc-98863df5261e?syn-25a6b1a6=1</link>
+      <description>The Hollywood studio will emerge from the WBD acquisition with net debt of about $80bn</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a2d22720-60bc-45aa-8fdc-98863df5261e?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 22 Sep 2026 14:12:26 +0000</pubDate>
+    </item>
     <item>
       <title>China spends record amount importing over 1,000 tonnes of gold this year</title>
       <link>https://www.ft.com/content/ed38995e-c7be-4703-9775-eb384a037ce3?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Kingdom’s central bank withdrew from programme which is part of Beijing’s effort to develop an alternative system to the dollar</description>
       <guid isPermaLink="true">https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1</guid>
       <pubDate>Sun, 20 Sep 2026 04:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Housebuilders aren’t the only ones who benefit from ‘Help to Buy’</title>
-      <link>https://www.ft.com/content/64ee1dec-7b98-40b1-8f50-5fa6bb760cfd?syn-25a6b1a6=1</link>
-      <description>A new equity loan scheme could help people get on the property ladder, though the government might struggle to afford it</description>
-      <guid isPermaLink="true">https://www.ft.com/content/64ee1dec-7b98-40b1-8f50-5fa6bb760cfd?syn-25a6b1a6=1</guid>
-      <pubDate>Sat, 19 Sep 2026 04:00:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
