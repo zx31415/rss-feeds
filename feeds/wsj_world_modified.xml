@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:22:01 +0000</lastBuildDate>
+    <item>
+      <title>The Group Chat Where World Leaders Are Racing to Create AI Controls</title>
+      <link>https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?mod=rss_worldnews</link>
+      <description>An island meeting and texts between the leaders of Canada, France and Norway reveal an emerging alliance: “We’re in.”</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 21:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Invites Putin to G-20 Summit at Trump Resort in Florida</title>
+      <link>https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</link>
+      <description>President Trump and Russian leader Vladimir Putin haven’t met in person since the Alaska summit in August 2025.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s Carney Open to U.S. Trade Deal but Won’t Give Up Right to Deepen EU Ties</title>
+      <link>https://www.wsj.com/world/europe/canadas-carney-open-to-u-s-trade-deal-but-wont-give-up-right-to-deepen-eu-ties-9b08a792?mod=rss_worldnews</link>
+      <description>In a WSJ interview, the Canadian Prime Minister said like-minded countries must work together to ensure sovereignty.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/canadas-carney-open-to-u-s-trade-deal-but-wont-give-up-right-to-deepen-eu-ties-9b08a792?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 20:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Putin Casts Election Result as an Endorsement of His War</title>
       <link>https://www.wsj.com/world/russia/putin-casts-vote-result-as-an-endorsement-of-his-war-50d62d1c?mod=rss_worldnews</link>
@@ -22,13 +43,6 @@
       <description>Oil prices rose as investors weighed the prospect of improved Saudi export flows and U.S.-Iran diplomacy against the potential for further disruptions.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c?mod=rss_worldnews</guid>
       <pubDate>Wed, 23 Sep 2026 19:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Invites Putin to G-20 Summit at Trump Resort in Florida</title>
-      <link>https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</link>
-      <description>President Trump and Russian leader Vladimir Putin haven’t met in person since the Alaska summit in August 2025.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 18:29:00 +0000</pubDate>
     </item>
     <item>
       <title>Iran’s President Says Open to Talks but Won’t Bow to U.S.</title>
@@ -134,20 +148,6 @@
       <description>U.S. threats of secondary sanctions against airports see routes closed off for Iranian carriers.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/squeezed-at-sea-iran-faces-new-restrictions-on-its-flights-1e1af416?mod=rss_worldnews</guid>
       <pubDate>Tue, 22 Sep 2026 20:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices Fall on U.S.-Iran Diplomacy Hopes</title>
-      <link>https://www.wsj.com/world/middle-east/oil-prices-rise-as-hormuz-shipping-risks-persist-363fbeb1?mod=rss_worldnews</link>
-      <description>Oil prices moved lower after Japan’s Kyodo News Agency reported that Iran proposed to reopen the Strait of Hormuz if the U.S. lifts its blockade.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-rise-as-hormuz-shipping-risks-persist-363fbeb1?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 19:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s What Trump’s Greenland Deal Means for the U.S.</title>
-      <link>https://www.wsj.com/world/heres-what-trumps-greenland-deal-means-for-the-u-s-16c26745?mod=rss_worldnews</link>
-      <description>The agreement will clear the way for an expanded U.S. military presence on the Arctic island.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/heres-what-trumps-greenland-deal-means-for-the-u-s-16c26745?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 18:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

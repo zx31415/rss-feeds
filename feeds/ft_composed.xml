@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:22:01 +0000</lastBuildDate>
+    <item>
+      <title>Xi Jinping arrives for high-stakes summit with Donald Trump</title>
+      <link>https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1</link>
+      <description>Gathering comes less than two months before expiry of US-China trade truce</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 23 Sep 2026 20:51:16 +0000</pubDate>
+    </item>
     <item>
       <title>How besieged billionaires are turning the tables on litigious shareholders</title>
       <link>https://www.ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Scale, supply chains and drive for self-sufficiency push country to cutting edge of atomic technology</description>
       <guid isPermaLink="true">https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 22 Sep 2026 02:24:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>FirstFT: Kremlin-backed forgery operation moved $6.9bn through global banks</title>
-      <link>https://www.ft.com/content/b77f3320-6ff0-4be6-a480-a755c754f7d8?syn-25a6b1a6=1</link>
-      <description>Also in today’s newsletter: China accuses ousted top generals of ‘disloyalty’ and SoftBank launches one of biggest junk bond deals</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b77f3320-6ff0-4be6-a480-a755c754f7d8?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 21 Sep 2026 21:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
