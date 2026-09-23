@@ -8,13 +8,55 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:48:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:14:13 +0000</lastBuildDate>
+    <item>
+      <title>Putin Casts Election Result as an Endorsement of His War</title>
+      <link>https://www.wsj.com/world/russia/putin-casts-vote-result-as-an-endorsement-of-his-war-50d62d1c?mod=rss_worldnews</link>
+      <description>The Russian leader called on Russia’s military to step up its advance in Ukraine after a successful result for his ruling party.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/putin-casts-vote-result-as-an-endorsement-of-his-war-50d62d1c?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 19:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Rebound Amid Persistent Middle East Supply Risks</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c?mod=rss_worldnews</link>
+      <description>Oil prices rose as investors weighed the prospect of improved Saudi export flows and U.S.-Iran diplomacy against the potential for further disruptions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-mixed-as-traders-weigh-u-s-iran-talks-saudi-pipeline-progress-3b33f75c?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 19:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Invites Putin to G-20 Summit at Trump Resort in Florida</title>
+      <link>https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</link>
+      <description>President Trump and Russian leader Vladimir Putin haven’t met in person since the Alaska summit in August 2025.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/putin-invited-to-g-20-summit-at-trumps-florida-resort-rubio-says-3a0344f9?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 18:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran’s President Says Open to Talks but Won’t Bow to U.S.</title>
       <link>https://www.wsj.com/world/middle-east/irans-president-says-open-to-talks-but-wont-bow-to-u-s-35f44f25?mod=rss_worldnews</link>
-      <description>Masoud Pezeshkian told the U.N. General Assembly that Tehran won’t surrender its nuclear program, accusing the U.S. and Israel of bullying the region.</description>
+      <description>Masoud Pezeshkian spoke at the U.N. a day after U.S. and Iranian officials held indirect talks and hours after a deadly attack on a commercial ship in the Strait of Hormuz.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/irans-president-says-open-to-talks-but-wont-bow-to-u-s-35f44f25?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 15:24:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 18:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With Putin, Trump’s G-20 Would Be Summit Spectacle of the Century</title>
+      <link>https://www.wsj.com/politics/policy/with-putin-trumps-g-20-would-be-summit-spectacle-of-the-century-55fd575c?mod=rss_worldnews</link>
+      <description>Trump has long been obsessed with bringing the Russian leader to global summits despite objections from—well—nearly everyone else.</description>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/with-putin-trumps-g-20-would-be-summit-spectacle-of-the-century-55fd575c?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 17:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
+      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
+      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 17:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Limits</title>
+      <link>https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2?mod=rss_worldnews</link>
+      <description>American oil companies are fiercely opposed to the president’s nascent plan to curb exports of diesel, but vulnerable Republicans are putting pressure on him.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2?mod=rss_worldnews</guid>
+      <pubDate>Wed, 23 Sep 2026 16:59:00 +0000</pubDate>
     </item>
     <item>
       <title>Canada’s Population Growth Continues to Slow, Hits Estimated 41.8 Million</title>
@@ -45,25 +87,11 @@
       <pubDate>Wed, 23 Sep 2026 11:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Ban</title>
-      <link>https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2?mod=rss_worldnews</link>
-      <description>American oil companies are fiercely opposed to the president’s nascent plan to ban exports of diesel, but vulnerable Republicans are putting pressure on him.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/trumps-oil-allies-see-nightmare-scenario-of-diesel-export-ban-becoming-reality-16973ae2?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AI Cycle Set to Offset Energy Hit for Asia Economies</title>
       <link>https://www.wsj.com/economy/ai-cycle-set-to-offset-energy-hit-for-asia-economies-b9257568?mod=rss_worldnews</link>
       <description>S&amp;P raised its baseline projection for Asia’s 2026 gross domestic product growth to 4.6%, but noted that projections for strong growth this year and next don’t mask the challenges.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/ai-cycle-set-to-offset-energy-hit-for-asia-economies-b9257568?mod=rss_worldnews</guid>
       <pubDate>Wed, 23 Sep 2026 06:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Behind-the-Scenes Push to Get Xi a Red Carpet Welcome in America</title>
-      <link>https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</link>
-      <description>The two sides have spent weeks discussing the trappings of the Chinese leader’s Washington visit, while leaving the biggest sources of tension largely untouched.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/trump-xi-meeting-china-image-df83c33f?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label</title>
@@ -120,34 +148,6 @@
       <description>The agreement will clear the way for an expanded U.S. military presence on the Arctic island.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/heres-what-trumps-greenland-deal-means-for-the-u-s-16c26745?mod=rss_worldnews</guid>
       <pubDate>Tue, 22 Sep 2026 18:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Takeaways From Trump’s U.N. Speech</title>
-      <link>https://www.wsj.com/world/five-takeaways-from-trumps-speech-to-the-united-nations-4f0ba7da?mod=rss_worldnews</link>
-      <description>The president used the gathering of world leaders to deliver a campaign-style speech, declaring a “Golden Age of America.”</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/five-takeaways-from-trumps-speech-to-the-united-nations-4f0ba7da?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 16:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Summit With Xi Unlikely to Include Chinese CEOs</title>
-      <link>https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?mod=rss_worldnews</link>
-      <description>The likely absence of a Chinese corporate delegation highlights the low expectations for significant business results from the meeting.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 15:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Is Saudi Arabia’s East-West Pipeline and Why Is It Rocking Oil Markets?</title>
-      <link>https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=rss_worldnews</link>
-      <description>The pipeline, which was knocked out by attacks earlier this month, is now being tested and could resume flows within days.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/what-is-saudi-arabias-east-west-pipeline-and-why-is-it-rocking-oil-markets-3e9823a3?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia Spent Months Trying to Bypass Hormuz. For Now, There’s No Way Around It.</title>
-      <link>https://www.wsj.com/world/middle-east/saudi-arabia-strait-of-hormuz-57e8fcb4?mod=rss_worldnews</link>
-      <description>With its Red Sea bypass route disrupted by attacks from Yemen and Iraq, the world’s oil kingpin is returning to the waterway it was trying to avoid in the first place.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabia-strait-of-hormuz-57e8fcb4?mod=rss_worldnews</guid>
-      <pubDate>Tue, 22 Sep 2026 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
