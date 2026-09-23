@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 22:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:22:24 +0000</lastBuildDate>
+    <item>
+      <title>Why EU companies are now helping Chinese ones expand into Europe</title>
+      <link>https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1</link>
+      <description>Many multinationals seem to be adopting an approach of ‘if you can’t beat them, join them’</description>
+      <guid isPermaLink="true">https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 22 Sep 2026 23:01:06 +0000</pubDate>
+    </item>
     <item>
       <title>Nasdaq 100 rises to new high as ‘AI Fomo’ returns</title>
       <link>https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Comments from Chinese company come ahead of President Xi Jinping’s visit to Washington</description>
       <guid isPermaLink="true">https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1</guid>
       <pubDate>Sun, 20 Sep 2026 11:58:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cinema revival takes the big screen and makes it enormous</title>
-      <link>https://www.ft.com/content/21e6015b-a440-44b4-925f-ed268ea74b1c?syn-25a6b1a6=1</link>
-      <description>Film-goers are attending less often but spending more, splashing out on plush seats, elaborate cocktails and premium screens</description>
-      <guid isPermaLink="true">https://www.ft.com/content/21e6015b-a440-44b4-925f-ed268ea74b1c?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 20 Sep 2026 04:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
