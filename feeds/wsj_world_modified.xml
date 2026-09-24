@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Sep 2026 04:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:54:37 +0000</lastBuildDate>
+    <item>
+      <title>European Gas Prices Rise as Storage Levels Worry Market</title>
+      <link>https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-storage-levels-worry-market-2ac6836d?mod=rss_worldnews</link>
+      <description>European natural-gas prices rose in early trading as market focus remained on storage levels ahead of the winter heating season.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-storage-levels-worry-market-2ac6836d?mod=rss_worldnews</guid>
+      <pubDate>Thu, 24 Sep 2026 08:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Fall on Optimism Around U.S.-Iran Diplomacy, Saudi Pipeline Restart</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-on-optimism-around-u-s-iran-diplomacy-saudi-pipeline-restart-523fe9d3?mod=rss_worldnews</link>
+      <description>U.S. Secretary of State Marco Rubio said Wednesday that Saudi Arabia had restarted its East-West pipeline, restoring the route for crude exports that bypasses Hormuz.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-on-optimism-around-u-s-iran-diplomacy-saudi-pipeline-restart-523fe9d3?mod=rss_worldnews</guid>
+      <pubDate>Thu, 24 Sep 2026 07:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s Economy Hampered by Black Sea, Energy Disruptions, Says EBRD</title>
+      <link>https://www.wsj.com/world/europe/ukraines-economy-hampered-by-black-sea-energy-disruptions-says-ebrd-e2baedde?mod=rss_worldnews</link>
+      <description>An agreement with Russia to halt attacks on energy infrastructure and the restoration of grain exports through the Black Sea, would boost Ukraine’s economy, the European Bank for Reconstruction and Development said.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraines-economy-hampered-by-black-sea-energy-disruptions-says-ebrd-e2baedde?mod=rss_worldnews</guid>
+      <pubDate>Thu, 24 Sep 2026 05:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran Has a Secret Weapon in Its War With America: Help From China</title>
       <link>https://www.wsj.com/politics/china-iran-aid-xi-trump-summit-e6541ae8?mod=rss_worldnews</link>
@@ -127,27 +148,6 @@
       <description>Plus: DoorDash to pay $131.5 million over minimum-pay law compliance and Trump weighs diesel export ban</description>
       <guid isPermaLink="true">https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-squeezed-at-sea-iran-faces-new-restrictions-on-its-flights-6c01c7b4?mod=rss_worldnews</guid>
       <pubDate>Wed, 23 Sep 2026 11:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI Cycle Set to Offset Energy Hit for Asia Economies</title>
-      <link>https://www.wsj.com/economy/ai-cycle-set-to-offset-energy-hit-for-asia-economies-b9257568?mod=rss_worldnews</link>
-      <description>S&amp;P raised its baseline projection for Asia’s 2026 gross domestic product growth to 4.6%, but noted that projections for strong growth this year and next don’t mask the challenges.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/ai-cycle-set-to-offset-energy-hit-for-asia-economies-b9257568?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 06:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan’s Leader Calls on U.N. to Drop ‘Enemy State’ Label</title>
-      <link>https://www.wsj.com/world/asia/japans-leader-calls-on-u-n-to-drop-enemy-state-label-7da04175?mod=rss_worldnews</link>
-      <description>China has used language in the United Nations charter to attack Japan as part of a broad pressure campaign that Tokyo wants Washington to help bring to an end.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/japans-leader-calls-on-u-n-to-drop-enemy-state-label-7da04175?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 02:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Threatens to Annihilate Iran as He Lays Out Foreign-Policy Vision at U.N.</title>
-      <link>https://www.wsj.com/politics/policy/trump-tells-u-n-he-is-confronting-world-threats-and-putting-america-first-5fe48626?mod=rss_worldnews</link>
-      <description>President Trump labeled himself a man of peace while threatening to “annihilate” Iran and wield American power against other nations.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-tells-u-n-he-is-confronting-world-threats-and-putting-america-first-5fe48626?mod=rss_worldnews</guid>
-      <pubDate>Wed, 23 Sep 2026 02:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
