@@ -8,11 +8,32 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:37:00 +0000</lastBuildDate>
     <item>
-      <title>Xi arrives for high-stakes summit with Trump</title>
+      <title>Airtel Money IPO signals a route back for London’s market</title>
+      <link>https://www.ft.com/content/cf60deee-553d-4232-83b6-966b539fa6b9?syn-25a6b1a6=1</link>
+      <description>What starts as a niche investment can attract more mainstream sector analysts and investors</description>
+      <guid isPermaLink="true">https://www.ft.com/content/cf60deee-553d-4232-83b6-966b539fa6b9?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 24 Sep 2026 04:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>China tries on the smart glasses craze — and its privacy risks</title>
+      <link>https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1</link>
+      <description>Processing more camera data directly on the device can reduce risks but it raises component costs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a2947a3c-173a-4ec3-bac6-7467f852acce?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 24 Sep 2026 04:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK and Germany among economies most exposed to China</title>
+      <link>https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1</link>
+      <description>Study finds Europe’s efforts to reduce reliance on Chinese investment, trade and other links have produced only ‘modest’ results</description>
+      <guid isPermaLink="true">https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 24 Sep 2026 04:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>US and China extend trade truce as Trump welcomes Xi</title>
       <link>https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1</link>
-      <description>Gathering in Washington comes as Treasury secretary Scott Bessent says the countries have agreed to extend their trade war truce</description>
+      <description>Treasury secretary Scott Bessent says the countries have agreed to extension until January 10</description>
       <guid isPermaLink="true">https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 23 Sep 2026 23:04:18 +0000</pubDate>
     </item>
@@ -127,27 +148,6 @@
       <description>Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says</description>
       <guid isPermaLink="true">https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 22 Sep 2026 04:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Xi wants from his summit with Trump</title>
-      <link>https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1</link>
-      <description>Chinese leader’s most urgent goal is extending trade truce with US, but he is also expected to discuss Taiwan, Iran and AI</description>
-      <guid isPermaLink="true">https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany’s economic recovery is under way if politics doesn’t spoil it</title>
-      <link>https://www.ft.com/content/b891fa54-b901-45fe-a78d-1161424c0da9?syn-25a6b1a6=1</link>
-      <description>Frugal Germany would appear to have the fiscal headroom to try and spend its way out of the impasse</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b891fa54-b901-45fe-a78d-1161424c0da9?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI energy demand accelerates China’s quest for nuclear fusion</title>
-      <link>https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1</link>
-      <description>Scale, supply chains and drive for self-sufficiency push country to cutting edge of atomic technology</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 22 Sep 2026 02:24:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
