@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:30:37 +0000</lastBuildDate>
+    <item>
+      <title>The case for talking to China is not a case for détente</title>
+      <link>https://www.ft.com/content/08b4cf3d-3418-4159-b641-533fdb305d3e</link>
+      <description>Summits, like this week’s between Trump and Xi, are never cost-free</description>
+      <guid isPermaLink="true">https://www.ft.com/content/08b4cf3d-3418-4159-b641-533fdb305d3e</guid>
+      <pubDate>Fri, 25 Sep 2026 16:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lawyers join microchips on the list of data centre must-haves</title>
+      <link>https://www.ft.com/content/07a246f8-d81d-4b43-9aa3-16153fc0fac9?syn-25a6b1a6=1</link>
+      <description>The Oracle dispute suggests there is another risk investors may have overlooked</description>
+      <guid isPermaLink="true">https://www.ft.com/content/07a246f8-d81d-4b43-9aa3-16153fc0fac9?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 25 Sep 2026 13:46:21 +0000</pubDate>
+    </item>
     <item>
       <title>Xi says US and China must ‘coexist in peace’</title>
       <link>https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Volvo Cars and Lotus owner is among Chinese carmakers seeking to reduce dependence on market leader CATL</description>
       <guid isPermaLink="true">https://www.ft.com/content/8d8e774d-7559-4fcf-a435-13cad11f57e1?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Has Trump caged his China hawks?</title>
-      <link>https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1</link>
-      <description>Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente</description>
-      <guid isPermaLink="true">https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 23 Sep 2026 04:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private equity has a new kind of SaaS: swimming as a service</title>
-      <link>https://www.ft.com/content/f6962aaf-417f-4722-8316-0a0049af55aa?syn-25a6b1a6=1</link>
-      <description>There are north of 10mn installed pools in the US and they all need regular cleaning and repair</description>
-      <guid isPermaLink="true">https://www.ft.com/content/f6962aaf-417f-4722-8316-0a0049af55aa?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 23 Sep 2026 04:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
