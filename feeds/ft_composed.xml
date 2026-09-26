@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:34:30 +0000</lastBuildDate>
+    <item>
+      <title>Whitbread acts out the UK’s growth challenge in miniature</title>
+      <link>https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1</link>
+      <description>If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 26 Sep 2026 04:00:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyber security stocks are pumped up on P(doom)</title>
+      <link>https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1</link>
+      <description>Besieged by growing cyber threats, organisations are hurling money at the problem</description>
+      <guid isPermaLink="true">https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 26 Sep 2026 04:00:33 +0000</pubDate>
+    </item>
     <item>
       <title>The case for talking to China is not a case for détente</title>
       <link>https://www.ft.com/content/08b4cf3d-3418-4159-b641-533fdb305d3e</link>
@@ -134,20 +148,6 @@
       <description>Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer</description>
       <guid isPermaLink="true">https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 23 Sep 2026 15:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s president says Tehran ready for talks but hits back at Trump’s ‘bullying’</title>
-      <link>https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3</link>
-      <description>US delegation walks out as Masoud Pezeshkian delivers speech</description>
-      <guid isPermaLink="true">https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3</guid>
-      <pubDate>Wed, 23 Sep 2026 13:13:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese carmaker unveils sub-5 minute EV battery charging</title>
-      <link>https://www.ft.com/content/8d8e774d-7559-4fcf-a435-13cad11f57e1?syn-25a6b1a6=1</link>
-      <description>Volvo Cars and Lotus owner is among Chinese carmakers seeking to reduce dependence on market leader CATL</description>
-      <guid isPermaLink="true">https://www.ft.com/content/8d8e774d-7559-4fcf-a435-13cad11f57e1?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
