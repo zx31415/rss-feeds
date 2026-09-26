@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:59:59 +0000</lastBuildDate>
+    <item>
+      <title>Trump and Xi to meet twice more after summit fails to resolve tensions</title>
+      <link>https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1</link>
+      <description>Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off</description>
+      <guid isPermaLink="true">https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 26 Sep 2026 18:42:28 +0000</pubDate>
+    </item>
     <item>
       <title>Whitbread acts out the UK’s growth challenge in miniature</title>
       <link>https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor</description>
       <guid isPermaLink="true">https://www.ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 23 Sep 2026 17:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Trump’s diesel export ban will backfire</title>
-      <link>https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1</link>
-      <description>Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 23 Sep 2026 15:37:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
