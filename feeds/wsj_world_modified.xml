@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:59:59 +0000</lastBuildDate>
+    <item>
+      <title>U.S., China Agree to Trim Tariffs, Start AI Dialogue</title>
+      <link>https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758?mod=rss_worldnews</link>
+      <description>The deal covers $30 billion of less sensitive trade in either direction and follows President Trump’s summit with Xi Jinping.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/u-s-china-agree-to-reduce-tariffs-on-30-billion-of-trade-fd798758?mod=rss_worldnews</guid>
+      <pubDate>Sat, 26 Sep 2026 12:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>Overwhelmed by Ukraine’s Drones, Russia Tells Businesses to Defend Themselves</title>
       <link>https://www.wsj.com/world/russia/overwhelmed-by-ukraines-drones-russia-tells-businesses-to-defend-themselves-731f294f?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The summit marks Xi Jinping‘s first visit to Washington in over a decade, as the two leaders look to ease brewing tensions over the war in Iran, artificial intelligence and trade.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/trump-kicks-off-white-house-summit-with-chinas-xi-575b06ec?mod=rss_worldnews</guid>
       <pubDate>Fri, 25 Sep 2026 02:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why the Gulf Wants Trump to Hold the Line on Iran</title>
-      <link>https://www.wsj.com/world/middle-east/why-the-gulf-wants-trump-to-hold-the-line-on-iran-b283a5e1?mod=rss_worldnews</link>
-      <description>A new push for talks is facing hurdles as U.S. allies seek to keep the pressure on Tehran.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/why-the-gulf-wants-trump-to-hold-the-line-on-iran-b283a5e1?mod=rss_worldnews</guid>
-      <pubDate>Fri, 25 Sep 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
