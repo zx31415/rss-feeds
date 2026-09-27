@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:20:52 +0000</lastBuildDate>
+    <item>
+      <title>A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine</title>
+      <link>https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e?mod=rss_worldnews</link>
+      <description>Both Poland and Kyiv say their common foe is Russia, but they can’t agree on how to untangle their own painful past.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e?mod=rss_worldnews</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Best High-Yield Savings Accounts for September 2026: Up to 4.50%</title>
       <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The decline is a sign that rising borrowing costs following the European Central Bank’s decision to raise its key interest rate are hindering investment.</description>
       <guid isPermaLink="true">https://www.wsj.com/finance/banking/bank-lending-to-eurozone-businesses-halved-in-august-11b0ec4b?mod=rss_worldnews</guid>
       <pubDate>Fri, 25 Sep 2026 08:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>German Consumer Confidence Falls to Lowest Since May on Energy Costs</title>
-      <link>https://www.wsj.com/economy/consumers/german-consumer-confidence-falls-to-lowest-since-may-on-energy-costs-32e99994?mod=rss_worldnews</link>
-      <description>Consumer confidence in Germany dropped unexpectedly sharply, dragged down by rising energy prices as tensions escalated in the Middle East.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/consumers/german-consumer-confidence-falls-to-lowest-since-may-on-energy-costs-32e99994?mod=rss_worldnews</guid>
-      <pubDate>Fri, 25 Sep 2026 07:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
