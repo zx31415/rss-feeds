@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:02:42 +0000</lastBuildDate>
+    <item>
+      <title>North Korea Is Testing Swarm Attacks Mixing Drones and Missiles</title>
+      <link>https://www.wsj.com/world/north-korea-is-testing-swarm-attacks-mixing-drones-and-missiles-6f8a0a38?mod=rss_worldnews</link>
+      <description>Kim Jong Un’s regime is incorporating tactics which are proving successful against Western air defenses in Europe and the Middle East.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/north-korea-is-testing-swarm-attacks-mixing-drones-and-missiles-6f8a0a38?mod=rss_worldnews</guid>
+      <pubDate>Sun, 27 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Storied Indian Business Empire Is Being Torn Apart by Infighting</title>
+      <link>https://www.wsj.com/world/a-storied-indian-business-empire-is-being-torn-apart-by-infighting-2c5c843c?mod=rss_worldnews</link>
+      <description>Regulatory pressure to go public has sparked an internal battle at Tata, threatening the future of one of India’s most storied companies.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/a-storied-indian-business-empire-is-being-torn-apart-by-infighting-2c5c843c?mod=rss_worldnews</guid>
+      <pubDate>Sun, 27 Sep 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>A World War II-Era Feud Is Threatening a Pivotal Alliance for Ukraine</title>
       <link>https://www.wsj.com/world/europe/a-world-war-ii-era-feud-is-threatening-a-pivotal-alliance-for-ukraine-e648a66e?mod=rss_worldnews</link>
@@ -26,7 +40,7 @@
     <item>
       <title>Pope Leo Receives Rockstar Welcome in Secular France</title>
       <link>https://www.wsj.com/world/europe/pope-leo-receives-rockstar-welcome-in-secular-france-dd8216ba?mod=rss_worldnews</link>
-      <description>Hundreds of thousands in Paris pour onto the Champs-Élysées to greet the pontiff.</description>
+      <description>Hundreds of thousands of people pour onto the Champs-Élysées to greet the pontiff in Paris.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/pope-leo-receives-rockstar-welcome-in-secular-france-dd8216ba?mod=rss_worldnews</guid>
       <pubDate>Sat, 26 Sep 2026 18:40:00 +0000</pubDate>
     </item>
@@ -134,20 +148,6 @@
       <description>The Chinese leader came to Washington looking for ways to sway Trump’s position on the island democracy.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/behind-summit-pageantry-xis-eyes-were-on-taiwan-9c2f713b?mod=rss_worldnews</guid>
       <pubDate>Fri, 25 Sep 2026 10:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Did Putin Really Think I Was a Spy?</title>
-      <link>https://www.wsj.com/world/russia/evan-gershkovich-this-cursed-beautiful-land-book-25290d0b?mod=rss_worldnews</link>
-      <description>In an exclusive excerpt from his new book, “This Cursed Beautiful Land,” Evan Gershkovich searches for answers about his arrest while reporting in Russia.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/evan-gershkovich-this-cursed-beautiful-land-book-25290d0b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 25 Sep 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank Lending to Eurozone Businesses Halved in August</title>
-      <link>https://www.wsj.com/finance/banking/bank-lending-to-eurozone-businesses-halved-in-august-11b0ec4b?mod=rss_worldnews</link>
-      <description>The decline is a sign that rising borrowing costs following the European Central Bank’s decision to raise its key interest rate are hindering investment.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/banking/bank-lending-to-eurozone-businesses-halved-in-august-11b0ec4b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 25 Sep 2026 08:31:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
