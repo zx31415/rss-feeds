@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:43:07 +0000</lastBuildDate>
+    <item>
+      <title>US and China agree $60bn low tariff regime for goods from foie gras to camels</title>
+      <link>https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1</link>
+      <description>Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 28 Sep 2026 04:04:40 +0000</pubDate>
+    </item>
     <item>
       <title>FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says</title>
       <link>https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1</link>
@@ -40,7 +47,7 @@
     <item>
       <title>Trump and Xi to meet twice more after summit fails to resolve tensions</title>
       <link>https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1</link>
-      <description>Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off</description>
+      <description>Observers say US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off</description>
       <guid isPermaLink="true">https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1</guid>
       <pubDate>Sat, 26 Sep 2026 18:42:28 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>Rival to Alipay will help overseas visitors navigate country’s largely cashless economy</description>
       <guid isPermaLink="true">https://www.ft.com/content/d600fbb4-11e4-4541-9e98-ca37c8475eb3?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 24 Sep 2026 09:34:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK and Germany among economies most exposed to China, new modelling shows</title>
-      <link>https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1</link>
-      <description>Study finds efforts to reduce reliance on Chinese investment, trade and other links have produced only ‘modest’ results</description>
-      <guid isPermaLink="true">https://www.ft.com/content/35fff896-9727-4372-bfcd-a805d8021517?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 24 Sep 2026 08:39:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
