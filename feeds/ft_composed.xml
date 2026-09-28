@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:52:17 +0000</lastBuildDate>
+    <item>
+      <title>BASF should take another crack at chemicals M&amp;A</title>
+      <link>https://www.ft.com/content/074a2198-cb97-4c92-8520-f99ad8dce754?syn-25a6b1a6=1</link>
+      <description>Evonik, governed by the RAG-Stiftung foundation, may find it hard to turn up its nose at a higher number</description>
+      <guid isPermaLink="true">https://www.ft.com/content/074a2198-cb97-4c92-8520-f99ad8dce754?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 28 Sep 2026 17:44:13 +0000</pubDate>
+    </item>
     <item>
       <title>‘Xi got face’: China relishes equal treatment from Trump</title>
       <link>https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Also in today’s newsletter, Hasan Piker explains why he has become US conservatives’ midterm hate figure</description>
       <guid isPermaLink="true">https://www.ft.com/content/1f52f41a-f7db-49cc-b40e-c9d29aa01b9f?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 24 Sep 2026 13:00:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s biggest stainless steelmaker finds new way to extract critical metal</title>
-      <link>https://www.ft.com/content/ffb35fa4-b003-4d04-adeb-5aa67af294c5?syn-25a6b1a6=1</link>
-      <description>Outokumpu says its method to produce chrome used in jet engines could also help build western supply chain of critical metals</description>
-      <guid isPermaLink="true">https://www.ft.com/content/ffb35fa4-b003-4d04-adeb-5aa67af294c5?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 24 Sep 2026 13:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
