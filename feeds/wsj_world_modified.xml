@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 01:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:21:45 +0000</lastBuildDate>
+    <item>
+      <title>Spanish Inflation Climbs to Three-And-a-Half Year High</title>
+      <link>https://www.wsj.com/economy/spanish-inflation-climbs-to-three-and-a-half-year-high-df10cdef?mod=rss_worldnews</link>
+      <description>Spanish inflation rose for an eighth month in a row in September, climbing to its highest point since February 2023.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/spanish-inflation-climbs-to-three-and-a-half-year-high-df10cdef?mod=rss_worldnews</guid>
+      <pubDate>Tue, 29 Sep 2026 07:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Rise as U.S.-Iran Talks Remain Uncertain</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00?mod=rss_worldnews</link>
+      <description>Oil prices rose Tuesday as investors assessed uncertainty around U.S.-Iran ceasefire efforts against recovering Middle Eastern crude flows.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00?mod=rss_worldnews</guid>
+      <pubDate>Tue, 29 Sep 2026 07:54:00 +0000</pubDate>
+    </item>
     <item>
       <title>Middle East Oil Exports Rebound as Iran’s Chokehold on Hormuz Breaks Down</title>
       <link>https://www.wsj.com/world/middle-east/middle-east-oil-exports-rebound-as-irans-chokehold-on-hormuz-breaks-down-4ffde655?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>A narrow focus on Europe’s problems without acknowledging its strengths is making businesses wary, pushing households to build savings and putting Europe’s economic future at risk, according to ING’s chief economist.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/looking-at-europes-glass-as-half-full-cd419938?mod=rss_worldnews</guid>
       <pubDate>Mon, 28 Sep 2026 07:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Defense Firms Are Rushing to Boost Missile Output. It’s Coming Too Late.</title>
-      <link>https://www.wsj.com/politics/national-security/defense-firms-are-rushing-to-boost-missile-output-its-coming-too-late-ea6dd7ea?mod=rss_worldnews</link>
-      <description>Factories central to refilling America’s weapons stockpiles have suffered from underinvestment and inconsistent contracting.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/defense-firms-are-rushing-to-boost-missile-output-its-coming-too-late-ea6dd7ea?mod=rss_worldnews</guid>
-      <pubDate>Mon, 28 Sep 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Says No Plans to Sell Weapons to China After Perdue Comments</title>
-      <link>https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46?mod=rss_worldnews</link>
-      <description>The ambassador to China said President Trump offered to sell arms to Xi Jinping.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/u-s-says-no-plans-to-sell-weapons-to-china-after-perdue-comments-ed99bf46?mod=rss_worldnews</guid>
-      <pubDate>Mon, 28 Sep 2026 01:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
