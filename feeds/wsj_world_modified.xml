@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:01:13 +0000</lastBuildDate>
+    <item>
+      <title>‘The Blood-Dimmed Tide’ Review: Continental Ambitions</title>
+      <link>https://www.wsj.com/world/europe/the-blood-dimmed-tide-review-continental-ambitions-8dfdba4f?mod=rss_worldnews</link>
+      <description>Austria-Hungary and Germany had no grand imperial vision for Central Europe beyond shaping the nationalist forces at work there.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/the-blood-dimmed-tide-review-continental-ambitions-8dfdba4f?mod=rss_worldnews</guid>
+      <pubDate>Tue, 29 Sep 2026 20:55:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Prices Fall as Gulf Crude Exports Recover</title>
       <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Ukrainian President Volodymyr Zelensky divulged the current location of two captured soldiers, irking South Korea who thought such disclosures were off-limits.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/asia/a-secretive-north-korean-pow-handover-becomes-publicand-controversial-228d9223?mod=rss_worldnews</guid>
       <pubDate>Mon, 28 Sep 2026 14:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Evan Gershkovich Kept Reporting From Inside Russia’s Prison System</title>
-      <link>https://www.wsj.com/world/how-evan-gershkovich-kept-reporting-from-inside-russias-prison-system-e41aea97?mod=rss_worldnews</link>
-      <description>The reporter sits down with WSJ Editor in Chief Emma Tucker to discuss his arrest and imprisonment in Moscow’s infamous Lefortovo prison.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/how-evan-gershkovich-kept-reporting-from-inside-russias-prison-system-e41aea97?mod=rss_worldnews</guid>
-      <pubDate>Mon, 28 Sep 2026 13:07:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
