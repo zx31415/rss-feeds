@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:20:27 +0000</lastBuildDate>
+    <item>
+      <title>Shein’s pain is high street retailers’ gain</title>
+      <link>https://www.ft.com/content/89e9da3b-6d52-467a-aed0-2aaebaf680c1?syn-25a6b1a6=1</link>
+      <description>The UK’s imminent end of the duty-free loophole for low-cost imports will benefit the Hong Kong-listed company’s rivals</description>
+      <guid isPermaLink="true">https://www.ft.com/content/89e9da3b-6d52-467a-aed0-2aaebaf680c1?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 29 Sep 2026 23:01:02 +0000</pubDate>
+    </item>
     <item>
       <title>China unveils mortgage subsidies to boost economy</title>
       <link>https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>The Oracle dispute suggests there is another risk investors may have overlooked</description>
       <guid isPermaLink="true">https://www.ft.com/content/07a246f8-d81d-4b43-9aa3-16153fc0fac9?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 25 Sep 2026 13:46:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi says US and China must ‘coexist in peace’</title>
-      <link>https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1</link>
-      <description>Donald Trump and Chinese leader hold wide-ranging talks covering AI, Taiwan and Iran war</description>
-      <guid isPermaLink="true">https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 25 Sep 2026 04:02:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
