@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 23:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:37:32 +0000</lastBuildDate>
+    <item>
+      <title>North Korea Land Mines ‘Highly Likely’ Behind DMZ Explosion, Seoul Says</title>
+      <link>https://www.wsj.com/world/asia/north-korea-land-mines-highly-likely-behind-dmz-explosion-seoul-says-c7c99699?mod=rss_worldnews</link>
+      <description>The blast injured three South Korean soldiers, prompting Seoul’s military to vow corresponding action if Pyongyang is the culprit.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/north-korea-land-mines-highly-likely-behind-dmz-explosion-seoul-says-c7c99699?mod=rss_worldnews</guid>
+      <pubDate>Wed, 30 Sep 2026 01:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The U.S. Military Exits Iraq, Leaving Behind a Nation in Peril</title>
+      <link>https://www.wsj.com/world/middle-east/iran-american-military-iraq-militants-e5e20c75?mod=rss_worldnews</link>
+      <description>An Iraqi demand that tens of thousands of militants turn in their weapons falls short in a conflict fed by America’s war with Iran.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-american-military-iraq-militants-e5e20c75?mod=rss_worldnews</guid>
+      <pubDate>Wed, 30 Sep 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>‘The Blood-Dimmed Tide’ Review: Continental Ambitions</title>
       <link>https://www.wsj.com/world/europe/the-blood-dimmed-tide-review-continental-ambitions-8dfdba4f?mod=rss_worldnews</link>
@@ -73,13 +87,6 @@
       <pubDate>Tue, 29 Sep 2026 09:54:00 +0000</pubDate>
     </item>
     <item>
-      <title>North Korea Land Mines ‘Highly Likely’ Behind DMZ Explosion, Seoul Says</title>
-      <link>https://www.wsj.com/world/asia/north-korea-land-mines-highly-likely-behind-dmz-explosion-seoul-says-c7c99699?mod=rss_worldnews</link>
-      <description>The blast injured three South Korean soldiers, prompting Seoul’s military to vow corresponding action if Pyongyang is the culprit.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/north-korea-land-mines-highly-likely-behind-dmz-explosion-seoul-says-c7c99699?mod=rss_worldnews</guid>
-      <pubDate>Tue, 29 Sep 2026 09:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Spanish Inflation Climbs to Three-And-a-Half Year High</title>
       <link>https://www.wsj.com/economy/spanish-inflation-climbs-to-three-and-a-half-year-high-df10cdef?mod=rss_worldnews</link>
       <description>Spanish inflation rose for an eighth month in a row in September, climbing to its highest point since February 2023.</description>
@@ -141,13 +148,6 @@
       <description>The alert adds to claims that the Israeli leader ignored signs of Hamas’s battle plans, giving his election opponents fuel.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/egypt-warned-netanyahu-of-impending-attack-on-israel-before-oct-7-8e3d5ae0?mod=rss_worldnews</guid>
       <pubDate>Mon, 28 Sep 2026 15:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Secretive North Korean POW Handover Becomes Public—and Controversial</title>
-      <link>https://www.wsj.com/world/asia/a-secretive-north-korean-pow-handover-becomes-publicand-controversial-228d9223?mod=rss_worldnews</link>
-      <description>Ukrainian President Volodymyr Zelensky divulged the current location of two captured soldiers, irking South Korea who thought such disclosures were off-limits.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/a-secretive-north-korean-pow-handover-becomes-publicand-controversial-228d9223?mod=rss_worldnews</guid>
-      <pubDate>Mon, 28 Sep 2026 14:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
