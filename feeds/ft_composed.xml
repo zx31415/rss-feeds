@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:49:20 +0000</lastBuildDate>
+    <item>
+      <title>Europe should take Trump’s diesel ban seriously, if not literally</title>
+      <link>https://www.ft.com/content/a357ac2d-fead-4df2-a5cf-cf1aa94cf7a9?syn-25a6b1a6=1</link>
+      <description>Even if the president backs down, his threat should prompt Europe to be more energy independent</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a357ac2d-fead-4df2-a5cf-cf1aa94cf7a9?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 01 Oct 2026 17:25:03 +0000</pubDate>
+    </item>
     <item>
       <title>Starbucks opens first cafés in China’s troubled Xinjiang</title>
       <link>https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Hengrui Pharma’s experimental drug could be taken just once a week</description>
       <guid isPermaLink="true">https://www.ft.com/content/ea8f48de-d2e4-4c0b-bccf-1f310660d8c7?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 29 Sep 2026 09:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toyota’s China sales tumble as high fuel prices deter buyers</title>
-      <link>https://www.ft.com/content/dca18a96-e1b4-46a0-b1e3-67dc1c5ad199?syn-25a6b1a6=1</link>
-      <description>Japanese carmaker grapples with prolonged slump in world’s biggest auto market</description>
-      <guid isPermaLink="true">https://www.ft.com/content/dca18a96-e1b4-46a0-b1e3-67dc1c5ad199?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 29 Sep 2026 06:59:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
