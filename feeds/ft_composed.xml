@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:41:16 +0000</lastBuildDate>
+    <item>
+      <title>EU steel exports hit by high energy costs, tariffs and China oversupply</title>
+      <link>https://www.ft.com/content/719fb157-9d73-44c7-be1f-863c2b106e7d?syn-25a6b1a6=1</link>
+      <description>Shipments abroad have fallen by a fifth with production at historic lows</description>
+      <guid isPermaLink="true">https://www.ft.com/content/719fb157-9d73-44c7-be1f-863c2b106e7d?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 01 Oct 2026 04:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tencent leases 100,000 chips from Oracle to accelerate AI push</title>
+      <link>https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1</link>
+      <description>WeChat owner strikes deal to access US group’s south-east Asia data centres amid race with ByteDance and Alibaba</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 01 Oct 2026 02:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia’s housing slump could have a silver lining for its banks</title>
+      <link>https://www.ft.com/content/b77a34af-a12f-445c-8707-8f6b8223ad39?syn-25a6b1a6=1</link>
+      <description>Housing slowdown could result in lenders directing capital to more profitable places</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b77a34af-a12f-445c-8707-8f6b8223ad39?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 30 Sep 2026 23:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>MI5 warns universities to cut ties with Chinese organisation</title>
       <link>https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c?syn-25a6b1a6=1</link>
@@ -127,27 +148,6 @@
       <description>Chinese state media hail the respect that US president offered their country’s leader</description>
       <guid isPermaLink="true">https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 28 Sep 2026 05:55:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>US and China agree $60bn low tariff regime for goods from foie gras to camels</title>
-      <link>https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1</link>
-      <description>Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 28 Sep 2026 04:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>GM warns on US market as carmakers seek ‘safe haven’ from Chinese rivals</title>
-      <link>https://www.ft.com/content/b4dde6f6-f91f-4d3e-8ce1-ab8be69dab47?syn-25a6b1a6=1</link>
-      <description>Detroit group to keep cutting costs and focus on cheaper EVs as global competitors expand American presence</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b4dde6f6-f91f-4d3e-8ce1-ab8be69dab47?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 28 Sep 2026 04:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>FirstFT: Trump asked Xi if China wanted to buy American weapons, US ambassador says</title>
-      <link>https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1</link>
-      <description>Also in today’s newsletter: terrorism arrests made near RAF Fairford and Nicaragua hands Chinese miners rights to a tenth of its land</description>
-      <guid isPermaLink="true">https://www.ft.com/content/47019489-f00e-4c96-bb79-5c628c89b3a1?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 27 Sep 2026 21:25:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
