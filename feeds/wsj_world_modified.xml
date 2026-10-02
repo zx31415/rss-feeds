@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:17:25 +0000</lastBuildDate>
     <item>
-      <title>G-7 Agrees to Release 100 Million Barrels of Diesel and Crude</title>
-      <link>https://www.wsj.com/business/energy-oil/g-7-agrees-to-release-100-million-barrels-of-crude-and-oil-products-7624f30b?mod=rss_worldnews</link>
-      <description>The announcement would seem to end the threat of a U.S. ban on diesel exports, at least for now.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/g-7-agrees-to-release-100-million-barrels-of-crude-and-oil-products-7624f30b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 02 Oct 2026 15:36:00 +0000</pubDate>
+      <title>FlyDubai Attacker Had Been Banned From Flying by Oman for Radical Views</title>
+      <link>https://www.wsj.com/world/middle-east/flydubai-attacker-had-been-banned-from-flying-by-oman-for-radical-views-ab363b5d?mod=rss_worldnews</link>
+      <description>The U.A.E. airline later hired the co-pilot who stabbed the captain of Flight 1073 and nearly crashed the plane.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/flydubai-attacker-had-been-banned-from-flying-by-oman-for-radical-views-ab363b5d?mod=rss_worldnews</guid>
+      <pubDate>Fri, 02 Oct 2026 19:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Student Protests Add to Woes for Embattled French Government</title>
+      <link>https://www.wsj.com/world/europe/student-protests-add-to-woes-for-embattled-french-government-d603938e?mod=rss_worldnews</link>
+      <description>Unrest has flared across the country as students demand improvements in school conditions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/student-protests-add-to-woes-for-embattled-french-government-d603938e?mod=rss_worldnews</guid>
+      <pubDate>Fri, 02 Oct 2026 19:48:00 +0000</pubDate>
     </item>
     <item>
       <title>U.A.E., Netanyahu Say FlyDubai Attack Was Terrorism</title>
@@ -141,13 +148,6 @@
       <description>Huawei and other Chinese competitors reported higher demand for foldables after announcement of the iPhone Duo.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/telecom/apples-biggest-battleground-for-foldable-phones-is-china-a15b9663?mod=rss_worldnews</guid>
       <pubDate>Thu, 01 Oct 2026 04:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters</title>
-      <link>https://www.wsj.com/world/asia/u-s-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters-ba7bc23a?mod=rss_worldnews</link>
-      <description>Dozens of Iranian or Iranian-linked vessels are adrift, as the U.S. threatens sanctions for countries or companies coming to their assistance.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/u-s-pressure-campaign-leaves-iranian-tankers-stranded-in-asian-waters-ba7bc23a?mod=rss_worldnews</guid>
-      <pubDate>Thu, 01 Oct 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
