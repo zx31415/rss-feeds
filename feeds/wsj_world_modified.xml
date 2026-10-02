@@ -8,11 +8,18 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:39:07 +0000</lastBuildDate>
+    <item>
+      <title>Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins</title>
+      <link>https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_worldnews</link>
+      <description>Dunamu is preparing to provide technology and distribution support for stablecoins once the necessary legal and regulatory framework is in place, CEO Oh Kyoung-suk said.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_worldnews</guid>
+      <pubDate>Fri, 02 Oct 2026 07:07:00 +0000</pubDate>
+    </item>
     <item>
       <title>Near-Catastrophe on Flight 1073 Exposes Gaping Hole in Dubai’s Aviation Security</title>
       <link>https://www.wsj.com/world/middle-east/near-catastrophe-on-flight-1073-exposes-gaping-hole-in-dubais-aviation-security-718adfe2?mod=rss_worldnews</link>
-      <description>Security experts say an assailant with a plan and a knife, as alleged in Wednesday’s flight to Israel, shouldn’t have made it as far as the airport.</description>
+      <description>Security experts say an assailant with a knife and a plan shouldn’t have made it as far as the airport.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/near-catastrophe-on-flight-1073-exposes-gaping-hole-in-dubais-aviation-security-718adfe2?mod=rss_worldnews</guid>
       <pubDate>Fri, 02 Oct 2026 01:00:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>Passengers and crew rushed to subdue a pilot who stabbed his captain as they flew to Tel Aviv from Dubai.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/the-cockpit-stabbing-and-terrifying-nosedive-that-brought-chaos-to-flight-1073-2b5e9157?mod=rss_worldnews</guid>
       <pubDate>Wed, 30 Sep 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pilot-on-Pilot Stabbing Forces Emergency Landing of Israel-Bound Plane</title>
-      <link>https://www.wsj.com/world/middle-east/flight-to-israel-makes-emergency-landing-in-saudi-arabia-7bf3bc34?mod=rss_worldnews</link>
-      <description>Israeli Prime Minister Benjamin Netanyahu described the incident as an apparent attempt to crash the plane loaded with Israeli passengers.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/flight-to-israel-makes-emergency-landing-in-saudi-arabia-7bf3bc34?mod=rss_worldnews</guid>
-      <pubDate>Wed, 30 Sep 2026 22:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
