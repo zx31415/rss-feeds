@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:14:07 +0000</lastBuildDate>
+    <item>
+      <title>I’m even more bullish about stocks than a year ago</title>
+      <link>https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1</link>
+      <description>Then again, I’d sold everything by the end of last October, so don’t listen to me</description>
+      <guid isPermaLink="true">https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 02 Oct 2026 12:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gold miner M&amp;A is finally producing something that glitters</title>
+      <link>https://www.ft.com/content/64d54c96-0124-45d0-842c-587ab0641ee2?syn-25a6b1a6=1</link>
+      <description>This time the dealmaking rush looks more disciplined</description>
+      <guid isPermaLink="true">https://www.ft.com/content/64d54c96-0124-45d0-842c-587ab0641ee2?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 02 Oct 2026 12:01:58 +0000</pubDate>
+    </item>
     <item>
       <title>Volvo Cars issues profit warning as China sales fall</title>
       <link>https://www.ft.com/content/2ab59b0f-8b58-4745-9955-9aa39b396338?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>The real question for those considering buying stock is whether it will make money</description>
       <guid isPermaLink="true">https://www.ft.com/content/ef6c9b07-0a02-4cb2-aa91-e486846e6ce0?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 30 Sep 2026 04:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armani’s last wishes may sell his fashion empire short</title>
-      <link>https://www.ft.com/content/7801306d-9141-4def-8b80-80358ee5d3d9?syn-25a6b1a6=1</link>
-      <description>The fashion house is set to kick off a three-way process with LVMH, L’Oréal and EssilorLuxottica for the sale of a minority stake</description>
-      <guid isPermaLink="true">https://www.ft.com/content/7801306d-9141-4def-8b80-80358ee5d3d9?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 30 Sep 2026 04:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Battery groups push to stick with post-Brexit rules on electric cars</title>
-      <link>https://www.ft.com/content/f72004ae-3a17-459f-a14e-01840c90c6da?syn-25a6b1a6=1</link>
-      <description>Warning over U-turn undermining European investments</description>
-      <guid isPermaLink="true">https://www.ft.com/content/f72004ae-3a17-459f-a14e-01840c90c6da?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 30 Sep 2026 04:00:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
