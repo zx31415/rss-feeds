@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 06:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:54:50 +0000</lastBuildDate>
+    <item>
+      <title>Germany and France agree on last-resort tool against trade threats</title>
+      <link>https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1</link>
+      <description>Berlin on board with ‘second-strike weapon’ to deter threats over key supplies such as exports of Chinese rare earths and magnets</description>
+      <guid isPermaLink="true">https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 05 Oct 2026 13:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Chinese billionaire reckons with the limits of building AI across borders</title>
+      <link>https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</link>
+      <description>One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions</description>
+      <guid isPermaLink="true">https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>Wall Street’s IPO fervour cools on tepid demand and valuation worries</title>
       <link>https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>US coffee giant enters region where Beijing is accused of widespread abuses</description>
       <guid isPermaLink="true">https://www.ft.com/content/352e32dd-9dd8-4544-a807-9ec1a4904105?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 01 Oct 2026 09:55:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japan plans $140bn AI data centre push with Dell and Jera</title>
-      <link>https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1</link>
-      <description>Planned 400-megawatt data centre near Tokyo will be among Asia’s largest projects outside China</description>
-      <guid isPermaLink="true">https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 01 Oct 2026 08:05:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Japanese companies exit China in record numbers</title>
-      <link>https://www.ft.com/content/3d58c75e-035b-4958-89e7-2b2369e3a432?syn-25a6b1a6=1</link>
-      <description>Diplomatic tensions, slowing Chinese growth and US tariff pressure spur rebalancing of supply chain</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3d58c75e-035b-4958-89e7-2b2369e3a432?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 01 Oct 2026 07:18:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
