@@ -8,11 +8,18 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:45:58 +0000</lastBuildDate>
     <item>
-      <title>China angers partners with plan to move part of Asia-Pacific summit online</title>
+      <title>S&amp;P 500 hits record high as AI stocks shrug off bond market slump</title>
+      <link>https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1</link>
+      <description>Wall Street’s blue-chip index touches fresh peak but rally increasingly reliant on handful of tech stocks</description>
+      <guid isPermaLink="true">https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 06 Oct 2026 15:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s push for online meeting clouds forum attended by Russia and US</title>
       <link>https://www.ft.com/content/792366b3-e010-4e0e-a1c4-692ffae3f5aa?syn-25a6b1a6=1</link>
-      <description>Truncated Apec forum in Shenzhen stirs concern Beijing is focused on burnishing image while limiting dialogue</description>
+      <description>Truncated Apec summit stirs concern Beijing is focused on burnishing image while limiting dialogue</description>
       <guid isPermaLink="true">https://www.ft.com/content/792366b3-e010-4e0e-a1c4-692ffae3f5aa?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 06 Oct 2026 05:00:08 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>Then again, I’d sold everything by the end of last October, so don’t listen to me</description>
       <guid isPermaLink="true">https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 02 Oct 2026 12:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gold miner M&amp;A is finally producing something that glitters</title>
-      <link>https://www.ft.com/content/64d54c96-0124-45d0-842c-587ab0641ee2?syn-25a6b1a6=1</link>
-      <description>This time the dealmaking rush looks more disciplined</description>
-      <guid isPermaLink="true">https://www.ft.com/content/64d54c96-0124-45d0-842c-587ab0641ee2?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 02 Oct 2026 12:01:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
