@@ -8,7 +8,7 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:52:10 +0000</lastBuildDate>
     <item>
       <title>Reflection AI boosts US ambition to compete with Chinese ‘open’ models</title>
       <link>https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1</link>
@@ -36,6 +36,13 @@
       <description>One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions</description>
       <guid isPermaLink="true">https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 05 Oct 2026 10:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global pension funds cut US equities over AI concentration risk</title>
+      <link>https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1</link>
+      <description>Push for diversification as concerns mount over ‘stretched’ valuations</description>
+      <guid isPermaLink="true">https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:12 +0000</pubDate>
     </item>
     <item>
       <title>Wall Street’s IPO fervour cools on tepid demand and valuation worries</title>
@@ -140,13 +147,6 @@
       <link>https://www.ft.com/content/1b5ddda2-ac55-4d66-8bf4-bce62b80450d?syn-25a6b1a6=1</link>
       <description>David Ellison’s media company sold $52bn in debt and got an investment-grade credit rating — albeit the lowest available</description>
       <guid isPermaLink="true">https://www.ft.com/content/1b5ddda2-ac55-4d66-8bf4-bce62b80450d?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 02 Oct 2026 04:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s short-sighted diesel gamble</title>
-      <link>https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1</link>
-      <description>Yes, Nixon’s export ban did briefly suppress domestic prices but it had a huge long-term cost</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3ae16f02-bb00-46a4-abba-6bfea7f2b1ac?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 02 Oct 2026 04:00:23 +0000</pubDate>
     </item>
   </channel>
