@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:56:39 +0000</lastBuildDate>
+    <item>
+      <title>China slaps down EU request for voluntary curbs on hybrid car exports</title>
+      <link>https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1</link>
+      <description>European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict</description>
+      <guid isPermaLink="true">https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sleepy European telcos turn to data centre craze</title>
       <link>https://www.ft.com/content/923f001a-8f2e-4138-80f6-48452a5be199?syn-25a6b1a6=1</link>
@@ -24,7 +31,7 @@
       <pubDate>Wed, 07 Oct 2026 08:51:55 +0000</pubDate>
     </item>
     <item>
-      <title>Robust AI spending sets investors up for another bumper US earnings season</title>
+      <title>AI boom puts US earnings on course for third quarter of 25% growth</title>
       <link>https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1</link>
       <description>S&amp;P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs</description>
       <guid isPermaLink="true">https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1</guid>
@@ -141,13 +148,6 @@
       <description>The UK prime minister has many grand plans, but most won’t kick in until 2030 or even later</description>
       <guid isPermaLink="true">https://www.ft.com/content/ac73c2aa-4998-4da4-bab0-d511f79d7559?syn-25a6b1a6=1</guid>
       <pubDate>Sun, 04 Oct 2026 04:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese women turn to surrogates to avoid motherhood ‘penalty’</title>
-      <link>https://www.ft.com/content/6fa1cea0-7353-4b58-8d2d-1cf884b3f01d?syn-25a6b1a6=1</link>
-      <description>With surrogacy illegal in China, agencies and consultancies are increasingly connecting would-be parents with women overseas</description>
-      <guid isPermaLink="true">https://www.ft.com/content/6fa1cea0-7353-4b58-8d2d-1cf884b3f01d?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 04 Oct 2026 04:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
