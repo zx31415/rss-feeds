@@ -8,7 +8,13 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:37:13 +0000</lastBuildDate>
+    <item>
+      <title>China’s $735B Trade Surplus + How Beijing Masks Its Holdings + The G7 Debates Global Imbalances</title>
+      <link>https://www.cfr.org/podcasts/spillover/chinas-735b-trade-surplus-how-beijing-masks-its-holdings-the-g7-debates-global-imbalances</link>
+      <guid isPermaLink="true">https://www.cfr.org/podcasts/spillover/chinas-735b-trade-surplus-how-beijing-masks-its-holdings-the-g7-debates-global-imbalances</guid>
+      <pubDate>Wed, 07 Oct 2026 23:36:58 +0000</pubDate>
+    </item>
     <item>
       <title>De-reservification, Not De-dollarization</title>
       <link>https://www.cfr.org/articles/de-reservification-not-de-dollarization</link>
@@ -62,12 +68,6 @@
       <link>https://www.cfr.org/articles/chinas-new-and-improved-bop-data</link>
       <guid isPermaLink="true">https://www.cfr.org/articles/chinas-new-and-improved-bop-data</guid>
       <pubDate>Sun, 06 Sep 2026 09:47:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Customs-BOP Gap Is Not a Customs Problem</title>
-      <link>https://www.cfr.org/articles/chinas-customs-bop-gap-is-not-a-customs-problem</link>
-      <guid isPermaLink="true">https://www.cfr.org/articles/chinas-customs-bop-gap-is-not-a-customs-problem</guid>
-      <pubDate>Sun, 06 Sep 2026 09:47:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
