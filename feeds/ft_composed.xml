@@ -8,11 +8,39 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:50:34 +0000</lastBuildDate>
     <item>
-      <title>China races to build AI data centres across energy-rich hinterland</title>
+      <title>Šefčovič goes to Beijing with a final plea to avoid an EU-China trade war</title>
+      <link>https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</link>
+      <description>Also in this newsletter: Burnham travels to Berlin to win EU friends</description>
+      <guid isPermaLink="true">https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 05:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU envoy lands in China for last-ditch talks over car exports</title>
+      <link>https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</link>
+      <description>Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:37:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan’s small-cap cull is an opportunity for AI funds</title>
+      <link>https://www.ft.com/content/70b7333c-f746-462f-a973-30a999403b15?syn-25a6b1a6=1</link>
+      <description>Finding needles amid haystacks is a task for AI</description>
+      <guid isPermaLink="true">https://www.ft.com/content/70b7333c-f746-462f-a973-30a999403b15?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil companies are full speed ahead in the Middle East</title>
+      <link>https://www.ft.com/content/6b7e335c-1ce9-48fa-87b0-d5fb91f00135?syn-25a6b1a6=1</link>
+      <description>Western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with Iran</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6b7e335c-1ce9-48fa-87b0-d5fb91f00135?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China races to build data centres in bid for AI supremacy</title>
       <link>https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1</link>
-      <description>In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition</description>
+      <description>Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia</description>
       <guid isPermaLink="true">https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 08 Oct 2026 00:15:04 +0000</pubDate>
     </item>
@@ -120,34 +148,6 @@
       <description>It is harder to be good at many things than one — and branching out into software leaves the stock exposed to AI threats</description>
       <guid isPermaLink="true">https://www.ft.com/content/cb80c53b-714a-4807-9a1c-ec8233d0ad0e?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 05 Oct 2026 17:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Germany and France agree on last-resort tool against trade threats</title>
-      <link>https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1</link>
-      <description>Berlin agrees on ‘second-strike weapon’ to deter threats over key supplies such as Chinese rare earths and magnets</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 05 Oct 2026 16:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Chinese billionaire reckons with the limits of building AI across borders</title>
-      <link>https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</link>
-      <description>One-time gaming tycoon Chen Tianqiao bet billions on a second act in agentic research but ran headlong into US-China trade tensions</description>
-      <guid isPermaLink="true">https://www.ft.com/content/91741bbc-9626-41fc-8320-9ab9adbd8631?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global pension funds cut US equities over AI concentration risk</title>
-      <link>https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1</link>
-      <description>Push for diversification as concerns mount over ‘stretched’ valuations</description>
-      <guid isPermaLink="true">https://www.ft.com/content/18e475be-1012-43e9-a0ff-ef0181b772ad?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 05 Oct 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wall Street’s IPO fervour cools on tepid demand and valuation worries</title>
-      <link>https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1</link>
-      <description>Several listings have been paused in recent weeks as delay in Anthropic’s public debut sends a chill through markets</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 04 Oct 2026 04:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
