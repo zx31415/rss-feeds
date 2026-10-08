@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:50:18 +0000</lastBuildDate>
+    <item>
+      <title>Suspected Iranian Drone Plot Raises Security Questions at U.K. Bases</title>
+      <link>https://www.wsj.com/world/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-8c979b1f?mod=rss_worldnews</link>
+      <description>The rise of drone warfare brings questions about how to protect large and expensive assets like bombers—even thousands of miles from front lines of conflict.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/suspected-iranian-drone-plot-raises-security-questions-at-u-k-bases-8c979b1f?mod=rss_worldnews</guid>
+      <pubDate>Thu, 08 Oct 2026 01:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Spy Crisis That Threatens to Defang Germany’s Top Intelligence Agency</title>
       <link>https://www.wsj.com/world/europe/the-spy-crisis-that-threatens-to-defang-germanys-top-intelligence-agency-1ec4c58e?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Audio recordings capture months of warnings, confusion and attacks in the U.S. Navy’s blockade of Iranian oil exports.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/preparing-to-fire-hear-the-radio-commands-enforcing-the-u-s-blockade-of-iran-5f85dda9?mod=rss_worldnews</guid>
       <pubDate>Tue, 06 Oct 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Escalates Pressure on Russia Over Siberia Lab Death</title>
-      <link>https://www.wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a?mod=rss_worldnews</link>
-      <description>The U.S. has warned Moscow that its failure to disclose details about the death violates international health obligations.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a?mod=rss_worldnews</guid>
-      <pubDate>Tue, 06 Oct 2026 21:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
