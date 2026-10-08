@@ -8,20 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:24:06 +0000</lastBuildDate>
+    <item>
+      <title>EU envoy lands in China for last-ditch talks over car exports</title>
+      <link>https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</link>
+      <description>Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 12:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Houston start-up aims to loosen China’s grip on critical metal</title>
+      <link>https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1</link>
+      <description>Hertha Metals has developed a way to produce high-purity iron needed for rare earth magnets</description>
+      <guid isPermaLink="true">https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 08 Oct 2026 11:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Šefčovič goes to Beijing with a final plea to avoid an EU-China trade war</title>
       <link>https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</link>
       <description>Also in this newsletter: Burnham travels to Berlin to win EU friends</description>
       <guid isPermaLink="true">https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU envoy lands in China for last-ditch talks over car exports</title>
-      <link>https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</link>
-      <description>Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 08 Oct 2026 04:37:44 +0000</pubDate>
     </item>
     <item>
       <title>Japan’s small-cap cull is an opportunity for AI funds</title>
@@ -141,13 +148,6 @@
       <description>Start-up claims new model Beam is on par with leading Chinese competitor as battle with Beijing intensifies</description>
       <guid isPermaLink="true">https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 05 Oct 2026 19:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Schneider’s bet on a new world clashes with finance’s old rules</title>
-      <link>https://www.ft.com/content/cb80c53b-714a-4807-9a1c-ec8233d0ad0e?syn-25a6b1a6=1</link>
-      <description>It is harder to be good at many things than one — and branching out into software leaves the stock exposed to AI threats</description>
-      <guid isPermaLink="true">https://www.ft.com/content/cb80c53b-714a-4807-9a1c-ec8233d0ad0e?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 05 Oct 2026 17:18:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
