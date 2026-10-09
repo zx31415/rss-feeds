@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:55:01 +0000</lastBuildDate>
+    <item>
+      <title>Oil Prices Retreat After Trump Appears to Rule out Iran Strikes Before Midterms</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=rss_worldnews</link>
+      <description>Oil fell Friday after surging the previous day, as traders weighed Trump’s pledge not to attack Iran before the U.S. midterm elections against persistent shipping risks in the Persian Gulf and production shut-ins in the Gulf of Mexico.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-55b0e4d9?mod=rss_worldnews</guid>
+      <pubDate>Fri, 09 Oct 2026 07:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks</title>
       <link>https://www.wsj.com/world/middle-east/iran-and-houthis-try-to-regain-upper-hand-in-hormuz-with-spate-of-new-attacks-c845c4ab?mod=rss_worldnews</link>
@@ -33,7 +40,7 @@
     <item>
       <title>In Spain, Grief and Politics Mix After Death of Evicted Woman</title>
       <link>https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d?mod=rss_worldnews</link>
-      <description>The 87-year-old ‘Maricarmen’ became the face of the struggle to fix Spain’s broken housing market. Her death turned her into a political martyr.</description>
+      <description>The 87-year-old “Maricarmen” became the face of the struggle to fix Spain’s broken housing market. Her death turned her into a political martyr.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d?mod=rss_worldnews</guid>
       <pubDate>Thu, 08 Oct 2026 19:38:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>Pedro Sánchez is betting his left-wing coalition can avoid a bruising election defeat amid rage over the eviction of an elderly woman who died Wednesday.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/spains-leader-pins-political-survival-on-public-anger-over-housing-crisis-91438a7a?mod=rss_worldnews</guid>
       <pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens</title>
-      <link>https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews</link>
-      <description>The deadly strikes deepen a conflict between the kingdom and its Iran-backed foes in Yemen.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/houthis-escalate-attacks-on-saudi-airports-killing-3-and-wounding-dozens-f81ee1ca?mod=rss_worldnews</guid>
-      <pubDate>Thu, 08 Oct 2026 01:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
