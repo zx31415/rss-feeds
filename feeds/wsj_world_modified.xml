@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:39:42 +0000</lastBuildDate>
     <item>
-      <title>Saudi Arabia Closes Riyadh Airport After Dozens Hurt in Houthi Missile Attack</title>
+      <title>Saudi Arabia Closes Riyadh Airport After at Least 12 Killed in Houthi Missile Attack</title>
       <link>https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews</link>
       <description>The missiles landed direct hits on Terminals 3 and 4 of the King Khalid International Airport, Saudi officials said.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews</guid>
-      <pubDate>Sat, 10 Oct 2026 19:12:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 21:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky</title>
+      <link>https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews</link>
+      <description>The clash marks a new low point in White House relations with Kyiv as Russia escalates its bombing of Ukrainian cities.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/trump-calls-on-ukraine-to-stop-hitting-russian-refineriesand-replace-zelensky-cc9bada8?mod=rss_worldnews</guid>
+      <pubDate>Sat, 10 Oct 2026 20:00:00 +0000</pubDate>
     </item>
     <item>
       <title>India Locks Down Heart of Capital to Thwart Voter Rights Protest</title>
@@ -141,13 +148,6 @@
       <description>The 87-year-old “Maricarmen” became the face of the struggle to fix Spain’s broken housing market. Her death turned her into a political martyr.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d?mod=rss_worldnews</guid>
       <pubDate>Thu, 08 Oct 2026 19:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Far-Left Mayor on the Front Line of France’s Student Protests</title>
-      <link>https://www.wsj.com/world/europe/the-far-left-mayor-on-the-front-line-of-frances-student-protests-ec585cdc?mod=rss_worldnews</link>
-      <description>Bally Bagayoko has become a hero for protesters and a lightning rod for critics who say he is sowing unrest at French schools.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/the-far-left-mayor-on-the-front-line-of-frances-student-protests-ec585cdc?mod=rss_worldnews</guid>
-      <pubDate>Thu, 08 Oct 2026 18:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
