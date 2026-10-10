@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:24:22 +0000</lastBuildDate>
+    <item>
+      <title>Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World</title>
+      <link>https://www.wsj.com/world/middle-east/houthis-bombard-saudi-air-links-in-effort-to-cut-kingdom-off-from-rest-of-world-1f8f55f9?mod=rss_worldnews</link>
+      <description>Missile attacks on airports are spooking travelers and threatening another pillar of the kingdom’s growth.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/houthis-bombard-saudi-air-links-in-effort-to-cut-kingdom-off-from-rest-of-world-1f8f55f9?mod=rss_worldnews</guid>
+      <pubDate>Sat, 10 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Strikes Deal With Putin for Russian Diesel</title>
       <link>https://www.wsj.com/politics/policy/trump-strikes-deal-with-putin-for-russian-diesel-15751436?mod=rss_worldnews</link>
@@ -89,7 +96,7 @@
     <item>
       <title>Iran and Houthis Try to Regain Upper Hand in Hormuz With Spate of New Attacks</title>
       <link>https://www.wsj.com/world/middle-east/iran-and-houthis-try-to-regain-upper-hand-in-hormuz-with-spate-of-new-attacks-c845c4ab?mod=rss_worldnews</link>
-      <description>The clashes underscore the region’s volatility and the difficulty that Trump faces keeping a lid on its conflicts at least until after midterm elections.</description>
+      <description>The clashes underscore the region’s volatility and the difficulty that President Trump faces keeping a lid on its conflicts at least until after midterm elections.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-and-houthis-try-to-regain-upper-hand-in-hormuz-with-spate-of-new-attacks-c845c4ab?mod=rss_worldnews</guid>
       <pubDate>Fri, 09 Oct 2026 09:25:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>The glide-bomb strike was the latest deadly attack in Moscow’s escalating bombardment of Ukrainian cities.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/russian-airstrike-on-bus-stop-kills-at-least-30-in-ukraine-a2bfcce9?mod=rss_worldnews</guid>
       <pubDate>Thu, 08 Oct 2026 15:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tanker Attacks Push Deeper Into Gulf, Rattle Oil Markets</title>
-      <link>https://www.wsj.com/world/middle-east/tanker-attacks-push-deeper-into-the-gulf-and-rattle-oil-markets-24666ef9?mod=rss_worldnews</link>
-      <description>A strike near Qatar, far from the usual flashpoint at the Strait of Hormuz, raises fears of wider disruptions.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/tanker-attacks-push-deeper-into-the-gulf-and-rattle-oil-markets-24666ef9?mod=rss_worldnews</guid>
-      <pubDate>Thu, 08 Oct 2026 15:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
