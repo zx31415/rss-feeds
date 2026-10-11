@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 23:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:36:55 +0000</lastBuildDate>
+    <item>
+      <title>Starving Ukrainians Are Risking Death to Escape Their Front-Line Town</title>
+      <link>https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews</link>
+      <description>All year, food supplies have dwindled as mines and drones made the road increasingly impassable.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews</guid>
+      <pubDate>Sun, 11 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video Cameras Are Everywhere—and Now They Are Being Hacked for War</title>
+      <link>https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews</link>
+      <description>The highly vulnerable devices have turned into tools for combatants to track, surveil and attack the enemy.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews</guid>
+      <pubDate>Sun, 11 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes</title>
       <link>https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews</link>
       <description>The missiles strikes forced authorities to close Saudi Arabia’s international airport in what was the deadliest attack in the kingdom in more than a decade.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236?mod=rss_worldnews</guid>
-      <pubDate>Sat, 10 Oct 2026 21:26:00 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:28:00 +0000</pubDate>
     </item>
     <item>
       <title>Trump Calls On Ukraine to Stop Hitting Russian Refineries—and Replace Zelensky</title>
@@ -134,20 +148,6 @@
       <description>Israel is fortifying bases along a dividing line with Hamas as its military entrenches in the enclave.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/a-glimpse-inside-gaza-shows-how-israels-military-footprint-is-expanding-ecdb8834?mod=rss_worldnews</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Prosecutors Bring Torture Charge Against Nicolás Maduro</title>
-      <link>https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_worldnews</link>
-      <description>The deposed Venezuelan leader and his wife, already facing narcoterrorism and drug charges, are accused of conspiring to torture American detainees.</description>
-      <guid isPermaLink="true">https://www.wsj.com/us-news/u-s-prosecutors-bring-torture-charge-against-nicolas-maduro-bc8b6527?mod=rss_worldnews</guid>
-      <pubDate>Thu, 08 Oct 2026 20:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Spain, Grief and Politics Mix After Death of Evicted Woman</title>
-      <link>https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d?mod=rss_worldnews</link>
-      <description>The 87-year-old “Maricarmen” became the face of the struggle to fix Spain’s broken housing market. Her death turned her into a political martyr.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/in-spain-grief-and-politics-mix-after-death-of-evicted-woman-5f56955d?mod=rss_worldnews</guid>
-      <pubDate>Thu, 08 Oct 2026 19:38:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
