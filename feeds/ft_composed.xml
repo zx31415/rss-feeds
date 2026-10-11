@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:39:54 +0000</lastBuildDate>
+    <item>
+      <title>Europe can fight the ‘China shock’</title>
+      <link>https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1</link>
+      <description>But it requires Brussels to prioritise creative destruction over protectionism</description>
+      <guid isPermaLink="true">https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Academic publishing is a study in fighting AI slop</title>
       <link>https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Western groups look to new investment opportunities despite the chaos and heightened risks caused by the conflict with Iran</description>
       <guid isPermaLink="true">https://www.ft.com/content/6b7e335c-1ce9-48fa-87b0-d5fb91f00135?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China races to build data centres in bid for AI supremacy</title>
-      <link>https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1</link>
-      <description>Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 08 Oct 2026 00:15:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
