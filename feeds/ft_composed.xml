@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:16:13 +0000</lastBuildDate>
+    <item>
+      <title>China faces uphill battle to wean tech firms off Nvidia chips</title>
+      <link>https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1</link>
+      <description>The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands</description>
+      <guid isPermaLink="true">https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 13 Oct 2026 00:15:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Watch out luxury: mid-market fashion brands are staging a comeback</title>
+      <link>https://www.ft.com/content/ac617b3d-4506-4c26-aff8-64ab14a66f4f?syn-25a6b1a6=1</link>
+      <description>While LVMH’s sales slid more than the market expected in recent months, Uniqlo’s are going gangbusters</description>
+      <guid isPermaLink="true">https://www.ft.com/content/ac617b3d-4506-4c26-aff8-64ab14a66f4f?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 12 Oct 2026 17:30:46 +0000</pubDate>
+    </item>
     <item>
       <title>EU ‘safeguards’ hybrid car sector from Chinese imports under new deal</title>
       <link>https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Brussels blames Beijing’s surging exports for the loss of tens of thousands of manufacturing jobs</description>
       <guid isPermaLink="true">https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 08 Oct 2026 12:08:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Houston start-up aims to loosen China’s grip on critical metal</title>
-      <link>https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1</link>
-      <description>Hertha Metals has developed a way to produce high-purity iron needed for rare earth magnets</description>
-      <guid isPermaLink="true">https://www.ft.com/content/c4ef549c-0451-4884-b922-23cd24cf35a6?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 08 Oct 2026 11:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Šefčovič goes to Beijing with a final plea to avoid an EU-China trade war</title>
-      <link>https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</link>
-      <description>Also in this newsletter: Burnham travels to Berlin to win EU friends</description>
-      <guid isPermaLink="true">https://www.ft.com/content/166d0909-235d-4402-8ed7-d42d59401f6c?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
