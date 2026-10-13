@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:18:56 +0000</lastBuildDate>
+    <item>
+      <title>Why U.S. Airstrikes Are Failing to Stop the Global Cocaine Boom</title>
+      <link>https://www.wsj.com/world/americas/cocaine-trade-is-booming-despite-airstrikes-72ec0826?mod=rss_worldnews</link>
+      <description>Smugglers are shifting routes and using new tactics to evade military targeting, resulting in record supplies and plunging prices.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/cocaine-trade-is-booming-despite-airstrikes-72ec0826?mod=rss_worldnews</guid>
+      <pubDate>Tue, 13 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pope Leo Diagnosed With Lung Cancer After Surgery</title>
       <link>https://www.wsj.com/world/pope-leo-xiv-lung-cancer-a465cbe8?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Chinese leader Xi Jinping is presiding over a dangerous spiral of debt that is strangling the economy at home and damaging trade partners around the world.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china-edad4f9f?mod=rss_worldnews</guid>
       <pubDate>Mon, 12 Oct 2026 13:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance</title>
-      <link>https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews</link>
-      <description>Gen. Alexus Grynkewich outlined a series of steps to block an initial attack and break the adversary’s ability to control and support its forces.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/natos-top-commander-lays-out-plan-to-thwart-a-russian-attack-on-the-alliance-96d57680?mod=rss_worldnews</guid>
-      <pubDate>Mon, 12 Oct 2026 13:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

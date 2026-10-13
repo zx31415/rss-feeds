@@ -8,7 +8,13 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 01:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:18:53 +0000</lastBuildDate>
+    <item>
+      <title>What’s the Renminbi Got to Do With it?</title>
+      <link>https://www.cfr.org/articles/whats-the-renminbi-got-to-do-with-it</link>
+      <guid isPermaLink="true">https://www.cfr.org/articles/whats-the-renminbi-got-to-do-with-it</guid>
+      <pubDate>Tue, 13 Oct 2026 23:18:52 +0000</pubDate>
+    </item>
     <item>
       <title>Why U.S. Borrowing Costs Keep Climbing Despite Treasury’s Efforts</title>
       <link>https://www.cfr.org/articles/why-u-s-borrowing-costs-keep-climbing-despite-treasurys-efforts</link>
@@ -62,12 +68,6 @@
       <link>https://www.cfr.org/articles/the-world-should-not-ignore-chinas-obviously-undervalued-currency</link>
       <guid isPermaLink="true">https://www.cfr.org/articles/the-world-should-not-ignore-chinas-obviously-undervalued-currency</guid>
       <pubDate>Sun, 06 Sep 2026 09:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is China’s Surplus Really Shrinking?</title>
-      <link>https://www.cfr.org/articles/is-chinas-surplus-really-shrinking</link>
-      <guid isPermaLink="true">https://www.cfr.org/articles/is-chinas-surplus-really-shrinking</guid>
-      <pubDate>Sun, 06 Sep 2026 09:47:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
