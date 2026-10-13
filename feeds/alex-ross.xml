@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:25:32 +0000</lastBuildDate>
+    <item>
+      <title>The Communist Thrillers of Anna Seghers</title>
+      <link>https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-anna-seghers</link>
+      <description>In her tautly suspenseful novels, fugitives stay one step ahead of the Nazis.</description>
+      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-anna-seghers</guid>
+      <pubDate>Tue, 13 Oct 2026 01:25:31 +0000</pubDate>
+    </item>
     <item>
       <title>On Jackie the Eagle and the Nature of the Soul</title>
       <link>https://www.newyorker.com/culture/postscript/on-jackie-the-eagle-and-the-nature-of-the-soul</link>
@@ -71,13 +78,6 @@
       <description>The event’s theme: Fugitives.</description>
       <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/03/02/new-york-festival-of-song-music-review</guid>
       <pubDate>Sun, 06 Sep 2026 08:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Morton Feldman’s Music of Stillness</title>
-      <link>https://www.newyorker.com/magazine/2026/02/02/morton-feldman-at-100-music-review</link>
-      <description>In his centenary year, the increasingly revered composer offers an uneasy refuge from the algorithmic din.</description>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/02/02/morton-feldman-at-100-music-review</guid>
-      <pubDate>Sun, 06 Sep 2026 08:53:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
