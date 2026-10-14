@@ -8,20 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:14:23 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations</title>
+      <link>https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</link>
+      <description>Ukrainian officials say the restrictions imposed on the terminals have blunted their ability to attack Russian targets and intercept drones.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</guid>
+      <pubDate>Wed, 14 Oct 2026 20:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>With China Facing More Trade Barriers, It Can’t Afford to Lose Europe</title>
+      <link>https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_worldnews</link>
+      <description>Beijing’s concession on hybrid vehicles shows how much it needs the European market</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_worldnews</guid>
+      <pubDate>Wed, 14 Oct 2026 18:39:00 +0000</pubDate>
+    </item>
     <item>
       <title>Saudi Airlines Rush to Save Scores of Planes From a War Zone</title>
       <link>https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=rss_worldnews</link>
       <description>Deadly Houthi missile strikes have airlines racing to move billions worth of planes to safety.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=rss_worldnews</guid>
       <pubDate>Wed, 14 Oct 2026 17:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations</title>
-      <link>https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</link>
-      <description>Ukrainian officials say the restrictions imposed on the terminals have blunted their ability to attack Russian targets and intercept drones.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 17:26:00 +0000</pubDate>
     </item>
     <item>
       <title>The Space Force Showed Us Its Weapons Used in Iran and Venezuela</title>
@@ -141,13 +148,6 @@
       <description>The emerging industry has the potential to serve the U.S. military while providing Taiwan with an arsenal that it sees as essential to its survival.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?mod=rss_worldnews</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles</title>
-      <link>https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b?mod=rss_worldnews</link>
-      <description>Kim Jong Un took his family to a new military museum, where drones and missiles underscore a push to advance his military.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/while-trump-floats-a-kim-meeting-north-korea-flaunts-its-u-s-range-missiles-840ea74b?mod=rss_worldnews</guid>
-      <pubDate>Tue, 13 Oct 2026 16:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
