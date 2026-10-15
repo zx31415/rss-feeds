@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:10:01 +0000</lastBuildDate>
+    <item>
+      <title>Europe cannot rely on trade barriers to counter China</title>
+      <link>https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1</link>
+      <description>The EU’s hybrid car deal with Beijing eases tensions but only offers a brief respite</description>
+      <guid isPermaLink="true">https://www.ft.com/content/8890bf3f-f243-4bd0-8e2f-f80c78e363f8?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 15 Oct 2026 16:35:09 +0000</pubDate>
+    </item>
     <item>
       <title>Monte dei Paschi should try the ‘just say maybe’ bid defence</title>
       <link>https://www.ft.com/content/33aca8da-f22c-41e5-8255-289ae7d58ee7?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>European automotive industry welcomes deal as ‘first step’ to create fairer playing field</description>
       <guid isPermaLink="true">https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 13 Oct 2026 04:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s loan to a US defence start-up adds to Wall Street’s war chest too</title>
-      <link>https://www.ft.com/content/e3b31db9-5fe2-4ce8-a1f4-0327c69900a8?syn-25a6b1a6=1</link>
-      <description>The question is why, if Wolfspeed’s prospects are so enticing, other private sector capital providers weren’t racing to provide funding too</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e3b31db9-5fe2-4ce8-a1f4-0327c69900a8?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 13 Oct 2026 04:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
