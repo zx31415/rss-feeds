@@ -8,20 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 07:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:19:19 +0000</lastBuildDate>
+    <item>
+      <title>AI Boom-or-Bust Scenarios Loom Large at World Financial Summit</title>
+      <link>https://www.wsj.com/economy/global/ai-boom-or-bust-scenarios-loom-large-at-world-financial-summit-00edaeff?mod=rss_worldnews</link>
+      <description>The economic possibilities—and potential perils—of the new technology dominated discussions at the IMF gathering in Bangkok this week.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/global/ai-boom-or-bust-scenarios-loom-large-at-world-financial-summit-00edaeff?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 11:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Proposes Export Controls on AI Technologies</title>
+      <link>https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030?mod=rss_worldnews</link>
+      <description>China is considering new export controls on artificial-intelligence technologies in a bid to safeguard the strategically critical industry amid intensifying competition.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 10:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning</title>
+      <link>https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</link>
+      <description>Indonesian stocks suffered their steepest drop since the Asian financial crisis in 1998 after index provider MSCI warned the country risked being removed from its indexes.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 07:18:00 +0000</pubDate>
+    </item>
     <item>
       <title>Bank of England Governor Says Too Early to Make Call on Second-Round Inflation</title>
       <link>https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</link>
       <description>The U.K. has felt the first round of inflationary impact from war in the Middle East in higher energy prices.</description>
       <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</guid>
       <pubDate>Fri, 16 Oct 2026 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market</title>
-      <link>https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</link>
-      <description>Indonesian stocks suffered their biggest drop since the 2008 global financial crisis.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds</title>
@@ -134,20 +148,6 @@
       <description>Jean-Luc Mélenchon has seized on student demonstrations and transformed himself into a real contender for France’s highest office.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea?mod=rss_worldnews</guid>
       <pubDate>Thu, 15 Oct 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Says New Limits on Starlink Are Disrupting Its Military Operations</title>
-      <link>https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</link>
-      <description>Ukrainian officials say the restrictions imposed on the terminals have blunted their ability to attack Russian targets and intercept drones.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-says-new-starlink-speed-limit-is-disrupting-its-attacks-79225e19?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 20:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Airlines Rush to Save Scores of Planes From a War Zone</title>
-      <link>https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=rss_worldnews</link>
-      <description>Deadly Houthi missile strikes have airlines racing to move billions worth of planes to safety.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 17:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
