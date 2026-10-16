@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:03:35 +0000</lastBuildDate>
+    <item>
+      <title>Bank of England Governor Says Too Early to Make Call on Second-Round Inflation</title>
+      <link>https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</link>
+      <description>The U.K. has felt the first round of inflationary impact from war in the Middle East in higher energy prices.</description>
+      <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 06:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market</title>
+      <link>https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</link>
+      <description>Indonesian stocks suffered their biggest drop since the 2008 global financial crisis.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 05:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds</title>
       <link>https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Deadly Houthi missile strikes have airlines racing to move billions worth of planes to safety.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/airlines/saudi-airlines-rush-to-save-scores-of-planes-from-a-war-zone-d1e7add7?mod=rss_worldnews</guid>
       <pubDate>Wed, 14 Oct 2026 17:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Space Force Showed Us Its Weapons Used in Iran and Venezuela</title>
-      <link>https://www.wsj.com/us-news/the-space-force-showed-us-its-weapons-used-in-iran-and-venezuela-6d87c33f?mod=rss_worldnews</link>
-      <description>Space Force electromagnetic-warfare systems are playing a key role in U.S. military operations around the world. WSJ’s Shelby Holliday visited a base in Colorado to learn more.</description>
-      <guid isPermaLink="true">https://www.wsj.com/us-news/the-space-force-showed-us-its-weapons-used-in-iran-and-venezuela-6d87c33f?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 16:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia Detains Japanese Journalist on Espionage Charges</title>
-      <link>https://www.wsj.com/world/russia/russia-detains-japanese-journalist-on-espionage-charges-1506f50f?mod=rss_worldnews</link>
-      <description>Tensions between Tokyo and Moscow have been rising since Russia invaded Ukraine.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/russia-detains-japanese-journalist-on-espionage-charges-1506f50f?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 16:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
