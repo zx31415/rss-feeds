@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:12:48 +0000</lastBuildDate>
+    <item>
+      <title>The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds</title>
+      <link>https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</link>
+      <description>One of the deadliest saboteurs in recent military history, Lt. Lev Stupnikov fed troop locations and battle plans to the enemy before making a daring escape.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</guid>
+      <pubDate>Fri, 16 Oct 2026 00:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices, Fed on Bank Indonesia’s Radar Ahead of Next Meeting</title>
+      <link>https://www.wsj.com/world/asia/oil-prices-fed-on-bank-indonesias-radar-ahead-of-next-meeting-d196c146?mod=rss_worldnews</link>
+      <description>A shift in rate differentials could weigh on the appeal of Indonesia’s currency and bonds, while volatile oil prices are the main downside risk to the country’s economy.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/oil-prices-fed-on-bank-indonesias-radar-ahead-of-next-meeting-d196c146?mod=rss_worldnews</guid>
+      <pubDate>Thu, 15 Oct 2026 23:52:00 +0000</pubDate>
+    </item>
     <item>
       <title>New York City Comptroller Defends Decision Not to Invest in Israeli Bonds</title>
       <link>https://www.wsj.com/politics/new-york-city-comptroller-defends-decision-not-to-invest-in-israeli-bonds-ed190f25?mod=rss_worldnews</link>
@@ -80,17 +94,17 @@
       <pubDate>Thu, 15 Oct 2026 10:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>A ‘Ludicrously Ugly’ Bridge Is Exhibit A That Britain Has Lost Its Mojo</title>
-      <link>https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews</link>
-      <description>During more than a decade of tinkering and planning on the drab 20-yard structure, China built the world’s highest bridge and Canada forged a river crossing to the U.S.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews</guid>
-      <pubDate>Thu, 15 Oct 2026 09:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The Engineer Accused of Bugging OpenAI’s Top-Secret Conference Room</title>
       <link>https://www.wsj.com/tech/ai/the-engineer-accused-of-bugging-openais-top-secret-conference-room-7f91c07c?mod=rss_worldnews</link>
       <description>Abdulrahman Alfozan kept ties in Saudi Arabia while he rose in Silicon Valley, until federal agents accused him of hiding a recorder behind a conference-room television.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/the-engineer-accused-of-bugging-openais-top-secret-conference-room-7f91c07c?mod=rss_worldnews</guid>
+      <pubDate>Thu, 15 Oct 2026 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ‘Ludicrously Ugly’ Bridge Is Exhibit A That Britain Has Lost Its Mojo</title>
+      <link>https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews</link>
+      <description>During more than a decade of tinkering and planning on the drab 20-yard structure, China built the world’s highest bridge and Canada forged a river crossing to the U.S.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews</guid>
       <pubDate>Thu, 15 Oct 2026 09:30:00 +0000</pubDate>
     </item>
     <item>
@@ -134,20 +148,6 @@
       <description>Tensions between Tokyo and Moscow have been rising since Russia invaded Ukraine.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/russia/russia-detains-japanese-journalist-on-espionage-charges-1506f50f?mod=rss_worldnews</guid>
       <pubDate>Wed, 14 Oct 2026 16:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase</title>
-      <link>https://www.wsj.com/world/middle-east/two-cargo-ships-sink-near-hormuz-as-iranian-attacks-spike-0591887d?mod=rss_worldnews</link>
-      <description>The strikes come as the U.S. military is successfully shepherding more oil through the strait.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/two-cargo-ships-sink-near-hormuz-as-iranian-attacks-spike-0591887d?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 15:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Houthi Strike Hits Building at Saudi Aramco Headquarters</title>
-      <link>https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59?mod=rss_worldnews</link>
-      <description>The attack follows strikes on Riyadh’s international airport and expands the conflict between Saudi Arabia and the Iran-backed militants.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59?mod=rss_worldnews</guid>
-      <pubDate>Wed, 14 Oct 2026 14:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
