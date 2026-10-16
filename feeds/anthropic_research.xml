@@ -8,7 +8,42 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:07:43 +0000</lastBuildDate>
+    <item>
+      <title>Designing more efficient quantum circuits with Claude</title>
+      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+      <description>Science</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/designing-efficient-quantum-circuits</guid>
+      <pubDate>Fri, 16 Oct 2026 22:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude reveals ECDSA curve origins</title>
+      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+      <description>Frontier Red Team</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
+      <pubDate>Fri, 16 Oct 2026 22:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI expectations gap</title>
+      <link>https://www.anthropic.com/research/ai-expectations-gap</link>
+      <description>Economics</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/ai-expectations-gap</guid>
+      <pubDate>Fri, 16 Oct 2026 22:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>How employment is changing at Anthropic</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <description>Economics</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/employment-at-anthropic</guid>
+      <pubDate>Fri, 16 Oct 2026 22:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Working at the frontier shapes expectations for the future</title>
+      <link>https://www.anthropic.com/research/expectations-for-the-future</link>
+      <description>Economics</description>
+      <guid isPermaLink="true">https://www.anthropic.com/research/expectations-for-the-future</guid>
+      <pubDate>Fri, 16 Oct 2026 22:07:39 +0000</pubDate>
+    </item>
     <item>
       <title>AI models may be capable of self-replicating without access to a datacenter</title>
       <link>https://www.anthropic.com/research/self-replicating-ai</link>
@@ -43,41 +78,6 @@
       <description>Frontier Red Team</description>
       <guid isPermaLink="true">https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</guid>
       <pubDate>Thu, 08 Oct 2026 23:46:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude-shaped science</title>
-      <link>https://www.anthropic.com/research/claude-shaped-science</link>
-      <description>Science</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/claude-shaped-science</guid>
-      <pubDate>Thu, 01 Oct 2026 23:15:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>What work can robots do?</title>
-      <link>https://www.anthropic.com/research/what-work-can-robots-do</link>
-      <description>Economics</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/what-work-can-robots-do</guid>
-      <pubDate>Wed, 30 Sep 2026 23:04:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>What do you want from AI?</title>
-      <link>https://www.anthropic.com/research/your-thoughts-on-ai</link>
-      <description>Societal Impacts</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/your-thoughts-on-ai</guid>
-      <pubDate>Tue, 29 Sep 2026 23:01:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLM-5.3 and the spread of advanced cyber capabilities</title>
-      <link>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</link>
-      <description>Frontier Red Team</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</guid>
-      <pubDate>Tue, 29 Sep 2026 23:01:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yes, Claude can do Nine Loops</title>
-      <link>https://www.anthropic.com/research/yes-claude-can-do-nine-loops</link>
-      <description>Science</description>
-      <guid isPermaLink="true">https://www.anthropic.com/research/yes-claude-can-do-nine-loops</guid>
-      <pubDate>Fri, 25 Sep 2026 22:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
