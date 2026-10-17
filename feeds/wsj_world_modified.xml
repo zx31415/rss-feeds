@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 04:14:41 +0000</lastBuildDate>
+    <item>
+      <title>Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia</title>
+      <link>https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews</link>
+      <description>Tehran’s support is helping the Yemeni group mount its most potent attacks yet on the kingdom.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews</guid>
+      <pubDate>Sat, 17 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco</title>
       <link>https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Lifted Starlink restrictions will enable Ukraine to resume midrange strikes and other military operations.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/ukraine-strikes-russian-refinery-after-moscow-breaks-trumps-energy-ceasefire-35b3ee40?mod=rss_worldnews</guid>
       <pubDate>Thu, 15 Oct 2026 17:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada Factory Sales Recover in August With Increased Prices</title>
-      <link>https://www.wsj.com/world/americas/canada-factory-sales-recover-in-august-with-increased-prices-e67ce632?mod=rss_worldnews</link>
-      <description>Shipments increased 1.5% from the month before, marking a sixth rise in factory trade in the last seven months after a 0.3% dip in July.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/canada-factory-sales-recover-in-august-with-increased-prices-e67ce632?mod=rss_worldnews</guid>
-      <pubDate>Thu, 15 Oct 2026 15:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
