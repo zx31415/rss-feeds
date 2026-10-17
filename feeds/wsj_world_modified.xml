@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:17:34 +0000</lastBuildDate>
+    <item>
+      <title>Masked Israeli Settlers Attack European Diplomats in West Bank</title>
+      <link>https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1?mod=rss_worldnews</link>
+      <description>A pattern of escalating violence in the occupied territory is straining Israel’s relations with the West.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1?mod=rss_worldnews</guid>
+      <pubDate>Sat, 17 Oct 2026 19:14:00 +0000</pubDate>
+    </item>
     <item>
       <title>Violent Protests Rip Through Cities Across France</title>
       <link>https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews</link>
-      <description>Rioters stormed the city hall of Marseille, burned a tourism center in Lyon and smashed storefronts in Paris.</description>
+      <description>Mayhem breaks out beside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and government budget cuts.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews</guid>
-      <pubDate>Sat, 17 Oct 2026 16:22:00 +0000</pubDate>
+      <pubDate>Sat, 17 Oct 2026 17:39:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Europe’s Right Is Breaking Up With MAGA</title>
@@ -141,13 +148,6 @@
       <description>Plus, Trump canceled plans to livestream the execution of the Fort Hood shooter, and the FBI is investigating suspicious mailings sent to elections offices.</description>
       <guid isPermaLink="true">https://www.wsj.com/politics/policy/ukraine-resumes-strikes-on-russian-refineries-516c0072?mod=rss_worldnews</guid>
       <pubDate>Thu, 15 Oct 2026 21:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>With China Facing More Trade Barriers, It Can’t Afford to Lose Europe</title>
-      <link>https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_worldnews</link>
-      <description>Beijing’s concession on hybrid vehicles shows how much it needs the European market</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_worldnews</guid>
-      <pubDate>Thu, 15 Oct 2026 21:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
