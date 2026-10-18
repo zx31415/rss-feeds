@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:01:25 +0000</lastBuildDate>
+    <item>
+      <title>Trump Endorses Israel’s Netanyahu for Re-election</title>
+      <link>https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98?mod=rss_worldnews</link>
+      <description>The embattled Israeli leader had long sought Trump’s backing in tight elections scheduled for this month.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98?mod=rss_worldnews</guid>
+      <pubDate>Sun, 18 Oct 2026 17:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal</title>
+      <link>https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews</link>
+      <description>The fresh attack on Russian oil facilities came after President Trump’s efforts to enforce a fragile energy ceasefire collapsed.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews</guid>
+      <pubDate>Sun, 18 Oct 2026 17:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zelensky Takes a Risk by Publicly Confronting Trump Over Russia</title>
       <link>https://www.wsj.com/articles/zelensky-takes-a-risk-by-publicly-confronting-trump-over-russia-f5ed557a?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>China is considering new export controls on artificial-intelligence technologies in a bid to safeguard the strategically critical industry amid intensifying competition.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030?mod=rss_worldnews</guid>
       <pubDate>Fri, 16 Oct 2026 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indonesia Stocks Log Worst Day Since 1998 on MSCI Downgrade Warning</title>
-      <link>https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</link>
-      <description>Indonesian stocks suffered their steepest drop since the Asian financial crisis in 1998 after index provider MSCI warned the country risked being removed from its indexes.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 07:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of England Governor Says Too Early to Make Call on Second-Round Inflation</title>
-      <link>https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</link>
-      <description>The U.K. has felt the first round of inflationary impact from war in the Middle East in higher energy prices.</description>
-      <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 06:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
