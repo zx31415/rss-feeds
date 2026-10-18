@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 09:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:46:42 +0000</lastBuildDate>
+    <item>
+      <title>Why we just can’t quit the site formerly known as Twitter</title>
+      <link>https://www.ft.com/content/236f73b9-cd71-4ef4-a5dc-303a9d7be673?syn-25a6b1a6=1</link>
+      <description>By some measures Elon Musk’s $44bn purchase of the platform now called X has already paid for itself</description>
+      <guid isPermaLink="true">https://www.ft.com/content/236f73b9-cd71-4ef4-a5dc-303a9d7be673?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 18 Oct 2026 04:00:18 +0000</pubDate>
+    </item>
     <item>
       <title>This earnings season, what CEOs say matters more than what they’ve done</title>
       <link>https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422</link>
@@ -141,13 +148,6 @@
       <description>The motorcycle maker is reissuing classic models to lure a new generation to head out on the highway</description>
       <guid isPermaLink="true">https://www.ft.com/content/04bda62b-4de2-4cc4-b427-d4b9538e2f7d?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 14 Oct 2026 04:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s exports surge 36% as AI-related shipments boom</title>
-      <link>https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1</link>
-      <description>September trade surplus hits record level, putting economy on track to surpass 2025 total of $1.2tn</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4eab6c20-60d6-46b6-accd-2e04edfa541d?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 14 Oct 2026 03:56:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
