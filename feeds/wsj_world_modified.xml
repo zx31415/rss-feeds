@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:53:47 +0000</lastBuildDate>
+    <item>
+      <title>Zelensky Takes a Risk by Publicly Confronting Trump Over Russia</title>
+      <link>https://www.wsj.com/articles/zelensky-takes-a-risk-by-publicly-confronting-trump-over-russia-f5ed557a?mod=rss_worldnews</link>
+      <description>Plus, masked Israeli settlers attack a group of European diplomats, and a playboy inherits the world’s most notorious mercenary force.</description>
+      <guid isPermaLink="true">https://www.wsj.com/articles/zelensky-takes-a-risk-by-publicly-confronting-trump-over-russia-f5ed557a?mod=rss_worldnews</guid>
+      <pubDate>Sun, 18 Oct 2026 10:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alberta’s Secession Vote Has Opened Up a Bitter Divide in Canada</title>
       <link>https://www.wsj.com/world/americas/alberta-independence-vote-canada-22b8208b?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The U.K. has felt the first round of inflationary impact from war in the Middle East in higher energy prices.</description>
       <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews</guid>
       <pubDate>Fri, 16 Oct 2026 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Defector: A Russian Officer Turned Against His Country and Helped Ukraine Kill Hundreds</title>
-      <link>https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</link>
-      <description>One of the deadliest saboteurs in recent military history, Lt. Lev Stupnikov fed troop locations and battle plans to the enemy before making a daring escape.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 00:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
