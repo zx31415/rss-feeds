@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:55:11 +0000</lastBuildDate>
+    <item>
+      <title>Alberta’s Secession Vote Has Opened Up a Bitter Divide in Canada</title>
+      <link>https://www.wsj.com/world/americas/alberta-independence-vote-canada-22b8208b?mod=rss_worldnews</link>
+      <description>Prime Minister Mark Carney is trying to rally the oil-rich province to stick with the country at a time when national unity is needed.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/alberta-independence-vote-canada-22b8208b?mod=rss_worldnews</guid>
+      <pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Zelensky Decided to Take the Risk and Publicly Confront Trump</title>
+      <link>https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews</link>
+      <description>The Ukrainian leader is calling out the White House for relaxing pressure on Russia, drawing more ire.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews</guid>
+      <pubDate>Sun, 18 Oct 2026 09:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Playboy Who Inherited the World’s Most Notorious Mercenary Force</title>
       <link>https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews</link>
@@ -17,16 +31,9 @@
       <pubDate>Sun, 18 Oct 2026 01:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Zelensky Decided to Take the Risk and Publicly Confront Trump</title>
-      <link>https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews</link>
-      <description>The Ukrainian leader is calling out the White House for relaxing pressure on Russia, drawing more ire.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews</guid>
-      <pubDate>Sun, 18 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Violent Protests Rip Through Cities Across France</title>
       <link>https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews</link>
-      <description>Mayhem broke out beside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and government budget cuts.</description>
+      <description>Mayhem broke out alongside peaceful demonstrations in Paris, Marseille and elsewhere as resentment rises over affordability and budget cuts.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews</guid>
       <pubDate>Sat, 17 Oct 2026 21:49:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>One of the deadliest saboteurs in recent military history, Lt. Lev Stupnikov fed troop locations and battle plans to the enemy before making a daring escape.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/russian-defector-deadly-sabotage-campaign-a95d163c?mod=rss_worldnews</guid>
       <pubDate>Fri, 16 Oct 2026 00:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices, Fed on Bank Indonesia’s Radar Ahead of Next Meeting</title>
-      <link>https://www.wsj.com/world/asia/oil-prices-fed-on-bank-indonesias-radar-ahead-of-next-meeting-d196c146?mod=rss_worldnews</link>
-      <description>A shift in rate differentials could weigh on the appeal of Indonesia’s currency and bonds, while volatile oil prices are the main downside risk to the country’s economy.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/oil-prices-fed-on-bank-indonesias-radar-ahead-of-next-meeting-d196c146?mod=rss_worldnews</guid>
-      <pubDate>Thu, 15 Oct 2026 23:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
