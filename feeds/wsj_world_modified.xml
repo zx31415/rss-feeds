@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:40:34 +0000</lastBuildDate>
+    <item>
+      <title>China’s Economy Expanded 4.5% in Third Quarter, Powered by Exports</title>
+      <link>https://www.wsj.com/economy/chinas-economy-expanded-4-5-in-third-quarter-powered-by-exports-53910a55?mod=rss_worldnews</link>
+      <description>Economic growth accelerated, though consumer confidence and property market woes persist.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/chinas-economy-expanded-4-5-in-third-quarter-powered-by-exports-53910a55?mod=rss_worldnews</guid>
+      <pubDate>Mon, 19 Oct 2026 04:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabia’s Military Limitations Are Being Exposed by Houthi Attacks</title>
+      <link>https://www.wsj.com/world/middle-east/saudi-arabias-military-limitations-are-being-exposed-by-houthi-attacks-40082655?mod=rss_worldnews</link>
+      <description>The kingdom has advanced weaponry, but the Yemeni militant group has proved to be a resilient foe.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabias-military-limitations-are-being-exposed-by-houthi-attacks-40082655?mod=rss_worldnews</guid>
+      <pubDate>Mon, 19 Oct 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump’s Overtures to Putin Put Republican Candidates in Hot Seat</title>
       <link>https://www.wsj.com/politics/policy/trumps-overtures-to-putin-put-republican-candidates-in-hot-seat-3ac6ffc8?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Prime Minister Mark Carney is using the moment to push through nation-building projects that could kick-start Canada’s economy.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/how-trumps-pressure-could-actually-end-up-saving-canada-1ca3f166?mod=rss_worldnews</guid>
       <pubDate>Fri, 16 Oct 2026 15:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hezbollah Tells the Lebanese Government It Wants Its Explosives Back</title>
-      <link>https://www.wsj.com/world/middle-east/hezbollah-tells-the-lebanese-government-it-wants-its-explosives-back-45b8902e?mod=rss_worldnews</link>
-      <description>The demand sets up a public contest of wills with a government that has pledged to demilitarize the Iran-backed militant group.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/hezbollah-tells-the-lebanese-government-it-wants-its-explosives-back-45b8902e?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 13:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best High-Yield Savings Accounts of October 2026: Up to 5.00%</title>
-      <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
-      <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
-      <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
-      <pubDate>Fri, 16 Oct 2026 13:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

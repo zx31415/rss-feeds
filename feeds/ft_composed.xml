@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:40:30 +0000</lastBuildDate>
+    <item>
+      <title>US stocks set for rebound after AI sell-off</title>
+      <link>https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1</link>
+      <description>Nasdaq 100 futures rise 1.3% following biggest weekly drop since Trump’s ‘liberation day’ in April last year</description>
+      <guid isPermaLink="true">https://www.ft.com/content/915ea7ca-1f35-4847-810a-fb29e8344496?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 19 Oct 2026 07:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>China’s economy picks up pace at 4.5% growth</title>
+      <link>https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1</link>
+      <description>Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say</description>
+      <guid isPermaLink="true">https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 19 Oct 2026 05:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>US envoy hopes for ‘prosperous’ Europe</title>
+      <link>https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1</link>
+      <description>Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip</description>
+      <guid isPermaLink="true">https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>US army chief in Asia calls for show of enhanced military muscle</title>
       <link>https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1</link>
@@ -127,27 +148,6 @@
       <description>Investors rush into Treasuries as sell-off triggers demand for haven assets</description>
       <guid isPermaLink="true">https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 14 Oct 2026 20:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s defence stocks send a geopolitical distress signal</title>
-      <link>https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1</link>
-      <description>Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production</description>
-      <guid isPermaLink="true">https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 14 Oct 2026 11:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>The rollout of 24-hour* trading</title>
-      <link>https://www.ft.com/content/694aa230-fbad-40f2-b2dc-e663f24583d1?syn-25a6b1a6=1</link>
-      <description>*It’s actually 23 hours</description>
-      <guid isPermaLink="true">https://www.ft.com/content/694aa230-fbad-40f2-b2dc-e663f24583d1?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 14 Oct 2026 05:30:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>By going private, Bumble may finally make a good match</title>
-      <link>https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1</link>
-      <description>Sharpening the AI tools at its disposal could improve outcomes and potentially enable the dating app to get people to pay</description>
-      <guid isPermaLink="true">https://www.ft.com/content/eba64db2-1df1-4141-a1c1-724f549fe8ff?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 14 Oct 2026 04:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
