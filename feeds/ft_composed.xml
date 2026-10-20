@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:52:02 +0000</lastBuildDate>
+    <item>
+      <title>Why globetrotting retail banks are back in fashion</title>
+      <link>https://www.ft.com/content/d8603ad4-e9a4-43e4-9419-a0eb53e298f3?syn-25a6b1a6=1</link>
+      <description>The fear is that it’s those who stay at home, rather than those who venture abroad, who will end up lifelong losers</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d8603ad4-e9a4-43e4-9419-a0eb53e298f3?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 20 Oct 2026 12:28:21 +0000</pubDate>
+    </item>
     <item>
       <title>Japan ‘months’ from running out of critical rare earth as China squeezes supply</title>
       <link>https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>A carve-out could raise capital, but it’s a crowded sector and valuations don’t accord with the sector’s lack of profitability</description>
       <guid isPermaLink="true">https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 16 Oct 2026 04:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Airlines should give up their fuel-hedging dogfight</title>
-      <link>https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c?syn-25a6b1a6=1</link>
-      <description>Even for battle-hardened CEOs, this latest crisis is a chance for some helpful new thinking</description>
-      <guid isPermaLink="true">https://www.ft.com/content/2839679e-f329-41f0-a252-93444e81252c?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 16 Oct 2026 04:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
