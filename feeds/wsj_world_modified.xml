@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:47:54 +0000</lastBuildDate>
+    <item>
+      <title>Alberta Voted to Stay in Canada but the Separatists Vow to Fight On</title>
+      <link>https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews</link>
+      <description>Some saw the referendum as giving oxygen to a movement that previously had only marginal support.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/alberta-voted-to-stay-in-canada-but-the-separatists-vow-to-fight-on-dc3fe0dd?mod=rss_worldnews</guid>
+      <pubDate>Tue, 20 Oct 2026 22:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Futures Settle Lower in Volatile Session</title>
       <link>https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Mining companies have invested billions of dollars in new gold mines to cash in on near-record-high prices for the metal.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/africa/the-new-wild-west-of-gold-mining-is-west-africa-8b4886c4?mod=rss_worldnews</guid>
       <pubDate>Mon, 19 Oct 2026 19:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Young Protesters Are Putting India’s Modi on the Defensive</title>
-      <link>https://www.wsj.com/world/india/young-protesters-are-putting-indias-modi-on-the-defensive-56108d4c?mod=rss_worldnews</link>
-      <description>Narendra Modi’s government has a reputation for being heavy-handed toward dissent, but its tactics in recent days have been met with a mix of wit and defiance by young protesters.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/india/young-protesters-are-putting-indias-modi-on-the-defensive-56108d4c?mod=rss_worldnews</guid>
-      <pubDate>Mon, 19 Oct 2026 18:33:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
