@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:29:27 +0000</lastBuildDate>
+    <item>
+      <title>Musk Ordered Starlink Slowdown That Blindsided Ukraine</title>
+      <link>https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</link>
+      <description>The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</guid>
+      <pubDate>Tue, 20 Oct 2026 20:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>French Police Hunt for Suspected Rioters in Weekend Unrest</title>
+      <link>https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews</link>
+      <description>Authorities are combing through security footage and social media as they look for those involved in looting and vandalism.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews</guid>
+      <pubDate>Tue, 20 Oct 2026 19:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Prices Reverse Gains, Move Lower After Brent Tops $111 a Barrel</title>
       <link>https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Narendra Modi’s government has a reputation for being heavy-handed toward dissent, but its tactics in recent days have been met with a mix of wit and defiance by young protesters.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/india/young-protesters-are-putting-indias-modi-on-the-defensive-56108d4c?mod=rss_worldnews</guid>
       <pubDate>Mon, 19 Oct 2026 18:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel’s Front-Runners Shun Arab Voters Who Could Help Them Win Election</title>
-      <link>https://www.wsj.com/world/middle-east/israels-front-runners-shun-arab-voters-who-could-help-them-win-election-8f4cd158?mod=rss_worldnews</link>
-      <description>Opinion polls suggest the election is deadlocked, except for about a million Arab voters whose backing comes with drawbacks in a polarized society.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israels-front-runners-shun-arab-voters-who-could-help-them-win-election-8f4cd158?mod=rss_worldnews</guid>
-      <pubDate>Mon, 19 Oct 2026 17:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week</title>
-      <link>https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews</link>
-      <description>The conference will be delayed until 2027, following attacks by the Iran-backed Houthis on the kingdom’s airports.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabia-decides-against-holding-in-person-investor-conference-d9f5e66b?mod=rss_worldnews</guid>
-      <pubDate>Mon, 19 Oct 2026 16:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
