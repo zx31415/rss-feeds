@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:56:25 +0000</lastBuildDate>
+    <item>
+      <title>Albertans Vote to Stay in Canada in Historic Referendum</title>
+      <link>https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086?mod=rss_worldnews</link>
+      <description>The monthslong debate on the oil-rich province’s future exposed deep divisions that might not be easily mended.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086?mod=rss_worldnews</guid>
+      <pubDate>Tue, 20 Oct 2026 05:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marine Le Pen Seizes on French Chaos to Present Herself as Leader in Waiting</title>
+      <link>https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews</link>
+      <description>Nationwide unrest is benefiting the far-right candidate while President Emmanuel Macron’s government struggles to maintain control.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews</guid>
+      <pubDate>Tue, 20 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vance Declines to Endorse Netanyahu in Re-Election Bid</title>
       <link>https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Recent attacks by Houthi rebels are making U.S. executives nervous to travel to the Future Investment Initiative conference in Saudi Arabia next week.</description>
       <guid isPermaLink="true">https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_worldnews</guid>
       <pubDate>Sun, 18 Oct 2026 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Endorses Israel’s Netanyahu for Re-Election</title>
-      <link>https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98?mod=rss_worldnews</link>
-      <description>The embattled Israeli leader had long sought Trump’s backing in tight elections scheduled for this month.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-endorses-israels-netanyahu-for-re-election-aaad0b98?mod=rss_worldnews</guid>
-      <pubDate>Sun, 18 Oct 2026 18:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian Drone Strike Hits Putin’s Hometown, Striking Oil Terminal</title>
-      <link>https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews</link>
-      <description>The fresh attack on Russian oil facilities came after President Trump’s efforts to enforce a fragile energy ceasefire collapsed.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews</guid>
-      <pubDate>Sun, 18 Oct 2026 17:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
