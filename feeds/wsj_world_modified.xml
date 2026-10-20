@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:15:44 +0000</lastBuildDate>
+    <item>
+      <title>Vance Declines to Endorse Netanyahu in Re-Election Bid</title>
+      <link>https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews</link>
+      <description>The vice president split from Trump who backed Israeli Prime Minister Benjamin Netanyahu in Israel’s Oct. 27 election.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews</guid>
+      <pubDate>Mon, 19 Oct 2026 23:50:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Says He Would Be Open to Meeting With Putin and Xi</title>
       <link>https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The fresh attack on Russian oil facilities came after President Trump’s efforts to enforce a fragile energy ceasefire collapsed.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c?mod=rss_worldnews</guid>
       <pubDate>Sun, 18 Oct 2026 17:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelensky Takes a Risk by Publicly Confronting Trump Over Russia</title>
-      <link>https://www.wsj.com/articles/zelensky-takes-a-risk-by-publicly-confronting-trump-over-russia-f5ed557a?mod=rss_worldnews</link>
-      <description>Plus, masked Israeli settlers attack a group of European diplomats, and a playboy inherits the world’s most notorious mercenary force.</description>
-      <guid isPermaLink="true">https://www.wsj.com/articles/zelensky-takes-a-risk-by-publicly-confronting-trump-over-russia-f5ed557a?mod=rss_worldnews</guid>
-      <pubDate>Sun, 18 Oct 2026 10:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
