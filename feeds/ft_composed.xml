@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:04:19 +0000</lastBuildDate>
+    <item>
+      <title>What Elon Musk stands to gain from a Tesla-SpaceX merger</title>
+      <link>https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1</link>
+      <description>A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today</description>
+      <guid isPermaLink="true">https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:25:53 +0000</pubDate>
+    </item>
     <item>
       <title>Don’t underestimate Netflix’s power to flip the script</title>
       <link>https://www.ft.com/content/67a2f314-730b-477b-b52f-f7495394ceec?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip</description>
       <guid isPermaLink="true">https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 19 Oct 2026 05:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Army chief in Asia calls for show of enhanced military muscle</title>
-      <link>https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1</link>
-      <description>General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 18 Oct 2026 19:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
