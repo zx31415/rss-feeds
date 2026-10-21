@@ -8,11 +8,46 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:02:26 +0000</lastBuildDate>
     <item>
-      <title>Airfield Attack Marked Opening Shot in Putin’s Sabotage Campaign Against Europe</title>
+      <title>Russia Releases Captured American in Sign of Warming Ties</title>
+      <link>https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa?mod=rss_worldnews</link>
+      <description>Stephen Hubbard had been living in Ukraine for years at the time of his detention in 2022.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/russia-releases-captured-american-in-sign-of-warming-ties-d8acccaa?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk Ordered Starlink Slowdown That Crippled Ukraine’s Drones and Sowed Panic in Kyiv</title>
+      <link>https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_worldnews</link>
+      <description>Plus, autism-therapy workers say big chains pressured them to boost treatment hours, and NYSE is getting trounced in the battle for Wall Street’s biggest IPOs.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/musk-ordered-starlink-slowdown-that-crippled-ukraines-drones-and-sowed-panic-in-kyiv-f907aab0?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 09:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Musk Ordered Starlink Slowdown That Blindsided Ukraine</title>
+      <link>https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</link>
+      <description>The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.K. Government on Track to Cut Borrowing Ahead of Budget</title>
+      <link>https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee?mod=rss_worldnews</link>
+      <description>The government cut borrowing in the first six months of its fiscal year—but at a slower pace than planned—underlining the challenges posed by rising prices and interest payments.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 06:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Rise as Hormuz Shipping Risks Persist</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8?mod=rss_worldnews</link>
+      <description>Oil prices rebounded from the previous session’s losses as traders weighed renewed threats to shipping through the Hormuz Strait and attacks targeting Saudi Arabia against a recovery in Middle East oil exports.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-as-hormuz-shipping-risks-persist-7df58bc8?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 06:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Airfield Attack Marked Opening Shot in Putin’s Stepped-Up Sabotage Campaign</title>
       <link>https://www.wsj.com/world/europe/airfield-attack-marked-opening-shot-in-putins-sabotage-campaign-against-europe-115dedd4?mod=rss_worldnews</link>
-      <description>The Russian leader ordered new wave of attacks against NATO countries.</description>
+      <description>The failed operation in eastern Germany this summer was part of a new wave of attacks ordered by President Vladimir Putin.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/airfield-attack-marked-opening-shot-in-putins-sabotage-campaign-against-europe-115dedd4?mod=rss_worldnews</guid>
       <pubDate>Wed, 21 Oct 2026 01:00:00 +0000</pubDate>
     </item>
@@ -43,13 +78,6 @@
       <description>Oil futures settled lower in a volatile session that saw prices reach multimonth highs before pulling back as traders considered prospects for U.S.-Iran diplomacy amid continuing Middle East supply risks.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-up-as-traders-weigh-middle-east-supply-risks-560c31ca?mod=rss_worldnews</guid>
       <pubDate>Tue, 20 Oct 2026 21:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk Ordered Starlink Slowdown That Blindsided Ukraine</title>
-      <link>https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</link>
-      <description>The SpaceX founder authorized the move and has been discussing Ukraine with Trump, but the president has denied ordering the restrictions.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193?mod=rss_worldnews</guid>
-      <pubDate>Tue, 20 Oct 2026 20:38:00 +0000</pubDate>
     </item>
     <item>
       <title>French Police Hunt for Suspected Rioters in Weekend Unrest</title>
@@ -120,34 +148,6 @@
       <description>Wage growth rose a little in the three months through August, with unemployment also falling, raising the likelihood that the Bank of England will raise its key rate next month.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/uk/u-k-wage-growth-picks-up-ahead-of-bank-of-england-meeting-6e4a979b?mod=rss_worldnews</guid>
       <pubDate>Tue, 20 Oct 2026 07:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Albertans Vote to Stay in Canada in Historic Referendum</title>
-      <link>https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086?mod=rss_worldnews</link>
-      <description>The monthslong debate on the oil-rich province’s future exposed deep divisions that might not be easily mended.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/albertans-vote-to-stay-in-canada-in-historic-referendum-79f86086?mod=rss_worldnews</guid>
-      <pubDate>Tue, 20 Oct 2026 07:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marine Le Pen Seizes on French Chaos to Present Herself as Leader in Waiting</title>
-      <link>https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews</link>
-      <description>Nationwide unrest is benefiting the far-right candidate while President Emmanuel Macron’s government struggles to maintain control.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/marine-le-pen-seizes-on-french-chaos-to-present-herself-as-leader-in-waiting-80549c0a?mod=rss_worldnews</guid>
-      <pubDate>Tue, 20 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vance Declines to Endorse Netanyahu in Re-Election Bid</title>
-      <link>https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews</link>
-      <description>The vice president split from Trump who backed Israeli Prime Minister Benjamin Netanyahu in Israel’s Oct. 27 election.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/vance-declines-to-endorse-netanyahu-in-re-election-bid-579a25c0?mod=rss_worldnews</guid>
-      <pubDate>Mon, 19 Oct 2026 23:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Says He Would Be Open to Meeting With Putin and Xi</title>
-      <link>https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews</link>
-      <description>The president said he would be willing to discuss denuclearization with the leaders of Russia and China.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/trump-putin-xi-meeting-ee489ddd?mod=rss_worldnews</guid>
-      <pubDate>Mon, 19 Oct 2026 21:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
