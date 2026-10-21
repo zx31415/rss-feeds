@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:27:19 +0000</lastBuildDate>
+    <item>
+      <title>Diplomats Race to Head Off Escalation With Iran</title>
+      <link>https://www.wsj.com/world/middle-east/diplomats-race-to-head-off-escalation-with-iran-4dd00ab4?mod=rss_worldnews</link>
+      <description>Efforts to revive talks come as the U.S. sends more warships to the region and Israel plans for possible attacks.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/diplomats-race-to-head-off-escalation-with-iran-4dd00ab4?mod=rss_worldnews</guid>
+      <pubDate>Wed, 21 Oct 2026 21:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch</title>
       <link>https://www.wsj.com/world/americas/canada-to-provide-steel-auto-sectors-with-billions-to-ease-trade-crunch-c4b5ae1a?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Authorities are combing through security footage and social media as they look for those involved in looting and vandalism.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/french-police-hunt-for-suspected-rioters-in-weekend-unrest-d153ed6d?mod=rss_worldnews</guid>
       <pubDate>Tue, 20 Oct 2026 19:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Envoy Tells Nervous Gulf Allies U.S. Can’t Guarantee Security Forever</title>
-      <link>https://www.wsj.com/world/middle-east/trump-envoy-tells-nervous-gulf-allies-u-s-cant-guarantee-security-forever-f5af8521?mod=rss_worldnews</link>
-      <description>Tom Barrack’s message comes as countries in the Middle East worry the U.S. will leave them to clean up after the Iran war.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/trump-envoy-tells-nervous-gulf-allies-u-s-cant-guarantee-security-forever-f5af8521?mod=rss_worldnews</guid>
-      <pubDate>Tue, 20 Oct 2026 14:47:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
