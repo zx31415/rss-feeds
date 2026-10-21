@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 23:13:56 +0000</lastBuildDate>
+    <item>
+      <title>China’s drugmakers move into the big league</title>
+      <link>https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90?syn-25a6b1a6=1</link>
+      <description>Foreign pharma groups are now paying to access innovation developed locally</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d3ad59b9-b3fe-4948-8979-4236f2b38c90?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 21 Oct 2026 23:01:08 +0000</pubDate>
+    </item>
     <item>
       <title>What Elon Musk stands to gain from a Tesla-SpaceX merger</title>
       <link>https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say</description>
       <guid isPermaLink="true">https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 19 Oct 2026 05:03:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>US envoy hopes for ‘prosperous’ Europe</title>
-      <link>https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1</link>
-      <description>Also in this newsletter: EU turns to New Caledonia for nickel in bid to loosen China’s grip</description>
-      <guid isPermaLink="true">https://www.ft.com/content/280637e2-72f7-46c0-8fc4-3532032287da?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 19 Oct 2026 05:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
