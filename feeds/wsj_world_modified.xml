@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:03:00 +0000</lastBuildDate>
     <item>
-      <title>Oil Rises as Geopolitics Back in Focus After AI Jitters Ease</title>
-      <link>https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_worldnews</link>
-      <description>Oil rose and Asian equities were lower as the spotlight returned to Middle East geopolitical developments after artificial-intelligence jitters eased.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_worldnews</guid>
-      <pubDate>Thu, 22 Oct 2026 03:03:00 +0000</pubDate>
+      <title>Oil Prices Rise More Than 2% as Attacks on Saudi Arabia, U.S.-Iran Risks Persist</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews</link>
+      <description>Oil prices rose with Brent climbing above $111 a barrel as traders weighed renewed attacks on Saudi energy infrastructure and the risk of further U.S.-Iran hostilities against recovering Middle East oil supplies.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews</guid>
+      <pubDate>Thu, 22 Oct 2026 07:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energy Security Concerns Spur U.K. to Preserve Gas Pipelines to Europe</title>
+      <link>https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_worldnews</link>
+      <description>The pipelines are only used occasionally but give the U.K. greater flexibility to tap gas from other sources in times of high demand, such as severe winters.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/energy-security-concerns-spur-u-k-to-preserve-gas-pipelines-to-europe-fca27d74?mod=rss_worldnews</guid>
+      <pubDate>Thu, 22 Oct 2026 07:51:00 +0000</pubDate>
     </item>
     <item>
       <title>One Person Killed and 8 Injured in Airport Attack in Saudi Arabia</title>
@@ -141,13 +148,6 @@
       <description>The failed operation in eastern Germany this summer was part of a new wave of attacks ordered by President Vladimir Putin.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/airfield-attack-marked-opening-shot-in-putins-sabotage-campaign-against-europe-115dedd4?mod=rss_worldnews</guid>
       <pubDate>Wed, 21 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War</title>
-      <link>https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670?mod=rss_worldnews</link>
-      <description>Experience and big paydays have created a more resilient tanker fleet. Oil traders worry it isn’t sustainable.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670?mod=rss_worldnews</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
