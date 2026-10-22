@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 22 Oct 2026 22:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:16:06 +0000</lastBuildDate>
+    <item>
+      <title>The Voters Who Could Decide Israel’s Election and Rewrite Its Future</title>
+      <link>https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews</link>
+      <description>Israel’s Mizrahi Jews, who descend from the Middle East and North Africa, have long been an important part of Netanyahu’s base. But this year, many of their votes are up for grabs.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-elections-mizrahi-jews-820f3182?mod=rss_worldnews</guid>
+      <pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions</title>
       <link>https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Weeks of student-led protests over conditions in French schools have spiraled into violent protests across the country.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews</guid>
       <pubDate>Wed, 21 Oct 2026 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese AI Tool Linked to Hacks in Japan</title>
-      <link>https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b?mod=rss_worldnews</link>
-      <description>Around 80 Japanese companies were targeted from overseas in hacks that bore digital traces of Artex, an AI agent developed in China.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b?mod=rss_worldnews</guid>
-      <pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
