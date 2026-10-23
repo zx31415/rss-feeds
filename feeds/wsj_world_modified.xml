@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:05:22 +0000</lastBuildDate>
+    <item>
+      <title>Moody’s Keeps France’s Credit Rating Unchanged</title>
+      <link>https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d?mod=rss_worldnews</link>
+      <description>Moody’s Ratings kept France’s credit rating unchanged, despite a steady rise in its debts and the political fragmentation that has made it difficult to rein in borrowing.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d?mod=rss_worldnews</guid>
+      <pubDate>Fri, 23 Oct 2026 21:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Rise on Fears of Middle East Conflict Escalation</title>
+      <link>https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</link>
+      <description>Oil prices closed out the week solidly higher with the market on edge about the possibility of renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</guid>
+      <pubDate>Fri, 23 Oct 2026 19:54:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gunman Kills One Near Paris in Suspected Attack on Immigrant Communities</title>
       <link>https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews</link>
       <description>Authorities detained a suspect and are investigating whether the shootings, which wounded four other people, targeted a specific race, origin or religion.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 18:59:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 19:20:00 +0000</pubDate>
     </item>
     <item>
       <title>Netanyahu Calls for West Bank Lockdown After Deadly Attack</title>
@@ -50,13 +64,6 @@
       <description>The country’s biggest seafood company shows how Nicolás Maduro’s antibusiness tactics prevail under the U.S.-backed government in Caracas.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/venezuelas-shrimp-king-wanted-his-700-million-firm-back-now-hes-in-jail-1c7d0a47?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices Rise as Middle East Risks Persist</title>
-      <link>https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</link>
-      <description>Brent climbed above $114 as traders weighed the risk of renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure against recovering Middle East oil supplies.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 13:11:00 +0000</pubDate>
     </item>
     <item>
       <title>Best High-Yield Savings Accounts of October 2026: Up to 5.00%</title>
@@ -141,13 +148,6 @@
       <description>Oil futures rose sharply as Yemen’s Houthis launched fresh attacks on Saudi Arabia’s energy infrastructure and the market saw risk of further U.S.-Iran hostilities disrupting Middle East oil supplies.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews</guid>
       <pubDate>Thu, 22 Oct 2026 19:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Subterranean Battle Playing Out Deep in Ukraine’s Soviet-Era Pipelines</title>
-      <link>https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260?mod=rss_worldnews</link>
-      <description>With drones dominating the sky, Ukraine and Russia are going head-to-head underground.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/the-subterranean-battle-playing-out-deep-in-ukraines-soviet-era-pipelines-49dcc260?mod=rss_worldnews</guid>
-      <pubDate>Thu, 22 Oct 2026 10:19:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
