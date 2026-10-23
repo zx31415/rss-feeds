@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:57:45 +0000</lastBuildDate>
+    <item>
+      <title>Oil Prices Rise as Middle East Risks Persist</title>
+      <link>https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</link>
+      <description>Brent climbed above $114 as traders weighed the risk of renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure against recovering Middle East oil supplies.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-rise-as-middle-east-risks-persist-c1262364?mod=rss_worldnews</guid>
+      <pubDate>Fri, 23 Oct 2026 07:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks</title>
+      <link>https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</link>
+      <description>As Tehran retains missile and drone stockpiles, Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</guid>
+      <pubDate>Fri, 23 Oct 2026 05:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>Eight Charts That Show the Depth of France’s Financial Crunch</title>
       <link>https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews</link>
@@ -29,13 +43,6 @@
       <description>Salvadoran President Nayib Bukele threatens a harsher military response if Haitian gangs don’t return four Salvadoran members of a U.N.-backed force alive.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/el-salvador-attempts-rescue-of-military-personnel-after-gang-ambush-in-haiti-8ca67b13?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 00:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks</title>
-      <link>https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</link>
-      <description>As Tehran retains missile and drone stockpiles, Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Israel’s New Center of Gravity</title>
@@ -141,13 +148,6 @@
       <description>The U.S. envoy’s remarks in Russia sparked fury among Ukraine’s supporters, but they follow President Trump’s strategy for ending the Ukraine war.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/russia/witkoffs-praise-of-putin-as-humanitarian-tracks-with-u-s-approach-to-russia-2e5dc6a3?mod=rss_worldnews</guid>
       <pubDate>Wed, 21 Oct 2026 19:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s Starlink Speed Cap Has Scrambled Ukraine’s Defenses</title>
-      <link>https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e?mod=rss_worldnews</link>
-      <description>A slowdown in Ukraine’s military version of Starlink ordered by Musk is hurting Kyiv’s ability to stop Russian attacks.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/elon-musks-starlink-speed-cap-has-scrambled-ukraines-defenses-fdfd936e?mod=rss_worldnews</guid>
-      <pubDate>Wed, 21 Oct 2026 17:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
