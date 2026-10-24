@@ -8,20 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:04:03 +0000</lastBuildDate>
+    <item>
+      <title>Hundreds of Thousands Protest Across France as Clashes Erupt in Paris</title>
+      <link>https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</link>
+      <description>The protests pose a fresh test for President Emmanuel Macron, who has come under fire for his handling of the violence.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</guid>
+      <pubDate>Sat, 24 Oct 2026 17:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FBI Explores Espionage Case Against Saudi OpenAI Suspect</title>
+      <link>https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_worldnews</link>
+      <description>Engineer Abdulrahman Alfozan was accused of bugging a restricted conference room at the company’s offices.</description>
+      <guid isPermaLink="true">https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_worldnews</guid>
+      <pubDate>Sat, 24 Oct 2026 17:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans</title>
+      <link>https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews</link>
+      <description>The intelligence comes as the Trump administration prepares to restart military operations against Iran.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews</guid>
+      <pubDate>Sat, 24 Oct 2026 14:47:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Allies Race to Escape SpaceX’s Orbit</title>
       <link>https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews</link>
       <description>Elon Musk’s blindsiding of Ukraine has spurred efforts by Europe and Canada to roll out satellites under their own control.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews</guid>
       <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Wave of Protests Gets Underway in France After Widespread Violence</title>
-      <link>https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</link>
-      <description>The protests pose a fresh test for President Emmanuel Macron, who has come under fire from both sides of the political spectrum for his handling of the violence.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</guid>
-      <pubDate>Sat, 24 Oct 2026 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Aboard USS George Washington as It Rearms for Possible Iran Strikes</title>
@@ -134,20 +148,6 @@
       <description>Russia’s central bank left its key interest rate unchanged, and signaled only a slight decline in borrowing costs next year as inflation is set to remain stubbornly high.</description>
       <guid isPermaLink="true">https://www.wsj.com/pro/central-banking/russias-central-bank-sees-only-modest-further-drop-in-key-rate-8a604c0d?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 11:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s Behind the Protests in France and What Happens Next</title>
-      <link>https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews</link>
-      <description>Weeks of student-led demonstrations over conditions in schools spiraled into violent unrest across the country.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/rioting-in-france-whats-fueling-the-violence-and-what-happens-next-87f18199?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks</title>
-      <link>https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</link>
-      <description>As Tehran retains missile and drone stockpiles, Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 05:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
