@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:36:09 +0000</lastBuildDate>
+    <item>
+      <title>The Yellow Vests Are Back on the Streets of France in Test for Government</title>
+      <link>https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2?mod=rss_worldnews</link>
+      <description>The movement that paralyzed Paris eight years ago is joining a widening collection of protest groups challenging authorities.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/the-yellow-vests-are-back-on-the-streets-of-france-in-test-for-government-348714c2?mod=rss_worldnews</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Is Now Losing Overland Trade Routes to U.S. Pressure</title>
+      <link>https://www.wsj.com/world/middle-east/iran-is-now-losing-overland-trade-routes-to-u-s-pressure-6c264333?mod=rss_worldnews</link>
+      <description>Pakistan and Iraq have shut some border crossings, tightening the economic squeeze of the U.S. Navy blockade and air sanctions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-is-now-losing-overland-trade-routes-to-u-s-pressure-6c264333?mod=rss_worldnews</guid>
+      <pubDate>Fri, 23 Oct 2026 22:33:00 +0000</pubDate>
+    </item>
     <item>
       <title>Moody’s Keeps France’s Credit Rating Unchanged</title>
       <link>https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Plus, the DOJ is reviewing allegations against a former Homeland Security adviser, and Meta’s hunt to fund its AI build-out spooked investors.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/trump-spoke-to-musk-about-ending-ukraines-starlink-speed-caps-a7ef4415?mod=rss_worldnews</guid>
       <pubDate>Thu, 22 Oct 2026 21:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.A.E. Diplomat Jolts Deadlocked U.N. Leadership Race</title>
-      <link>https://www.wsj.com/world/middle-east/u-a-e-diplomat-jolts-deadlocked-u-n-leadership-race-263f4ed9?mod=rss_worldnews</link>
-      <description>The late entry drafts on the Middle East nation’s mediation efforts as no other candidate has emerged as the favorite.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-a-e-diplomat-jolts-deadlocked-u-n-leadership-race-263f4ed9?mod=rss_worldnews</guid>
-      <pubDate>Thu, 22 Oct 2026 21:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews</link>
-      <description>Oil futures rose sharply as Yemen’s Houthis launched fresh attacks on Saudi Arabia’s energy infrastructure and the market saw risk of further U.S.-Iran hostilities disrupting Middle East oil supplies.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83?mod=rss_worldnews</guid>
-      <pubDate>Thu, 22 Oct 2026 19:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
