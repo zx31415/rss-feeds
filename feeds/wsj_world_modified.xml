@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 10:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:27:11 +0000</lastBuildDate>
     <item>
-      <title>France Girds for Another Day of Protest After Widespread Violence</title>
+      <title>U.S. Allies Race to Escape SpaceX’s Orbit</title>
+      <link>https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews</link>
+      <description>Elon Musk’s blindsiding of Ukraine has spurred efforts by Europe and Canada to roll out satellites under their own control.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Wave of Protests Gets Underway in France After Widespread Violence</title>
       <link>https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</link>
-      <description>The protests pose a fresh test for President Emmanuel Macron, who has come under fire during the violence from both sides of the political spectrum.</description>
+      <description>The protests pose a fresh test for President Emmanuel Macron, who has come under fire from both sides of the political spectrum for his handling of the violence.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/france-girds-for-another-day-of-protest-after-widespread-violence-0504934c?mod=rss_worldnews</guid>
-      <pubDate>Sat, 24 Oct 2026 10:25:00 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>Aboard USS George Washington as It Rearms for Possible Iran Strikes</title>
@@ -141,13 +148,6 @@
       <description>As Tehran retains missile and drone stockpiles, Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-threatens-wider-strikes-on-economic-and-civilian-targets-if-u-s-attacks-55f75e6b?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 05:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eight Charts That Show the Depth of France’s Financial Crunch</title>
-      <link>https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews</link>
-      <description>Years of lavish consumer support have left the country’s finances in a precarious state.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/eight-charts-that-show-the-depth-of-frances-financial-crunch-40b31ee6?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
