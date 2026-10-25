@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:57:41 +0000</lastBuildDate>
+    <item>
+      <title>Venezuela’s Machado Returns Home, Challenging U.S.-Backed Government</title>
+      <link>https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews</link>
+      <description>Her surprise arrival threatens to complicate President Trump’s plans for Venezuela as she pushes for presidential elections.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews</guid>
+      <pubDate>Sun, 25 Oct 2026 18:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Push to Oust Netanyahu Draws Thousands of Israeli Expats Home to Vote</title>
+      <link>https://www.wsj.com/world/middle-east/the-push-to-oust-netanyahu-draws-thousands-of-israeli-expats-home-to-vote-26f71bca?mod=rss_worldnews</link>
+      <description>Israel requires ballots to be cast in person. More than 60,000 voters are expected to make the trip.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/the-push-to-oust-netanyahu-draws-thousands-of-israeli-expats-home-to-vote-26f71bca?mod=rss_worldnews</guid>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Saudi-Led Troops Had Just Gathered When a Houthi Missile Left Dozens Dead</title>
       <link>https://www.wsj.com/world/middle-east/saudi-led-troops-had-just-gathered-when-a-houthi-missile-left-dozens-dead-abf87bfb?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Authorities detained a suspect and are investigating whether the shootings, which wounded four other people, targeted a specific race, origin or religion.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/gunman-kills-one-near-paris-in-suspected-attack-on-immigrant-communities-ed1ee830?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 19:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu Calls for West Bank Lockdown After Deadly Attack</title>
-      <link>https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews</link>
-      <description>Two Israeli soldiers were killed in a firefight with Palestinian attackers who were also gunned down.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/netanyahu-calls-for-west-bank-lockdown-after-deadly-attack-98d5e3e3?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 16:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gunmen Kill Seven in Church Attack in Jordan</title>
-      <link>https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6?mod=rss_worldnews</link>
-      <description>Authorities said the shooting that targeted the country’s minority Christian population was an act of terrorism.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/gunmen-kill-seven-in-church-attack-in-jordan-c4ff80b6?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 16:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
