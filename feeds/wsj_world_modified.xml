@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 Oct 2026 23:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:06:39 +0000</lastBuildDate>
+    <item>
+      <title>She Fled Maduro’s Regime. Washington Brought Her Back to Negotiate With It.</title>
+      <link>https://www.wsj.com/world/americas/she-fled-maduros-regime-washington-brought-her-back-to-negotiate-with-it-7c36c231?mod=rss_worldnews</link>
+      <description>Dinorah Figuera is leading U.S.-backed talks on Venezuela’s democratic future, even as Trump embraces the officials she wants to replace.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/she-fled-maduros-regime-washington-brought-her-back-to-negotiate-with-it-7c36c231?mod=rss_worldnews</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Power Outages Leave Kyiv Dreading Its Worst Winter of the War</title>
       <link>https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews</link>
@@ -19,7 +26,7 @@
     <item>
       <title>Ukraine’s Military Starlink Is Working Again, Kyiv Says</title>
       <link>https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d?mod=rss_worldnews</link>
-      <description>Speed restrictions imposed by Elon Musk’s SpaceX have hampered Kyiv’s drone forces since Oct. 14.</description>
+      <description>Elon Musk addressed the issue, saying Ukrainian military violated Starlink’s terms of service and used it for offensive drone strikes.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraines-military-starlink-is-working-again-kyiv-says-7ad2617d?mod=rss_worldnews</guid>
       <pubDate>Sat, 24 Oct 2026 20:36:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
       <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
       <pubDate>Fri, 23 Oct 2026 13:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Does the Ukrainian Military Use Starlink?</title>
-      <link>https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews</link>
-      <description>Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 23 Oct 2026 11:43:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
