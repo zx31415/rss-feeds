@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:02:16 +0000</lastBuildDate>
+    <item>
+      <title>Chinese wind turbine maker builds European firewall from Beijing</title>
+      <link>https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1</link>
+      <description>Ming Yang says Octopus joint venture and separate legal entities will convince customers that China cannot access data</description>
+      <guid isPermaLink="true">https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 26 Oct 2026 05:00:20 +0000</pubDate>
+    </item>
     <item>
       <title>Luxury groups’ value drops by €250bn as Chinese consumer demand fades</title>
       <link>https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>The hedge fund boss is taking a punt on just a part of the heavily indebted car rental company</description>
       <guid isPermaLink="true">https://www.ft.com/content/c514f3c5-b174-4a92-ab45-aa19ddc63fc1?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 22 Oct 2026 15:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Barclays stands out from the crowd for the wrong reasons</title>
-      <link>https://www.ft.com/content/a7957ed9-0124-451d-ba34-5e015c58e351?syn-25a6b1a6=1</link>
-      <description>By trying to do everything, the bank risks pleasing nobody</description>
-      <guid isPermaLink="true">https://www.ft.com/content/a7957ed9-0124-451d-ba34-5e015c58e351?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 22 Oct 2026 13:48:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
