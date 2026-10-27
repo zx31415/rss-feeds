@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:25:37 +0000</lastBuildDate>
+    <item>
+      <title>How long can lawyers keep squeezing their clients?</title>
+      <link>https://www.ft.com/content/cf954c9f-48dc-4e30-a03a-6fb2ec4dafa6?syn-25a6b1a6=1</link>
+      <description>Possibly longer than one may think</description>
+      <guid isPermaLink="true">https://www.ft.com/content/cf954c9f-48dc-4e30-a03a-6fb2ec4dafa6?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 27 Oct 2026 05:00:18 +0000</pubDate>
+    </item>
     <item>
       <title>Global markets rise as AI trade regains steam</title>
       <link>https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Bonds and stocks tell the same chilly story</description>
       <guid isPermaLink="true">https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 23 Oct 2026 05:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbia’s Vučić faces tough election as fraud fears mount</title>
-      <link>https://www.ft.com/content/575c54b3-b194-4338-930b-3f446da5044f?syn-25a6b1a6=1</link>
-      <description>Also in this newsletter: How to defend Europe’s position in quantum technology</description>
-      <guid isPermaLink="true">https://www.ft.com/content/575c54b3-b194-4338-930b-3f446da5044f?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
