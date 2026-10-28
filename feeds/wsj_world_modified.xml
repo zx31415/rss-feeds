@@ -8,20 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:12:47 +0000</lastBuildDate>
+    <item>
+      <title>U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms</title>
+      <link>https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews</link>
+      <description>There are new signs that the American and Israeli militaries are preparing a potential wave of strikes to muscle Tehran to the negotiating table.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews</guid>
+      <pubDate>Wed, 28 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Early Israeli Exit Polls Show No Clear Winner in Key Election</title>
+      <link>https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</link>
+      <description>Prime Minister Benjamin Netanyahu is vying for another term in thehigh-stakes race.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</guid>
+      <pubDate>Wed, 28 Oct 2026 00:57:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location</title>
       <link>https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews</link>
       <description>Brazil canceled Bolsonaro’s passports after he defied a Supreme Court order to turn over the documents, a Brazilian official said.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews</guid>
       <pubDate>Tue, 27 Oct 2026 22:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early Israeli Exit Polls Show No Clear Winner</title>
-      <link>https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</link>
-      <description>A historically high turnout and a bitterly divided electorate mean it could be weeks or longer before a new prime minister is picked.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</guid>
-      <pubDate>Tue, 27 Oct 2026 21:45:00 +0000</pubDate>
     </item>
     <item>
       <title>Overseas Handler Linked to Iran Behind Foiled RAF Air Base Attack</title>
@@ -141,13 +148,6 @@
       <description>The opposition leader wants to revive a political movement and persuade Washington that Venezuela needs a change of government.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/what-maria-corina-machados-return-means-for-venezuela-7fa2f02f?mod=rss_worldnews</guid>
       <pubDate>Mon, 26 Oct 2026 21:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=rss_worldnews</link>
-      <description>Oil prices fell as traders considered diplomatic efforts to ease U.S.-Iran hostilities, while further Houthi attacks on Saudi Arabia kept concerns about Middle East supply risks alive.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=rss_worldnews</guid>
-      <pubDate>Mon, 26 Oct 2026 19:49:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
