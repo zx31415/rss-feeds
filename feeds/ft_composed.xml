@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:56:30 +0000</lastBuildDate>
+    <item>
+      <title>CATL’s next bet is bigger than electric cars</title>
+      <link>https://www.ft.com/content/68dac805-791f-42cd-a865-8d66af90558d?syn-25a6b1a6=1</link>
+      <description>The company is moving beyond selling batteries towards building an infrastructure business</description>
+      <guid isPermaLink="true">https://www.ft.com/content/68dac805-791f-42cd-a865-8d66af90558d?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 28 Oct 2026 09:57:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mercedes-Benz vows to stay in China as sales slump</title>
+      <link>https://www.ft.com/content/79fb812b-8959-424b-9378-8b1a237be449?syn-25a6b1a6=1</link>
+      <description>Shares in Stellantis rise as it narrows operating loss in third quarter</description>
+      <guid isPermaLink="true">https://www.ft.com/content/79fb812b-8959-424b-9378-8b1a237be449?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 28 Oct 2026 09:36:11 +0000</pubDate>
+    </item>
     <item>
       <title>The AI bubble already popped — in China</title>
       <link>https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1</link>
@@ -38,9 +52,9 @@
       <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>China rushes to shore up struggling markets</title>
+      <title>China rushes to shore up markets as AI trade sours</title>
       <link>https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1</link>
-      <description>‘National team’ of funds and brokers buy stocks as investors turn away from AI trade</description>
+      <description>‘National team’ of funds and brokers buy stocks after CSI 300 index enters technical bear market</description>
       <guid isPermaLink="true">https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 28 Oct 2026 03:54:50 +0000</pubDate>
     </item>
@@ -134,20 +148,6 @@
       <description>Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention</description>
       <guid isPermaLink="true">https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1</guid>
       <pubDate>Sun, 25 Oct 2026 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SoftBank-backed drone maker wants every farmer to ‘have their own robot’</title>
-      <link>https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1</link>
-      <description>Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures</description>
-      <guid isPermaLink="true">https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 25 Oct 2026 01:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>North Korea’s Kim crosses new China border bridge to reaffirm ties</title>
-      <link>https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1</link>
-      <description>Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts</description>
-      <guid isPermaLink="true">https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1</guid>
-      <pubDate>Sat, 24 Oct 2026 15:44:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
