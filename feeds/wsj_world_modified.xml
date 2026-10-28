@@ -8,20 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:19:39 +0000</lastBuildDate>
+    <item>
+      <title>Early Israeli Results Show No Clear Winner in Key Election</title>
+      <link>https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</link>
+      <description>Prime Minister Benjamin Netanyahu’s results improved as votes rolled in, but was shy of a majority and short of the seats his coalition currently holds.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</guid>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Prices Rise as Houthi Militants Target Saudi Energy</title>
+      <link>https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews</link>
+      <description>The Houthis said Tuesday that they struck Saudi Arabia’s Ras Tanura refinery in the Eastern Province with a ballistic missile.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews</guid>
+      <pubDate>Wed, 28 Oct 2026 07:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns</title>
+      <link>https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_worldnews</link>
+      <description>The country’s consumer-climate index fell to minus 30.8 in its forecast for November, from minus 30.6 in October.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_worldnews</guid>
+      <pubDate>Wed, 28 Oct 2026 07:11:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms</title>
       <link>https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews</link>
       <description>There are new signs that the American and Israeli militaries are preparing a potential wave of strikes to muscle Tehran to the negotiating table.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews</guid>
-      <pubDate>Wed, 28 Oct 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Early Israeli Exit Polls Show No Clear Winner in Key Election</title>
-      <link>https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</link>
-      <description>Prime Minister Benjamin Netanyahu is vying for another term in thehigh-stakes race.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</guid>
-      <pubDate>Wed, 28 Oct 2026 00:57:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 02:48:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location</title>
@@ -134,20 +148,6 @@
       <description>Three weeks ago, even his allies expected defeat. Grassroots mobilization and fears of lost benefits fueled his stunning reversal.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/how-brazils-lula-pulled-off-an-upset-no-one-saw-coming-c6b7885a?mod=rss_worldnews</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors</title>
-      <link>https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_worldnews</link>
-      <description>Brazil’s main stock market index dropped to a two-month low after President Luiz Inácio Lula da Silva secured a surprise victory.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_worldnews</guid>
-      <pubDate>Mon, 26 Oct 2026 21:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What María Corina Machado’s Return Means for Venezuela</title>
-      <link>https://www.wsj.com/world/americas/what-maria-corina-machados-return-means-for-venezuela-7fa2f02f?mod=rss_worldnews</link>
-      <description>The opposition leader wants to revive a political movement and persuade Washington that Venezuela needs a change of government.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/what-maria-corina-machados-return-means-for-venezuela-7fa2f02f?mod=rss_worldnews</guid>
-      <pubDate>Mon, 26 Oct 2026 21:03:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
