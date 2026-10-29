@@ -8,16 +8,30 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:58:03 +0000</lastBuildDate>
+    <item>
+      <title>U.S. Expels Cuban Diplomat After Extraordinary U.N. Verbal Clash</title>
+      <link>https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516?mod=rss_worldnews</link>
+      <description>The move came after a shouting match between U.S. Ambassador Mike Waltz and the Cuban foreign minister.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516?mod=rss_worldnews</guid>
+      <pubDate>Thu, 29 Oct 2026 01:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Bolsonaro Fled Brazil: Decoys, a Private Jet and a Friend in the White House</title>
+      <link>https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews</link>
+      <description>After losing Brazil’s election, Flávio Bolsonaro fled to Miami in an elaborate operation aided by Trump’s inner circle and Argentina’s president.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Latin America’s Right-Wing Surge Suddenly Seems Vulnerable</title>
       <link>https://www.wsj.com/world/americas/latin-americas-right-wing-surge-suddenly-seems-vulnerable-8399a911?mod=rss_worldnews</link>
-      <description>Lula’s victory leaves Brazil and Mexico under leftist rule, complicating U.S. ambitions of building a regional conservative alliance.</description>
+      <description>Lula’s victory leaves Brazil and Mexico under leftist rule, complicating the Trump administration’s ambitions of building a conservative regional alliance.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/latin-americas-right-wing-surge-suddenly-seems-vulnerable-8399a911?mod=rss_worldnews</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oil is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?</title>
+      <title>Oil Is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?</title>
       <link>https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_worldnews</link>
       <description>Stubbornly high prices at the pump offered little hope for drivers looking for some relief.</description>
       <guid isPermaLink="true">https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_worldnews</guid>
@@ -101,13 +115,6 @@
       <pubDate>Wed, 28 Oct 2026 14:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Arab States Must Invest in Productive Sectors After Iran War Exposes Weaknesses, U.N. Official Says</title>
-      <link>https://www.wsj.com/world/middle-east/arab-states-must-invest-in-productive-sectors-after-iran-war-exposes-weaknesses-u-n-official-says-8f6bc2c5?mod=rss_worldnews</link>
-      <description>EXCLUSIVE: The war shock has hastened the need to move away from the Gulf states’ rentier economies, Abdallah Al Dardari said.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/arab-states-must-invest-in-productive-sectors-after-iran-war-exposes-weaknesses-u-n-official-says-8f6bc2c5?mod=rss_worldnews</guid>
-      <pubDate>Wed, 28 Oct 2026 14:21:00 +0000</pubDate>
-    </item>
-    <item>
       <title>German Consumers Grow Slightly Gloomier on Lingering Inflation Concerns</title>
       <link>https://www.wsj.com/economy/consumers/german-consumers-grow-slightly-gloomier-on-lingering-inflation-concerns-a15a9232?mod=rss_worldnews</link>
       <description>The country’s consumer-climate index fell to minus 30.8 in its forecast for November, from minus 30.6 in October.</description>
@@ -141,13 +148,6 @@
       <description>Prime Minister Benjamin Netanyahu’s results improved as votes rolled in, but was shy of a majority and short of the seats his coalition currently holds.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews</guid>
       <pubDate>Wed, 28 Oct 2026 10:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location</title>
-      <link>https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews</link>
-      <description>Brazil canceled Bolsonaro’s passports after he defied a Supreme Court order to turn over the documents, a Brazilian official said.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews</guid>
-      <pubDate>Tue, 27 Oct 2026 22:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

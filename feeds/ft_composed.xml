@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:58:02 +0000</lastBuildDate>
+    <item>
+      <title>US tech stocks set to fall after earnings fuel AI spending concerns</title>
+      <link>https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1</link>
+      <description>Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex</description>
+      <guid isPermaLink="true">https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 29 Oct 2026 06:32:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Healey’s autumn Budget kicks off the gas doom loop</title>
+      <link>https://www.ft.com/content/255a6a6c-8181-46a3-be46-04732ac500c7?syn-25a6b1a6=1</link>
+      <description>Scrapping the standing charge will accelerate households’ move towards alternatives such as heat pumps</description>
+      <guid isPermaLink="true">https://www.ft.com/content/255a6a6c-8181-46a3-be46-04732ac500c7?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>What we learnt about European banking’s almost-fab five</title>
+      <link>https://www.ft.com/content/f1dff89c-612b-4dac-ab1a-dbaed6c4edc9?syn-25a6b1a6=1</link>
+      <description>UBS, Santander, Deutsche Bank, BNP Paribas and Standard Chartered’s results showcace region’s various business models — and problems</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f1dff89c-612b-4dac-ab1a-dbaed6c4edc9?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 29 Oct 2026 05:00:30 +0000</pubDate>
+    </item>
     <item>
       <title>Why small-fry Budget measures can still have a big impact</title>
       <link>https://www.ft.com/content/98d360d8-0f03-424b-a2e0-63629bea2974?syn-25a6b1a6=1</link>
@@ -127,27 +148,6 @@
       <description>Start-up’s planned listing could be the biggest stock market debut in history</description>
       <guid isPermaLink="true">https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 26 Oct 2026 13:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Can Europe find a third way?</title>
-      <link>https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66?syn-25a6b1a6=1</link>
-      <description>A new ‘great game’ is afoot in the Arctic and the continent needs to build its own military capability in the region</description>
-      <guid isPermaLink="true">https://www.ft.com/content/f63aab0f-0c42-4d64-ba38-e2a1dc154f66?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 26 Oct 2026 13:00:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Junk borrowers are stuck between a $2tn rock and a hard place</title>
-      <link>https://www.ft.com/content/053a8758-2814-45a5-87ca-0c71ce5f7816?syn-25a6b1a6=1</link>
-      <description>Huge supply means investors can afford to be picky, driving costs even higher for the most risky borrowers</description>
-      <guid isPermaLink="true">https://www.ft.com/content/053a8758-2814-45a5-87ca-0c71ce5f7816?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese wind turbine maker builds European firewall from Beijing</title>
-      <link>https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1</link>
-      <description>Ming Yang says Octopus joint venture and separate legal entities will convince customers that China cannot access data</description>
-      <guid isPermaLink="true">https://www.ft.com/content/fa2bdd53-29dc-4e3f-bbd2-5510da3cd88c?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 26 Oct 2026 05:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
