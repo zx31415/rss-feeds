@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:12:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:22:41 +0000</lastBuildDate>
+    <item>
+      <title>Alphabet shares tumble in $500bn rout</title>
+      <link>https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1</link>
+      <description>Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations</description>
+      <guid isPermaLink="true">https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 29 Oct 2026 21:53:41 +0000</pubDate>
+    </item>
     <item>
       <title>DoorDash buys Instacart just as AI rewrites the menu</title>
       <link>https://www.ft.com/content/13c96ad2-6aee-4c28-9f3c-d2ad9ca1c3d0?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Newly authorised derivatives are behind latest attempt to offer access to highly sought-after private assets</description>
       <guid isPermaLink="true">https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 28 Oct 2026 05:00:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a local ceasefire means for the Russia-Ukraine war</title>
-      <link>https://www.ft.com/content/77d0bba5-264d-4c2e-bdbc-d8493b1b4a25?syn-25a6b1a6=1</link>
-      <description>Washington and Moscow are discussing a potential return by American companies to the…</description>
-      <guid isPermaLink="true">https://www.ft.com/content/77d0bba5-264d-4c2e-bdbc-d8493b1b4a25?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
