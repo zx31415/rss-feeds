@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:13:59 +0000</lastBuildDate>
+    <item>
+      <title>Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump</title>
+      <link>https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews</link>
+      <description>The first strike on a Russian oil refinery in two weeks comes after Russian attacks killed 27 civilians on Thursday.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews</guid>
+      <pubDate>Fri, 30 Oct 2026 16:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves</title>
+      <link>https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews</link>
+      <description>Autonomous vehicles have been taking a bigger role at mines worldwide for years. Now, many of them are going electric, especially in China.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews</guid>
+      <pubDate>Fri, 30 Oct 2026 15:07:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears</title>
       <link>https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37?mod=rss_worldnews</link>
@@ -29,13 +43,6 @@
       <description>Investigators believed the woman, Alice Huang, was recruited based on her relationship with Jensen Huang.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews</guid>
       <pubDate>Fri, 30 Oct 2026 13:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump</title>
-      <link>https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews</link>
-      <description>The strike ends a two-week halt in refinery attacks that came amid pressure from the U.S. to halt such operations.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews</guid>
-      <pubDate>Fri, 30 Oct 2026 11:11:00 +0000</pubDate>
     </item>
     <item>
       <title>BOE Survey Points to Faster Price Rises, But Slowing Wage Growth</title>
@@ -141,13 +148,6 @@
       <description>The growth is pushing hopes for a continued expansion across the eurozone as a whole, despite higher energy costs.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/global/irish-economy-surges-again-in-boost-to-eurozone-58395075?mod=rss_worldnews</guid>
       <pubDate>Thu, 29 Oct 2026 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production</title>
-      <link>https://www.wsj.com/world/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-8d314cd7?mod=rss_worldnews</link>
-      <description>Tokyo and Washington agreed to establish a facility in Japan to assemble key air-to-air missiles.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/as-missile-stockpiles-dwindle-and-china-looms-u-s-turns-to-japan-for-production-8d314cd7?mod=rss_worldnews</guid>
-      <pubDate>Thu, 29 Oct 2026 10:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
