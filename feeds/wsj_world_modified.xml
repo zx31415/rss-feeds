@@ -8,11 +8,18 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:00:57 +0000</lastBuildDate>
+    <item>
+      <title>Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing</title>
+      <link>https://www.wsj.com/politics/national-security/inside-the-u-s-militarys-open-ended-mission-to-keep-gulf-oil-flowing-0f4cbbc4?mod=rss_worldnews</link>
+      <description>​The near-daily missions to protect ships have allowed the U.S. to hold the line in a conflict that has dragged on since February and threatened access to the world’s oil supplies.</description>
+      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/inside-the-u-s-militarys-open-ended-mission-to-keep-gulf-oil-flowing-0f4cbbc4?mod=rss_worldnews</guid>
+      <pubDate>Fri, 30 Oct 2026 01:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Troubled History of Russia’s Anti-Plague Institute</title>
       <link>https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews</link>
-      <description>The lab in Siberia where a biologist who recently died of a mysterious pneumonia worked has been cited multiple times for safety violations.</description>
+      <description>The Siberian lab where a biologist recently died of a mysterious pneumonia has been cited multiple times for safety violations.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/russia/the-troubled-history-of-russias-anti-plague-institute-9fd4b59c?mod=rss_worldnews</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>The move came after a shouting match between U.S. Ambassador Mike Waltz and the Cuban foreign minister.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/u-s-expels-cuban-diplomat-after-extraordinary-u-n-verbal-clash-e32b0516?mod=rss_worldnews</guid>
       <pubDate>Thu, 29 Oct 2026 01:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Bolsonaro Fled Brazil: Decoys, a Private Jet and a Friend in the White House</title>
-      <link>https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews</link>
-      <description>After losing Brazil’s election, Flávio Bolsonaro fled to Miami in an elaborate operation aided by Trump’s inner circle and Argentina’s president.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews</guid>
-      <pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
