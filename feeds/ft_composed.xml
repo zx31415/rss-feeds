@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:13:57 +0000</lastBuildDate>
+    <item>
+      <title>French protests show BNP Paribas what’s in a name</title>
+      <link>https://www.ft.com/content/5719a0b6-80cb-415c-b349-c1e07dd46c36?syn-25a6b1a6=1</link>
+      <description>Despite a strong third quarter, a bumpy journey lies ahead for investors</description>
+      <guid isPermaLink="true">https://www.ft.com/content/5719a0b6-80cb-415c-b349-c1e07dd46c36?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 31 Oct 2026 05:00:40 +0000</pubDate>
+    </item>
     <item>
       <title>US tech stocks tumble as concerns over AI spending intensify</title>
       <link>https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>UBS, Santander, Deutsche Bank, BNP Paribas and Standard Chartered’s results showcase region’s various business models — and problems</description>
       <guid isPermaLink="true">https://www.ft.com/content/f1dff89c-612b-4dac-ab1a-dbaed6c4edc9?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 29 Oct 2026 05:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why small-fry measures can still have a big impact</title>
-      <link>https://www.ft.com/content/98d360d8-0f03-424b-a2e0-63629bea2974?syn-25a6b1a6=1</link>
-      <description>If Healey’s micro policies cut costs and save time, they will make some difference</description>
-      <guid isPermaLink="true">https://www.ft.com/content/98d360d8-0f03-424b-a2e0-63629bea2974?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 28 Oct 2026 17:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
