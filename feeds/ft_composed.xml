@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 07:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:58:58 +0000</lastBuildDate>
+    <item>
+      <title>US critical minerals push delivers a gold rush — for Washington lobbyists</title>
+      <link>https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1</link>
+      <description>Billions in government backing have produced a flurry of deals but little increase in domestic production</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Bond investors sit out ‘most consequential’ US midterm elections in years</title>
       <link>https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex</description>
       <guid isPermaLink="true">https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 29 Oct 2026 06:32:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hello Kitty gets caught up in Japan-China spat</title>
-      <link>https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1</link>
-      <description>Sanrio apologises for collaboration with wartime spy thriller that drew outrage over depiction of torture</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 06:04:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
