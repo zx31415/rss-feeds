@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 22:54:27 +0000</lastBuildDate>
+    <item>
+      <title>Serbia’s Gen Z Students Toppled a Strongman. Now Comes the Hard Part.</title>
+      <link>https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews</link>
+      <description>Their electoral victory is a test for whether youth protest movements can build governments that work.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews</guid>
+      <pubDate>Sun, 01 Nov 2026 21:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Panic and Anger Spread as Europe’s Great Pension Covenant Unravels</title>
       <link>https://www.wsj.com/world/europe/panic-and-anger-spread-as-europes-great-pension-covenant-unravels-69a94ed7?mod=rss_worldnews</link>
@@ -139,13 +146,6 @@
       <description>Businesses expected the prices they charge to rise by 3.8% over the coming 12 months, an increase from the 3.7% expected in September.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/uk/boe-survey-points-to-faster-price-rises-but-slowing-wage-growth-665e450b?mod=rss_worldnews</guid>
       <pubDate>Fri, 30 Oct 2026 10:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inside the U.S. Military’s Open-Ended Mission to Keep Gulf Oil Flowing</title>
-      <link>https://www.wsj.com/politics/national-security/inside-the-u-s-militarys-open-ended-mission-to-keep-gulf-oil-flowing-0f4cbbc4?mod=rss_worldnews</link>
-      <description>​The near-daily missions to protect ships have allowed the U.S. to hold the line in a conflict that has dragged on since February and threatened access to the world’s oil supplies.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/inside-the-u-s-militarys-open-ended-mission-to-keep-gulf-oil-flowing-0f4cbbc4?mod=rss_worldnews</guid>
-      <pubDate>Fri, 30 Oct 2026 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
