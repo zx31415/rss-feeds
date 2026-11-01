@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 07:26:08 +0000</lastBuildDate>
+    <item>
+      <title>Bond investors sit out ‘most consequential’ US midterm elections in years</title>
+      <link>https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1</link>
+      <description>Big fund managers are pressing ‘pause’ as vote and economic data releases loom</description>
+      <guid isPermaLink="true">https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 01 Nov 2026 05:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scrapping audits for UK start-ups is worth its weight in red tape</title>
+      <link>https://www.ft.com/content/bc51e3b9-f691-4cf2-a333-476a9c4a4a54?syn-25a6b1a6=1</link>
+      <description>The move will help convey the message that the country’s stifling attitude to bureaucracy is changing</description>
+      <guid isPermaLink="true">https://www.ft.com/content/bc51e3b9-f691-4cf2-a333-476a9c4a4a54?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 01 Nov 2026 05:00:09 +0000</pubDate>
+    </item>
     <item>
       <title>French protests show BNP Paribas what’s in a name</title>
       <link>https://www.ft.com/content/5719a0b6-80cb-415c-b349-c1e07dd46c36?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Sanrio apologises for collaboration with wartime spy thriller that drew outrage over depiction of torture</description>
       <guid isPermaLink="true">https://www.ft.com/content/3ab3e4bb-1fca-42ce-ba8e-f145f8577574?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 29 Oct 2026 06:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Healey’s autumn Budget kicks off the gas doom loop</title>
-      <link>https://www.ft.com/content/255a6a6c-8181-46a3-be46-04732ac500c7?syn-25a6b1a6=1</link>
-      <description>Scrapping the standing charge will accelerate households’ move towards alternatives such as heat pumps</description>
-      <guid isPermaLink="true">https://www.ft.com/content/255a6a6c-8181-46a3-be46-04732ac500c7?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>What we learnt about European banking’s almost-fab five</title>
-      <link>https://www.ft.com/content/f1dff89c-612b-4dac-ab1a-dbaed6c4edc9?syn-25a6b1a6=1</link>
-      <description>UBS, Santander, Deutsche Bank, BNP Paribas and Standard Chartered’s results showcase region’s various business models — and problems</description>
-      <guid isPermaLink="true">https://www.ft.com/content/f1dff89c-612b-4dac-ab1a-dbaed6c4edc9?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
