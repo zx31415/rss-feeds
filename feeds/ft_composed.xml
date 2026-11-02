@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:26:12 +0000</lastBuildDate>
+    <item>
+      <title>For Alstom, one disruption begets the next</title>
+      <link>https://www.ft.com/content/b17efe11-2963-45f1-a121-c8c0eec4131b?syn-25a6b1a6=1</link>
+      <description>The French rail group has missed analysts’ earnings forecasts every year since 2018</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b17efe11-2963-45f1-a121-c8c0eec4131b?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:35:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Food faces a multibillion-dollar health check</title>
+      <link>https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2?syn-25a6b1a6=1</link>
+      <description>Makers of ultra-processed foods are under pressure as the US government steps up efforts to reduce the causes of preventable ill-health</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 02 Nov 2026 16:33:37 +0000</pubDate>
+    </item>
     <item>
       <title>The midterms and the world</title>
       <link>https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Zhang Shengmin appointed to Communist Party politburo as it moves to tighten discipline and crack down on corruption</description>
       <guid isPermaLink="true">https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 29 Oct 2026 16:10:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>BYD’s export surge helps offset sales weakness in China</title>
-      <link>https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1</link>
-      <description>Electric vehicle maker’s foreign expansion takes on rising importance amid roadblocks in domestic market</description>
-      <guid isPermaLink="true">https://www.ft.com/content/9b19295f-a16a-4bc2-8f1a-5ab6d075b8af?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 12:01:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Any stock dips after the midterms are likely to be opportunities</title>
-      <link>https://www.ft.com/content/e48bfc16-c7ab-4185-bb61-44491830a5cb?syn-25a6b1a6=1</link>
-      <description>The US economy’s resilience is expected to continue driving US earnings and shares higher even if there is gridlock</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e48bfc16-c7ab-4185-bb61-44491830a5cb?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 10:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
