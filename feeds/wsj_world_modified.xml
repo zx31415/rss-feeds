@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 22:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:51:59 +0000</lastBuildDate>
+    <item>
+      <title>The U.S. Once Dominated the World’s Oceans. China’s Xi is Changing That.</title>
+      <link>https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews</link>
+      <description>A colossus in shipbuilding, China is undertaking one of the largest peacetime naval buildups in modern history.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/china-xi-maritime-dominance-ef5f5c5a?mod=rss_worldnews</guid>
+      <pubDate>Mon, 02 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</title>
+      <link>https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews</link>
+      <description>The idea is intended to unlock an energy ceasefire between Moscow and Kyiv but it faces resistance in European capitals.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=rss_worldnews</guid>
+      <pubDate>Mon, 02 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Serbia’s Gen Z Students Toppled a Strongman. Now Comes the Hard Part.</title>
       <link>https://www.wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a?mod=rss_worldnews</link>
@@ -132,20 +146,6 @@
       <description>The first strike on a Russian oil refinery in two weeks comes after Russian attacks killed 27 civilians on Thursday.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/ukraine-hits-russian-oil-refinery-ending-a-pause-and-defying-trump-be68eeff?mod=rss_worldnews</guid>
       <pubDate>Fri, 30 Oct 2026 16:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>These Trucks Haul 90 Tons of Coal on Battery Power—and Drive Themselves</title>
-      <link>https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews</link>
-      <description>Autonomous vehicles have been taking a bigger role at mines worldwide for years. Now, many of them are going electric, especially in China.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/these-trucks-haul-90-tons-of-coal-on-battery-powerand-drive-themselves-39b80cc3?mod=rss_worldnews</guid>
-      <pubDate>Fri, 30 Oct 2026 15:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BOE Survey Points to Faster Price Rises, But Slowing Wage Growth</title>
-      <link>https://www.wsj.com/world/uk/boe-survey-points-to-faster-price-rises-but-slowing-wage-growth-665e450b?mod=rss_worldnews</link>
-      <description>Businesses expected the prices they charge to rise by 3.8% over the coming 12 months, an increase from the 3.7% expected in September.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/uk/boe-survey-points-to-faster-price-rises-but-slowing-wage-growth-665e450b?mod=rss_worldnews</guid>
-      <pubDate>Fri, 30 Oct 2026 10:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
