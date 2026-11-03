@@ -8,20 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:55:37 +0000</lastBuildDate>
     <item>
-      <title>Wall Street braces as voters head to high-stakes polls</title>
+      <title>Investors watch US state races for signs of backlash against AI boom</title>
       <link>https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1</link>
-      <description>Vote will set the trajectory for everything from AI to public spending</description>
+      <description>Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America</description>
       <guid isPermaLink="true">https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 03 Nov 2026 14:33:22 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 20:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italy’s half-baked exit tax is the worst of both worlds</title>
+      <link>https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7?syn-25a6b1a6=1</link>
+      <description>The touted levy sends mixed messages on how Italy views wealth creation</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a7879ca3-f925-416b-826e-2a2a538e42f7?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 03 Nov 2026 18:50:05 +0000</pubDate>
     </item>
     <item>
       <title>US, Russia and China discuss meeting between Trump, Putin and Xi</title>
       <link>https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1</link>
       <description>US president is travelling to Shenzhen in two weeks to attend Apec summit</description>
       <guid isPermaLink="true">https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 03 Nov 2026 08:10:41 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 17:46:32 +0000</pubDate>
     </item>
     <item>
       <title>China halts listings in bid to bolster struggling markets</title>
@@ -141,13 +148,6 @@
       <description>By leaning into their new role as debt financiers, the old guard still have a lucrative place in the new financial order</description>
       <guid isPermaLink="true">https://www.ft.com/content/95480c09-5018-4400-b9c1-f2d53373a47c?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 30 Oct 2026 17:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Did Anthropic value itself at $1.2tn in August?</title>
-      <link>https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4</link>
-      <description>Not quite Navier-Stokes</description>
-      <guid isPermaLink="true">https://www.ft.com/content/60fb40ed-f1bf-416e-982b-1b9b80582ab4</guid>
-      <pubDate>Fri, 30 Oct 2026 12:36:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
