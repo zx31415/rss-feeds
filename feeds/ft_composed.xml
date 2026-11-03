@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:35:31 +0000</lastBuildDate>
+    <item>
+      <title>The risk of higher volatility in stocks is rising</title>
+      <link>https://www.ft.com/content/9349b88e-e290-4c64-a7cd-85ac83962a0c</link>
+      <description>Remarkable recent resilience of equities may turn sooner than many expected</description>
+      <guid isPermaLink="true">https://www.ft.com/content/9349b88e-e290-4c64-a7cd-85ac83962a0c</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The rulemaking ‘farce’ that has banks and insurers at loggerheads</title>
+      <link>https://www.ft.com/content/ab54dad5-f9d5-4e6c-b384-500410eb2082?syn-25a6b1a6=1</link>
+      <description>The ‘Danish compromise’ makes it easier for Eurozone banks to own insurers, but the latter think it confers an unfair advantage</description>
+      <guid isPermaLink="true">https://www.ft.com/content/ab54dad5-f9d5-4e6c-b384-500410eb2082?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:05 +0000</pubDate>
+    </item>
     <item>
       <title>For Alstom, one disruption begets the next</title>
       <link>https://www.ft.com/content/b17efe11-2963-45f1-a121-c8c0eec4131b?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Leadership in the AI race can be won, lost and won again at speed</description>
       <guid isPermaLink="true">https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 29 Oct 2026 18:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>NYSE owner’s tokenised stock plan hits hurdle as big companies object</title>
-      <link>https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1</link>
-      <description>Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 16:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xi elevates general who led purge of China’s military</title>
-      <link>https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1</link>
-      <description>Zhang Shengmin appointed to Communist Party politburo as it moves to tighten discipline and crack down on corruption</description>
-      <guid isPermaLink="true">https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 29 Oct 2026 16:10:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

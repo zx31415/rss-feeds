@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Ukrainians Are Waging an Invisible Fight to Hold Their Shattered Lives Together</title>
+      <link>https://www.wsj.com/world/ukrainians-are-waging-an-invisible-fight-to-hold-their-shattered-lives-together-54183521?mod=rss_worldnews</link>
+      <description>Nearly a third of Ukrainian civilians meet criteria for post-traumatic stress disorder, according to a recent study.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/ukrainians-are-waging-an-invisible-fight-to-hold-their-shattered-lives-together-54183521?mod=rss_worldnews</guid>
+      <pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks</title>
       <link>https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews</link>
       <description>The assault follows comments by President Trump playing down the possibility of a return to war with Iran after Tuesday’s midterm elections.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d?mod=rss_worldnews</guid>
-      <pubDate>Tue, 03 Nov 2026 00:39:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 02:38:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine</title>
@@ -140,12 +147,6 @@
       <description>Investigators believed the woman, Alice Huang, was recruited based on her relationship with Jensen Huang.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews</guid>
       <pubDate>Sat, 31 Oct 2026 12:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China Economic Activity Loses Steam Sharply in October</title>
-      <link>https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews</link>
-      <guid isPermaLink="true">https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews</guid>
-      <pubDate>Sat, 31 Oct 2026 01:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
