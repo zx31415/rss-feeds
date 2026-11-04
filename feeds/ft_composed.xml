@@ -8,9 +8,23 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:07:12 +0000</lastBuildDate>
     <item>
-      <title>BMW steps up restructuring plans as profits slide</title>
+      <title>Stocks climb after Democrats’ sweep</title>
+      <link>https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</link>
+      <description>Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected Democrat backlash against AI boom</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 04 Nov 2026 15:09:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>China steps up defence of stock market in bid to revive AI boom</title>
+      <link>https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1</link>
+      <description>ETFs commonly used by Beijing to support market see second-highest net inflows on record</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 04 Nov 2026 13:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combustion engine not dead in China, says BMW as profits slide</title>
       <link>https://www.ft.com/content/ae311844-83e5-4612-8fa3-4c86f4c53b0e?syn-25a6b1a6=1</link>
       <description>German carmaker downgrades financial targets for second time since June amid China sales slump</description>
       <guid isPermaLink="true">https://www.ft.com/content/ae311844-83e5-4612-8fa3-4c86f4c53b0e?syn-25a6b1a6=1</guid>
@@ -134,20 +148,6 @@
       <description>A Democratic sweep of both houses of Congress would see big changes on energy and trade in particular</description>
       <guid isPermaLink="true">https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 02 Nov 2026 14:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s soaring chemical exports threaten new trade war front</title>
-      <link>https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1</link>
-      <description>Output has almost doubled in some key ingredients in five years, putting pressure on foreign rivals</description>
-      <guid isPermaLink="true">https://www.ft.com/content/2962ad57-cee1-4a63-82ba-17acfc09d812?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 02 Nov 2026 06:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>S&amp;P 500’s perfect midterm record faces a test in 2026</title>
-      <link>https://www.ft.com/content/56b565f9-8627-4400-baae-e0a604533b3d?syn-25a6b1a6=1</link>
-      <description>Wall Street’s blue-chip index has risen in the six months following every midterm Congressional election since 1950</description>
-      <guid isPermaLink="true">https://www.ft.com/content/56b565f9-8627-4400-baae-e0a604533b3d?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 02 Nov 2026 05:00:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
