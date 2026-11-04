@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:36:04 +0000</lastBuildDate>
     <item>
-      <title>Stocks climb after Democrats’ sweep</title>
+      <title>US stocks post best day since August after Democrats sweep midterms</title>
       <link>https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</link>
-      <description>Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected Democrat backlash against AI boom</description>
+      <description>Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom</description>
       <guid isPermaLink="true">https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 04 Nov 2026 15:09:28 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 21:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voters have put a helpful chill on the US data centre boom</title>
+      <link>https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1</link>
+      <description>Midterm results could affect 45 per cent of planned expansion, but there is a silver lining for investors</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b7d0761f-e5fb-4746-924f-b15420a57844?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 04 Nov 2026 18:33:54 +0000</pubDate>
     </item>
     <item>
       <title>China steps up defence of stock market in bid to revive AI boom</title>
@@ -141,13 +148,6 @@
       <description>Makers of ultra-processed foods are under pressure as the US government steps up efforts to reduce the causes of preventable ill-health</description>
       <guid isPermaLink="true">https://www.ft.com/content/3b0a8555-b00b-4132-bc30-61c61cd967f2?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 02 Nov 2026 16:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The midterms and the world</title>
-      <link>https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1</link>
-      <description>A Democratic sweep of both houses of Congress would see big changes on energy and trade in particular</description>
-      <guid isPermaLink="true">https://www.ft.com/content/15d1bd16-058e-4123-9fba-88307df73aef?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 02 Nov 2026 14:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
