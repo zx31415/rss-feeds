@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:24:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:29:24 +0000</lastBuildDate>
+    <item>
+      <title>China’s block on SoftBank deal fires the starting gun on the robot wars</title>
+      <link>https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1</link>
+      <description>Beijing’s interventionism reflects the rising global rivalry on all things AI</description>
+      <guid isPermaLink="true">https://www.ft.com/content/77b31f52-0485-414b-be6a-198d71fabc1a?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout</title>
       <link>https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1</link>
@@ -38,9 +45,9 @@
       <pubDate>Thu, 05 Nov 2026 17:01:56 +0000</pubDate>
     </item>
     <item>
-      <title>Nasdaq drops the most since pandemic as Democratic ‘blue wave’ upends AI bets</title>
+      <title>Asia shares sell off after Nasdaq drops most since pandemic</title>
       <link>https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1</link>
-      <description>Investors fear newly elected politicians up and down the US will seek to slow data centre development in blow to tech stocks</description>
+      <description>Investors fear newly elected US politicians will seek to slow data centre development in blow to tech stocks and AI boom</description>
       <guid isPermaLink="true">https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 05 Nov 2026 16:59:34 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>The margin squeeze will be worse for budget airlines, which start out with less room to cut costs</description>
       <guid isPermaLink="true">https://www.ft.com/content/f0256578-1a7b-41c3-8cca-f3384983b2f2?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 04 Nov 2026 05:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are we ready for an AI bust?</title>
-      <link>https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1</link>
-      <description>The longer the investment surge and the associated financial engineering continue, the bigger the negative impact is likely to be when it ends</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b954b99c-b71e-4334-9789-18e2b69de76d?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 04 Nov 2026 05:00:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
