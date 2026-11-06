@@ -8,13 +8,48 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:01:00 +0000</lastBuildDate>
     <item>
-      <title>US stocks rebound after tech rout</title>
+      <title>US warns China it must ‘immediately’ meet terms of Busan trade deal</title>
+      <link>https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1</link>
+      <description>Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products</description>
+      <guid isPermaLink="true">https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 22:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>US stocks recover after tech rout</title>
       <link>https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1</link>
-      <description>Tech-heavy Nasdaq climbs in morning trading following day of turmoil</description>
+      <description>Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil</description>
       <guid isPermaLink="true">https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 06 Nov 2026 15:45:52 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 22:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears</title>
+      <link>https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1</link>
+      <description>Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 22:00:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new phase in the tech market correction</title>
+      <link>https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1</link>
+      <description>Investors are no longer pricing in accelerating AI growth</description>
+      <guid isPermaLink="true">https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 18:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla’s Cybertruck is a masterclass in failing upwards</title>
+      <link>https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc?syn-25a6b1a6=1</link>
+      <description>Musk wasn’t so hot when it came to selling a pick-up truck, but he still knows how to sell himself</description>
+      <guid isPermaLink="true">https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 17:38:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic lines up UK retail offer as AI stocks wobble</title>
+      <link>https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1</link>
+      <description>Analysts warn demand may be dented by the SpaceX slide</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d0be1646-7d2a-4d9d-8412-7488f3c8b203?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 06 Nov 2026 16:50:16 +0000</pubDate>
     </item>
     <item>
       <title>UK retail investors buy the dip after bruising tech sell-off</title>
@@ -113,41 +148,6 @@
       <description>What’s in a name? Quite a lot under the Trump administration. But picking a side can backfire when the political climate changes</description>
       <guid isPermaLink="true">https://www.ft.com/content/a66657a8-c77a-4e67-b392-10d0904f31b6?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 05 Nov 2026 17:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>So, about that Anthropic IPO . . .</title>
-      <link>https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1</link>
-      <description>A dispatch from the trenches of daily market commentary</description>
-      <guid isPermaLink="true">https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 05 Nov 2026 17:01:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global stocks tumble as Democratic midterm sweep sparks AI rout</title>
-      <link>https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1</link>
-      <description>Investors fear US will now seek to slow data centre buildout in potential blow to tech companies</description>
-      <guid isPermaLink="true">https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 05 Nov 2026 16:59:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘This time feels different’</title>
-      <link>https://www.ft.com/content/58e795a0-af3e-4d49-85b8-d075bde1e358</link>
-      <description>No one at Hong Kong’s annual financial fiesta doubted the AI trade</description>
-      <guid isPermaLink="true">https://www.ft.com/content/58e795a0-af3e-4d49-85b8-d075bde1e358</guid>
-      <pubDate>Thu, 05 Nov 2026 14:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consultancies show that graduates can actually benefit from the rise of AI</title>
-      <link>https://www.ft.com/content/fce32d1c-cff0-4c32-95ed-bdca21e8cda5?syn-25a6b1a6=1</link>
-      <description>Firms need juniors whose skills go beyond a willingness to work long hours and churn out slide decks</description>
-      <guid isPermaLink="true">https://www.ft.com/content/fce32d1c-cff0-4c32-95ed-bdca21e8cda5?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 05 Nov 2026 13:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s ‘swarm’ strategy for the space race</title>
-      <link>https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1</link>
-      <description>Beijing has fostered a new national champion in LandSpace</description>
-      <guid isPermaLink="true">https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 05 Nov 2026 07:14:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
