@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:56:28 +0000</lastBuildDate>
+    <item>
+      <title>Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield</title>
+      <link>https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews</link>
+      <description>Ukrainian forces have foiled Moscow’s offensive in the Donetsk region. The Russian army is making one more push.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/russia/ten-months-of-war-to-gain-46-square-miles-how-russia-is-failing-on-the-battlefield-3184ae10?mod=rss_worldnews</guid>
+      <pubDate>Sat, 07 Nov 2026 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trump’s Clashing Advisers Press Him to Make Iran War Decision</title>
       <link>https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The conflict has lifted energy prices, though they have fallen since the midterms raised hopes for an end to the war.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96?mod=rss_worldnews</guid>
       <pubDate>Thu, 05 Nov 2026 13:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech</title>
-      <link>https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews</link>
-      <description>Beijing is seeking to keep AI data and expertise developed at home from leaking abroad.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews</guid>
-      <pubDate>Thu, 05 Nov 2026 11:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
