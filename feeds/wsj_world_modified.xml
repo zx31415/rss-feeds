@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:49:11 +0000</lastBuildDate>
     <item>
       <title>Six Dead in Shooting at Market Square in Poland</title>
       <link>https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</link>
-      <description>A suspect is in custody in what an official calls a terrorist attack.</description>
+      <description>Three others were found dead in the home of the suspect, who is in custody; an official calls it a terrorist attack .</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</guid>
-      <pubDate>Sat, 07 Nov 2026 20:41:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 22:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netanyahu’s Challenger Tapped to Try to Form Israeli Government</title>
+      <link>https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</link>
+      <description>Gadi Eisenkot, a former military chief, now has four weeks to build a coalition that could unseat Israel’s longstanding leader, Benjamin Netanyahu.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</guid>
+      <pubDate>Sat, 07 Nov 2026 21:01:00 +0000</pubDate>
     </item>
     <item>
       <title>New Zealand’s Conservatives Narrowly Lead in Election</title>
@@ -141,13 +148,6 @@
       <description>Santiago Peña’s downfall rattled a fast-growing South American economy that has attracted investors and forged close ties with the U.S.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_worldnews</guid>
       <pubDate>Thu, 05 Nov 2026 20:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat</title>
-      <link>https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews</link>
-      <description>The kingdom asked the Iran-backed militants what it would take to make peace. The response: $51 billion.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews</guid>
-      <pubDate>Thu, 05 Nov 2026 19:22:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
