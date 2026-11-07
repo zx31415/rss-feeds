@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:49:13 +0000</lastBuildDate>
+    <item>
+      <title>Six Dead in Shooting at Market Square in Poland</title>
+      <link>https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</link>
+      <description>A suspect is in custody in what an official calls a terrorist attack.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</guid>
+      <pubDate>Sat, 07 Nov 2026 20:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Zealand’s Conservatives Narrowly Lead in Election</title>
       <link>https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The kingdom asked the Iran-backed militants what it would take to make peace. The response: $51 billion.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews</guid>
       <pubDate>Thu, 05 Nov 2026 19:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russell Brand Found Guilty of Rape, Sexual Assault Charges</title>
-      <link>https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews</link>
-      <description>The verdict follows a four-week trial in London. The sentencing will occur Monday.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=rss_worldnews</guid>
-      <pubDate>Thu, 05 Nov 2026 17:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
