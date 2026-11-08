@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 22:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:12:46 +0000</lastBuildDate>
+    <item>
+      <title>The Growing Push to Protect Trophy Hunting in Africa</title>
+      <link>https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews</link>
+      <description>Western animal-rights groups are pushing to ban hunting-trophy imports, but are facing opposition from African countries renowned for protecting wildlife.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/africa/the-growing-push-to-protect-trophy-hunting-in-africa-d76ee290?mod=rss_worldnews</guid>
+      <pubDate>Sun, 08 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Six Dead in Shooting at Market Square in Poland</title>
       <link>https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The U.S. wanted judge Luis Benítez on charges that he took a $2 million bribe to release a top Canadian drug boss.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/colombia-arrests-mexican-judge-tied-to-drug-gang-led-by-ex-olympian-ba98c5c1?mod=rss_worldnews</guid>
       <pubDate>Thu, 05 Nov 2026 21:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paraguay’s President Resigns as Collapse of Bank With Close Ties to Him Sparks Crisis</title>
-      <link>https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_worldnews</link>
-      <description>Santiago Peña’s downfall rattled a fast-growing South American economy that has attracted investors and forged close ties with the U.S.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/paraguays-president-resigns-as-collapse-of-bank-with-close-ties-to-him-sparks-crisis-a62895f1?mod=rss_worldnews</guid>
-      <pubDate>Thu, 05 Nov 2026 20:46:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
