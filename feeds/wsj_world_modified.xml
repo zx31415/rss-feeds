@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:57:44 +0000</lastBuildDate>
+    <item>
+      <title>Nvidia’s Board Investigates Reports That CEO Was Spying Target After Affair</title>
+      <link>https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?mod=rss_worldnews</link>
+      <description>Jensen Huang apologized for being unfaithful to his wife, after he had an affair with an executive suspected of working for Chinese intelligence.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/nvidias-board-to-investigate-reports-that-jensen-huang-was-spying-target-c630325e?mod=rss_worldnews</guid>
+      <pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
+    </item>
     <item>
       <title>A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina</title>
       <link>https://www.wsj.com/world/americas/a-missionary-pope-faces-a-chain-saw-wielding-populist-in-argentina-b032a897?mod=rss_worldnews</link>
       <description>Pope Leo’s message of compassion for the poor clashes with Javier Milei’s radical economic overhaul, symbolized by his trademark chain saw.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/a-missionary-pope-faces-a-chain-saw-wielding-populist-in-argentina-b032a897?mod=rss_worldnews</guid>
-      <pubDate>Sun, 08 Nov 2026 18:09:00 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Party That Defeated Apartheid Hits Electoral Setback in South Africa</title>
@@ -141,13 +148,6 @@
       <description>Democratic wins and shifting signals from the White House point to change in Israel’s most crucial relationship.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israels-most-important-alliance-is-confronting-its-biggest-test-in-decades-a7c019ae?mod=rss_worldnews</guid>
       <pubDate>Fri, 06 Nov 2026 10:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox.</title>
-      <link>https://www.wsj.com/world/middle-east/to-cross-the-red-sea-shippers-email-houthi-rebels-read-their-inbox-5ecace40?mod=rss_worldnews</link>
-      <description>The Wall Street Journal reviewed the correspondence between shippers and the Yemeni militant group’s little-known clearance office.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/to-cross-the-red-sea-shippers-email-houthi-rebels-read-their-inbox-5ecace40?mod=rss_worldnews</guid>
-      <pubDate>Fri, 06 Nov 2026 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
