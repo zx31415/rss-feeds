@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:32:41 +0000</lastBuildDate>
+    <item>
+      <title>A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina</title>
+      <link>https://www.wsj.com/world/americas/a-missionary-pope-faces-a-chain-saw-wielding-populist-in-argentina-b032a897?mod=rss_worldnews</link>
+      <description>Pope Leo’s message of compassion for the poor clashes with Javier Milei’s radical economic overhaul, symbolized by his trademark chain saw.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/a-missionary-pope-faces-a-chain-saw-wielding-populist-in-argentina-b032a897?mod=rss_worldnews</guid>
+      <pubDate>Sun, 08 Nov 2026 18:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Party That Defeated Apartheid Hits Electoral Setback in South Africa</title>
+      <link>https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483?mod=rss_worldnews</link>
+      <description>Final results for local elections tallied Sunday showed the worst result on record for the African National Congress, which won just 31% of the votes cast.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/africa/party-that-defeated-apartheid-hits-electoral-setback-in-south-africa-709f0483?mod=rss_worldnews</guid>
+      <pubDate>Sun, 08 Nov 2026 16:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netanyahu Rival Gets First Run at Power, but Hurdles Lie in Wait</title>
+      <link>https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</link>
+      <description>Gadi Eisenkot must overcome disagreements among political parties to assemble a coalition robust enough to replace Israel’s longest-serving leader, Benjamin Netanyahu.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</guid>
+      <pubDate>Sun, 08 Nov 2026 15:58:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iconic Saudi Tower Hit as Yemen’s Houthis Target Riyadh</title>
       <link>https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f?mod=rss_worldnews</link>
@@ -36,13 +57,6 @@
       <description>Three others were found dead in the home of the suspect, who is in custody; an official calls it a terrorist attack .</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b?mod=rss_worldnews</guid>
       <pubDate>Sat, 07 Nov 2026 22:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu’s Challenger Tapped to Try to Form Israeli Government</title>
-      <link>https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</link>
-      <description>Gadi Eisenkot, a former military chief, now has four weeks to build a coalition that could unseat Israel’s longstanding leader, Benjamin Netanyahu.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/netanyahus-challenger-tapped-to-try-to-form-israeli-government-583fd2da?mod=rss_worldnews</guid>
-      <pubDate>Sat, 07 Nov 2026 21:01:00 +0000</pubDate>
     </item>
     <item>
       <title>New Zealand’s Conservatives Narrowly Lead in Election</title>
@@ -134,20 +148,6 @@
       <description>The Wall Street Journal reviewed the correspondence between shippers and the Yemeni militant group’s little-known clearance office.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/to-cross-the-red-sea-shippers-email-houthi-rebels-read-their-inbox-5ecace40?mod=rss_worldnews</guid>
       <pubDate>Fri, 06 Nov 2026 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moscow Seizes Japan Tobacco’s Russia Factories</title>
-      <link>https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=rss_worldnews</link>
-      <description>The move follows a Russian pattern of targeting Western firms over Ukraine and punishing Tokyo.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=rss_worldnews</guid>
-      <pubDate>Fri, 06 Nov 2026 06:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gulf Airports Built to Connect the World Are Now in the Crosshairs</title>
-      <link>https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews</link>
-      <description>The region’s renowned aviation hubs are a few hours from much of the world’s population, but even closer to Iran’s missiles.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews</guid>
-      <pubDate>Fri, 06 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
