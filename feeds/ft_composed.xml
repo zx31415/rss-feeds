@@ -8,13 +8,41 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:06:28 +0000</lastBuildDate>
+    <item>
+      <title>China’s producer prices hit four-year high</title>
+      <link>https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1</link>
+      <description>Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 09 Nov 2026 05:09:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrat triumph offers China ‘window to catch up’ on AI</title>
+      <link>https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1</link>
+      <description>Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction</description>
+      <guid isPermaLink="true">https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK faces China expertise crunch after exodus of senior diplomats</title>
+      <link>https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1</link>
+      <description>Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval</description>
+      <guid isPermaLink="true">https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>How a Chinese COP could make or break the climate fight</title>
+      <link>https://www.ft.com/content/aac270dd-1117-4633-be1b-c286d7f971a2?syn-25a6b1a6=1</link>
+      <description>Beijing is said to be weighing the pros and cons of hosting the UN climate talks in 2028</description>
+      <guid isPermaLink="true">https://www.ft.com/content/aac270dd-1117-4633-be1b-c286d7f971a2?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:16 +0000</pubDate>
+    </item>
     <item>
       <title>Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy</title>
       <link>https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1</link>
-      <description>Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees</description>
+      <description>Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital liaison in message to employees</description>
       <guid isPermaLink="true">https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1</guid>
-      <pubDate>Sun, 08 Nov 2026 22:31:02 +0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:08:15 +0000</pubDate>
     </item>
     <item>
       <title>Will US inflation data ease affordability concerns?</title>
@@ -120,34 +148,6 @@
       <description>The London-based fund ploughed billions into the riskiest parts of the junk bond market — and these have now soured</description>
       <guid isPermaLink="true">https://www.ft.com/content/59a3bb17-5b09-4223-9077-413140b8a05b?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 06 Nov 2026 14:23:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swinging oil prices highlight majors’ high-quality problem</title>
-      <link>https://www.ft.com/content/0f3065ce-239e-4afb-a865-a45ef3e48c42?syn-25a6b1a6=1</link>
-      <description>There are signs big groups have started investing in early stages of next growth cycle</description>
-      <guid isPermaLink="true">https://www.ft.com/content/0f3065ce-239e-4afb-a865-a45ef3e48c42?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 06 Nov 2026 12:42:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wall Street AI sell-off spreads to Asia and Europe</title>
-      <link>https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0</link>
-      <description>Donald Trump blames voters for tech rout as futures suggest sell-off will ease at the US open on Friday</description>
-      <guid isPermaLink="true">https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0</guid>
-      <pubDate>Fri, 06 Nov 2026 07:39:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>The sell-off gets deep</title>
-      <link>https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1</link>
-      <description>But not broad, yet</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 06 Nov 2026 06:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ark Invest wants to bring some ‘disruptive innovation’ to interval funds</title>
-      <link>https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0</link>
-      <description>Tokenised, exchange-traded interval funds with venture capital exposure and hedge fund-level fees. What could go wrong?</description>
-      <guid isPermaLink="true">https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0</guid>
-      <pubDate>Fri, 06 Nov 2026 06:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
