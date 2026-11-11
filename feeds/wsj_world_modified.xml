@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:06:04 +0000</lastBuildDate>
+    <item>
+      <title>U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia</title>
+      <link>https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews</link>
+      <description>Plus, Wall Street is worried about interest rates again, and Anthropic’s founders are about to be worth billions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews</guid>
+      <pubDate>Tue, 10 Nov 2026 22:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>Senior U.S. Soldier Is Arrested in U.K. Over Allegations of Spying for Russia</title>
       <link>https://www.wsj.com/world/europe/member-us-army-arrested-spy-russia-cce59efb?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>France’s foreign minister accused Iran of orchestrating the attack on 700 supermarkets.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews</guid>
       <pubDate>Mon, 09 Nov 2026 22:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Futures Slide as Trump Says New Strikes on Iran Unlikely</title>
-      <link>https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=rss_worldnews</link>
-      <description>Oil prices fell after President Trump downplayed the prospect of further U.S. strikes on Iran, even as attacks on Saudi Arabia and fresh incidents involving tankers in the Strait of Hormuz highlighted continuing risks to Middle Eastern oil supplies.</description>
-      <guid isPermaLink="true">https://www.wsj.com/finance/commodities-futures/oil-prices-fall-staying-below-100-as-trump-plays-down-new-iran-strikes-27dc3911?mod=rss_worldnews</guid>
-      <pubDate>Mon, 09 Nov 2026 20:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
