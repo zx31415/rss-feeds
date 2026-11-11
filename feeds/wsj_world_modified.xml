@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:43:35 +0000</lastBuildDate>
+    <item>
+      <title>Trump’s Plan to Import Russian Diesel Stalls on the High Seas</title>
+      <link>https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews</link>
+      <description>Several fuel tankers bound for the U.S. shifted course following difficulties finding buyers willing to accept the cargoes.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada PM Carney Calls Stellantis Factory Sale ‘Unacceptable’</title>
+      <link>https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=rss_worldnews</link>
+      <description>Canadian Prime Minister Mark Carney said he’s prepared to use whatever legal and policy levers available to protect the roughly 2,000 workers affected.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 00:04:00 +0000</pubDate>
+    </item>
     <item>
       <title>U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia</title>
       <link>https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_worldnews</link>
@@ -36,13 +50,6 @@
       <description>The David Walliams case, whose allegations he denies, has reignited debate over Britain’s strict libel laws and limits on press freedom.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/uk/it-was-the-u-k-s-worst-kept-secret-the-identity-of-a-celebrity-accused-of-preying-on-teens-8d1beccb?mod=rss_worldnews</guid>
       <pubDate>Tue, 10 Nov 2026 19:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canada PM Carney Calls Stellantis Factory Sale ‘Unacceptable’</title>
-      <link>https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=rss_worldnews</link>
-      <description>Canadian Prime Minister Mark Carney said he’s prepared to use whatever legal and policy levers available to protect the roughly 2,000 workers affected.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 17:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Best High-Yield Savings Accounts of November 2026: Up to 5.00%</title>
@@ -141,13 +148,6 @@
       <description>The president defended the embattled chief, Jensen Huang, who has been a powerful ally in the AI industry.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/asia/trump-says-nvidia-ceo-didnt-know-alice-huang-was-a-suspected-spy-211d65d7?mod=rss_worldnews</guid>
       <pubDate>Mon, 09 Nov 2026 23:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges</title>
-      <link>https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews</link>
-      <description>France’s foreign minister accused Iran of orchestrating the attack on 700 supermarkets.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c?mod=rss_worldnews</guid>
-      <pubDate>Mon, 09 Nov 2026 22:24:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
