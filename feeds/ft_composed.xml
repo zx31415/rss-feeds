@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:37:46 +0000</lastBuildDate>
+    <item>
+      <title>US tech stocks surge as AI trade revives</title>
+      <link>https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1</link>
+      <description>Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment</description>
+      <guid isPermaLink="true">https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 11 Nov 2026 17:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Single-stock perps look like pointiest horn of a bull market</title>
+      <link>https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1</link>
+      <description>Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey</description>
+      <guid isPermaLink="true">https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 11 Nov 2026 15:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meet the Willy Wonka of failed US microcaps</title>
+      <link>https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3?syn-25a6b1a6=1</link>
+      <description>Billionaire investor Brad Jacobs once again is using a small unloved company as his acquisition vehicle</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 11 Nov 2026 14:16:17 +0000</pubDate>
+    </item>
     <item>
       <title>The M&amp;S glow-up is starting to charm investors</title>
       <link>https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1</link>
@@ -127,27 +148,6 @@
       <description>Weak domestic demand weighs on economy even as energy crisis drives up costs</description>
       <guid isPermaLink="true">https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 09 Nov 2026 05:09:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats’ triumph offers China ‘window to catch up’ on AI</title>
-      <link>https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1</link>
-      <description>Analysts warn of impact on exporters if newly elected politicians take tougher line on US data centre construction</description>
-      <guid isPermaLink="true">https://www.ft.com/content/ff0e9974-b855-4b9a-a8c9-0782e7af16ff?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>UK diplomacy suffers exodus of China experts</title>
-      <link>https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1</link>
-      <description>Shortage of Beijing specialists from Whitehall undermines Britain’s ability to make policy at time of geopolitical upheaval</description>
-      <guid isPermaLink="true">https://www.ft.com/content/063bd942-cb44-494a-ad8d-5ca6ebbfcc4c?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>How the UK could borrow more without spooking gilt markets</title>
-      <link>https://www.ft.com/content/87a7c28c-deed-457e-b247-cf9bb83d5947?syn-25a6b1a6=1</link>
-      <description>Bringing Britain in line with peers would allow development corporations to do more without imperilling the government’s fiscal targets</description>
-      <guid isPermaLink="true">https://www.ft.com/content/87a7c28c-deed-457e-b247-cf9bb83d5947?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

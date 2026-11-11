@@ -8,13 +8,48 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:37:46 +0000</lastBuildDate>
     <item>
-      <title>EU Lays Out Plan to Tighten Online Consumer Protection Rules</title>
+      <title>Spain Hit by General Strike as Cost of Living Takes Center Stage Ahead of Elections</title>
+      <link>https://www.wsj.com/world/europe/spain-hit-by-general-strike-as-cost-of-living-takes-center-stage-ahead-of-elections-2c86baf7?mod=rss_worldnews</link>
+      <description>Demonstrators took to the streets of cities across Spain to join the country’s first general strike in 14 years, calling for measures to tackle the rising cost of living weeks before voters head to the polls.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/spain-hit-by-general-strike-as-cost-of-living-takes-center-stage-ahead-of-elections-2c86baf7?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 17:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Global Economy Looks Vulnerable to an AI Bust</title>
+      <link>https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews</link>
+      <description>Some countries, especially in Asia, are heavily exposed to the U.S. data-center build-out.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 15:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Best High-Yield Savings Accounts of November 2026: Up to 5.00%</title>
+      <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
+      <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
+      <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 14:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Morning Risk Report: How Hackers Steal Millions in AI Computing Power</title>
+      <link>https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-hackers-steal-millions-in-ai-computing-power-1359493b?mod=rss_worldnews</link>
+      <description>Plus: Jensen Huang affair revives push for chip restrictions and the U.S. has sued Lyft.</description>
+      <guid isPermaLink="true">https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-how-hackers-steal-millions-in-ai-computing-power-1359493b?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU Takes Aim at Influencer Marketing, Deceptive Online Tactics With Revamped Rules</title>
       <link>https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews</link>
       <description>The European Union proposed new legislation to tighten its online consumer protection rules, targeting deceptive designs, influencer marketing and artificial intelligence.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews</guid>
-      <pubDate>Wed, 11 Nov 2026 10:39:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang Affair Strains Taiwan’s Devotion to Its Hometown Hero</title>
+      <link>https://www.wsj.com/world/asia/the-jensen-huang-scandal-is-testing-taiwans-devotion-to-its-hometown-hero-2a2914d9?mod=rss_worldnews</link>
+      <description>The Nvidia CEO’s affair has shaken Taiwan, his birthplace and a cornerstone of the AI chip industry he helped create.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/the-jensen-huang-scandal-is-testing-taiwans-devotion-to-its-hometown-hero-2a2914d9?mod=rss_worldnews</guid>
+      <pubDate>Wed, 11 Nov 2026 11:57:00 +0000</pubDate>
     </item>
     <item>
       <title>Trump’s Plan to Import Russian Diesel Stalls on the High Seas</title>
@@ -66,13 +101,6 @@
       <pubDate>Tue, 10 Nov 2026 19:27:00 +0000</pubDate>
     </item>
     <item>
-      <title>Best High-Yield Savings Accounts of November 2026: Up to 5.00%</title>
-      <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
-      <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
-      <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 14:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Bank of England’s Lombardelli Signals Another Rate Rise Likely in Near Term</title>
       <link>https://www.wsj.com/economy/central-banking/bankof-englands-lombardelli-signals-another-rate-rise-likely-in-near-term-baac0950?mod=rss_worldnews</link>
       <description>The central bank is likely to again raise its key interest rate in the near future, unless there is evidence of weakening inflation, the deputy governor said.</description>
@@ -120,34 +148,6 @@
       <description>The Monetary Authority of Singapore is rolling out gold-vaulting services as part of efforts to make the city-state Asia’s top gold-trading hub.</description>
       <guid isPermaLink="true">https://www.wsj.com/finance/singapore-central-bank-rolls-out-gold-vaulting-services-8a2d4f0d?mod=rss_worldnews</guid>
       <pubDate>Tue, 10 Nov 2026 08:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat</title>
-      <link>https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews</link>
-      <description>U.S. refueling tankers were moved from RAF Mildenhall on Monday.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-aircraft-evacuated-from-second-u-k-base-due-to-iran-threat-835a8b58?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 04:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Jensen Huang’s Affair Spiraled Into a National Security Nightmare</title>
-      <link>https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_worldnews</link>
-      <description>The Nvidia CEO, who has acknowledged an affair with a woman accused of spying for China, has lobbied President Trump on loosening export controls.</description>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Trade Surplus Surged Past $1 Trillion in October</title>
-      <link>https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews</link>
-      <description>Chinese exports continue to soar despite economic gloom and global trade tensions.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/chinas-trade-surplus-surged-past-1-trillion-in-october-967968c9?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 04:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poland’s Political Divisions Puncture Its Influence on World Stage</title>
-      <link>https://www.wsj.com/world/europe/polands-political-divisions-puncture-its-influence-on-world-stage-1b17e3f2?mod=rss_worldnews</link>
-      <description>Economic strength and high military spending haven’t translated into decision-making clout on Ukraine.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/polands-political-divisions-puncture-its-influence-on-world-stage-1b17e3f2?mod=rss_worldnews</guid>
-      <pubDate>Tue, 10 Nov 2026 03:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
