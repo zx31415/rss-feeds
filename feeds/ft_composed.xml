@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:11:17 +0000</lastBuildDate>
+    <item>
+      <title>China warns US not to use Nvidia scandal as pretext for tech curbs</title>
+      <link>https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1</link>
+      <description>Beijing accuses US of fabricating ‘espionage narratives’ that ultimately forced resignation of co-founder Jensen Huang</description>
+      <guid isPermaLink="true">https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 12 Nov 2026 14:17:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Nvidia investor’s guide to (maybe) losing your CEO</title>
+      <link>https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</link>
+      <description>Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power</description>
+      <guid isPermaLink="true">https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 12 Nov 2026 10:39:01 +0000</pubDate>
+    </item>
     <item>
       <title>Growth investing or gambling?</title>
       <link>https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1</link>
@@ -80,13 +94,6 @@
       <pubDate>Tue, 10 Nov 2026 20:05:21 +0000</pubDate>
     </item>
     <item>
-      <title>The Nvidia investor’s guide to (maybe) losing your CEO</title>
-      <link>https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</link>
-      <description>Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power</description>
-      <guid isPermaLink="true">https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 10 Nov 2026 17:30:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Alice Huang’s tangled web of connections</title>
       <link>https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1</link>
       <description>Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators</description>
@@ -141,13 +148,6 @@
       <description>Board of chipmaker opens investigation after chief executive Jensen Huang admits to affair</description>
       <guid isPermaLink="true">https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 09 Nov 2026 21:24:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>US stocks rebound after AI rout</title>
-      <link>https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1</link>
-      <description>Lower oil prices help equity indices shrug off fall in Nvidia shares</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 09 Nov 2026 21:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
