@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:31:39 +0000</lastBuildDate>
     <item>
       <title>Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed</title>
       <link>https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1</link>
       <description>Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal</description>
       <guid isPermaLink="true">https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 13 Nov 2026 14:11:36 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 17:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rolls-Royce puts new spin on razor-and-blade model</title>
+      <link>https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499?syn-25a6b1a6=1</link>
+      <description>Old-school blueprint can still make its mark in a topsy-turvy world</description>
+      <guid isPermaLink="true">https://www.ft.com/content/53908349-419a-42be-9efc-e38981c15499?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 16:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>China drops bid for future COP as climate science battle heats up</title>
+      <link>https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1</link>
+      <description>EU presses Beijing to back the speedy publication of crucial reports from the Intergovernmental Panel on Climate Change</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3cc097d4-00af-4ece-8c86-d1bc9af7664d?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 15:33:15 +0000</pubDate>
     </item>
     <item>
       <title>Why market timing is a fool’s game (note to self)</title>
@@ -134,20 +148,6 @@
       <description>Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey</description>
       <guid isPermaLink="true">https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 11 Nov 2026 15:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the Willy Wonka of failed US microcaps</title>
-      <link>https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3?syn-25a6b1a6=1</link>
-      <description>Billionaire investor Brad Jacobs once again is using a small unloved company as his acquisition vehicle</description>
-      <guid isPermaLink="true">https://www.ft.com/content/d452f007-5f43-49d4-b293-0750011e99b3?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 14:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The M&amp;S glow-up is starting to charm investors</title>
-      <link>https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1</link>
-      <description>The retailer’s shares have climbed almost two-fifths this year — a sign that its recovery might be durable</description>
-      <guid isPermaLink="true">https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 05:00:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

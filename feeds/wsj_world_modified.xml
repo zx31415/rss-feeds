@@ -8,20 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:31:39 +0000</lastBuildDate>
+    <item>
+      <title>Best High-Yield Savings Accounts of November 2026: Up to 5.00%</title>
+      <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
+      <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
+      <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
+      <pubDate>Fri, 13 Nov 2026 20:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran Escalates Low-Level Conflict With a Shot at Bahrain</title>
+      <link>https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51?mod=rss_worldnews</link>
+      <description>The U.S. said it intercepted the drone strike, the first known attack on the Gulf country in two months.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-escalates-low-level-conflict-with-a-shot-at-bahrain-73ff9b51?mod=rss_worldnews</guid>
+      <pubDate>Fri, 13 Nov 2026 17:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stellantis Offers to Repay C$24 Million to Canada but Government Says Automaker Breaching Commitments</title>
       <link>https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=rss_worldnews</link>
       <description>Stellantis is offering to repay some of the money that Canada’s government wants to see returned for past support, but it won’t say if it’s prepared to defend in court the proposed sale of an Ontario plant.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/autos/stellantis-offers-to-repay-c-24-million-to-canada-but-government-says-automaker-breaching-commitments-15d5e00c?mod=rss_worldnews</guid>
       <pubDate>Fri, 13 Nov 2026 15:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best High-Yield Savings Accounts of November 2026: Up to 5.00%</title>
-      <link>https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</link>
-      <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
-      <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
-      <pubDate>Fri, 13 Nov 2026 14:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version</title>
@@ -141,13 +148,6 @@
       <description>Plus, Democrats are pointing fingers after Defense Secretary Pete Hegseth avoided impeachment, and United Airlines will ban AI bots from booking its flights.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/jd-vance-emerges-as-lead-iran-negotiator-cba55bcb?mod=rss_worldnews</guid>
       <pubDate>Wed, 11 Nov 2026 22:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Global Economy Looks Vulnerable to an AI Bust</title>
-      <link>https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews</link>
-      <description>Some countries, particularly in Asia, are seen as heavily exposed to the U.S. data-center build-out.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews</guid>
-      <pubDate>Wed, 11 Nov 2026 22:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
