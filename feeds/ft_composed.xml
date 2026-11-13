@@ -8,7 +8,35 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:10:28 +0000</lastBuildDate>
+    <item>
+      <title>Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed</title>
+      <link>https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1</link>
+      <description>Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal</description>
+      <guid isPermaLink="true">https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why market timing is a fool’s game (note to self)</title>
+      <link>https://www.ft.com/content/603270db-040c-44fb-9b1b-981b0b72de21?syn-25a6b1a6=1</link>
+      <description>Recent gyrations in stock and bond prices are a timely reminder to do nothing</description>
+      <guid isPermaLink="true">https://www.ft.com/content/603270db-040c-44fb-9b1b-981b0b72de21?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 13:31:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jensen Huang’s years-long effort to get close to China</title>
+      <link>https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1</link>
+      <description>Former Nvidia chief executive is facing intense scrutiny over ties to Beijing</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 12:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions</title>
+      <link>https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1</link>
+      <description>Ousted chief executive Jensen Huang had supported keeping sales open to China</description>
+      <guid isPermaLink="true">https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 13 Nov 2026 09:07:28 +0000</pubDate>
+    </item>
     <item>
       <title>Metro Bank’s sale process shows its dog days are over</title>
       <link>https://www.ft.com/content/b112d8e0-aa59-4771-bc97-c9dd999a98d2?syn-25a6b1a6=1</link>
@@ -120,34 +148,6 @@
       <description>The retailer’s shares have climbed almost two-fifths this year — a sign that its recovery might be durable</description>
       <guid isPermaLink="true">https://www.ft.com/content/4a514a86-e7b5-4341-aad2-11c2ae985ed5?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 11 Nov 2026 05:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italy’s penchant for bank meddling bites back</title>
-      <link>https://www.ft.com/content/82e207f8-76ea-4627-bd6e-ffdf032a4de2?syn-25a6b1a6=1</link>
-      <description>Coveted takeover target Banco BPM may end up under French control</description>
-      <guid isPermaLink="true">https://www.ft.com/content/82e207f8-76ea-4627-bd6e-ffdf032a4de2?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 05:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>US commerce department delays Megaspeed’s inclusion on trade blacklist</title>
-      <link>https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1</link>
-      <description>Company connected to alleged Chinese spy who had affair with Nvidia chief Jensen Huang was left off ‘entity list’</description>
-      <guid isPermaLink="true">https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 10 Nov 2026 20:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alice Huang’s tangled web of connections</title>
-      <link>https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1</link>
-      <description>Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 10 Nov 2026 16:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Countries speed up on renewables as China’s blistering pace slows</title>
-      <link>https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1</link>
-      <description>Ten takeaways from the IEA’s latest report on the fossil fuel transition</description>
-      <guid isPermaLink="true">https://www.ft.com/content/71f35844-9635-4cfe-bf47-39a4014dc8ee?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
