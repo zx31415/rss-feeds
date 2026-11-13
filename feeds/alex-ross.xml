@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 01:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:33:32 +0000</lastBuildDate>
+    <item>
+      <title>What Is It About Rock Music and Fascism?</title>
+      <link>https://www.newyorker.com/books/under-review/what-is-it-about-rock-music-and-fascism</link>
+      <description>A recent survey of pop stars’ flirtations with Nazi imagery raises questions about morality, media, and spectacle.</description>
+      <guid isPermaLink="true">https://www.newyorker.com/books/under-review/what-is-it-about-rock-music-and-fascism</guid>
+      <pubDate>Fri, 13 Nov 2026 00:33:31 +0000</pubDate>
+    </item>
     <item>
       <title>The Communist Thrillers of Anna Seghers</title>
       <link>https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-anna-seghers</link>
@@ -71,13 +78,6 @@
       <description>An eyewitness recalls the fraught encounter between a precocious American college student and a titan of German literature.</description>
       <guid isPermaLink="true">https://www.newyorker.com/culture/the-weekend-essay/what-went-wrong-when-susan-sontag-met-thomas-mann</guid>
       <pubDate>Sun, 06 Sep 2026 08:53:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vocal Resistance at the New York Festival of Song</title>
-      <link>https://www.newyorker.com/magazine/2026/03/02/new-york-festival-of-song-music-review</link>
-      <description>The event’s theme: Fugitives.</description>
-      <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/03/02/new-york-festival-of-song-music-review</guid>
-      <pubDate>Sun, 06 Sep 2026 08:53:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
