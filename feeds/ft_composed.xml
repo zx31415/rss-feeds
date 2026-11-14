@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:14:05 +0000</lastBuildDate>
+    <item>
+      <title>China’s beaten-down tech stocks could offer AI with a little less drama</title>
+      <link>https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1</link>
+      <description>Opportunities in China lie as much in the picks and shovels of the AI supply chain</description>
+      <guid isPermaLink="true">https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 14 Nov 2026 05:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump will not raise Nvidia spy issue with Xi at summit, officials say</title>
+      <link>https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1</link>
+      <description>US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 14 Nov 2026 01:28:36 +0000</pubDate>
+    </item>
     <item>
       <title>Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed</title>
       <link>https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment</description>
       <guid isPermaLink="true">https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 11 Nov 2026 21:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CoreWeave wants to sit with the credit-market grown-ups</title>
-      <link>https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1</link>
-      <description>The cloud computing group has benefited from a hitherto forgiving junk bond market</description>
-      <guid isPermaLink="true">https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 18:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Single-stock perps look like pointiest horn of a bull market</title>
-      <link>https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1</link>
-      <description>Regulatory uncertainty is the biggest hurdle to wider adoption, says one survey</description>
-      <guid isPermaLink="true">https://www.ft.com/content/0ecbc732-4d5a-4a3e-97aa-86d19285bcf8?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 15:57:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
