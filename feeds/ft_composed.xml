@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 10:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:59:12 +0000</lastBuildDate>
+    <item>
+      <title>Chart of the Week: The great market rotation</title>
+      <link>https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1</link>
+      <description>Defensive sectors are the new winners</description>
+      <guid isPermaLink="true">https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 14 Nov 2026 10:30:08 +0000</pubDate>
+    </item>
     <item>
       <title>China’s beaten-down tech stocks could offer AI with a little less drama</title>
       <link>https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Revenue from personal income tax jumps 90% as scrutiny tightens over the country’s wealthiest</description>
       <guid isPermaLink="true">https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 12 Nov 2026 02:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>US tech stocks rally as AI trade revives</title>
-      <link>https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1</link>
-      <description>Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment</description>
-      <guid isPermaLink="true">https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 11 Nov 2026 21:04:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
