@@ -8,9 +8,30 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:12:57 +0000</lastBuildDate>
     <item>
-      <title>U.S. Figures Iran Still Has Up to 2,500 Missiles, Countering Trump Assertions</title>
+      <title>Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally</title>
+      <link>https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews</link>
+      <description>The island kingdom, repeatedly hit by Tehran since the start of the war, said it destroyed incoming drones.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews</guid>
+      <pubDate>Sun, 15 Nov 2026 08:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Poached This Top Harvard Professor. Now He Wants Others to Join Him.</title>
+      <link>https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews</link>
+      <description>Liu Jun’s journey, from Beijing to Boston and back, exemplifies the exodus of Chinese scholars from the U.S.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race</title>
+      <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</link>
+      <description>Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</guid>
+      <pubDate>Sun, 15 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions</title>
       <link>https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67?mod=rss_worldnews</link>
       <description>The reconstitution of Tehran’s missile stockpile has factored into the Trump administration’s discussions about whether to resume strikes.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67?mod=rss_worldnews</guid>
@@ -127,27 +148,6 @@
       <description>A State Department report shows Caracas has received most of the revenue, while Trump says the U.S. has profited from the oil sales.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews</guid>
       <pubDate>Thu, 12 Nov 2026 20:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Mystery Businessman Introduced Jensen Huang to His Paramour. It Was Her Husband.</title>
-      <link>https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_worldnews</link>
-      <description>Kang Wei appeared to accept that his wife Alice Huang was in a romantic relationship and spoke openly of her closeness to the Nvidia chief.</description>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?mod=rss_worldnews</guid>
-      <pubDate>Thu, 12 Nov 2026 17:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine Says Its Military Starlink Is Disrupted Again, Hurting Defenses</title>
-      <link>https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64?mod=rss_worldnews</link>
-      <description>Drones that rely on Starshield, a military version of SpaceX’s Starlink service, are losing connectivity if they fly faster than 100 miles an hour.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/ukraine-says-its-military-starlink-is-disrupted-again-hurting-defenses-bfb00a64?mod=rss_worldnews</guid>
-      <pubDate>Thu, 12 Nov 2026 17:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel Strikes Gaza Hospital, Killing at Least Six</title>
-      <link>https://www.wsj.com/world/middle-east/israel-strikes-gaza-hospital-killing-at-least-six-e01ebd5f?mod=rss_worldnews</link>
-      <description>The attack targeted Hamas militants, according to the Israeli military, and comes as progress on Trump’s Gaza Peace Plan is stalled.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israel-strikes-gaza-hospital-killing-at-least-six-e01ebd5f?mod=rss_worldnews</guid>
-      <pubDate>Thu, 12 Nov 2026 17:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

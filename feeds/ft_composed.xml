@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:12:57 +0000</lastBuildDate>
+    <item>
+      <title>HSBC’s bet on bots could reshape the wealth wars</title>
+      <link>https://www.ft.com/content/6b928d2e-cfe9-49a1-8da6-18d7113d636f?syn-25a6b1a6=1</link>
+      <description>The UK bank ventures into a high-stakes experiment</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6b928d2e-cfe9-49a1-8da6-18d7113d636f?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 15 Nov 2026 05:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The world according to China</title>
+      <link>https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1</link>
+      <description>The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms</description>
+      <guid isPermaLink="true">https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:02 +0000</pubDate>
+    </item>
     <item>
       <title>Chart of the Week: The great market rotation</title>
       <link>https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>The current extreme risk-taking in equity markets might present a once-in-a-career investment opportunity</description>
       <guid isPermaLink="true">https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 12 Nov 2026 05:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gene therapy seeks a cure for its brittle business model</title>
-      <link>https://www.ft.com/content/b7676a0b-be46-4401-8143-7979a2d90078?syn-25a6b1a6=1</link>
-      <description>Financial backers are wary of the pioneering medical treatment as it does not have the same economies of scale as traditional drugs</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b7676a0b-be46-4401-8143-7979a2d90078?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 12 Nov 2026 05:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>China warns of ‘severe’ punishment for offshore trust tax evaders</title>
-      <link>https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1</link>
-      <description>Revenue from personal income tax jumps 90% as scrutiny tightens over the country’s wealthiest</description>
-      <guid isPermaLink="true">https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 12 Nov 2026 02:55:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
