@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:41:26 +0000</lastBuildDate>
+    <item>
+      <title>Neighbours of China’s London ‘mega’ embassy struggle to sell flats</title>
+      <link>https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1</link>
+      <description>Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems</description>
+      <guid isPermaLink="true">https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1</guid>
+      <pubDate>Sun, 15 Nov 2026 17:00:06 +0000</pubDate>
+    </item>
     <item>
       <title>Hong Kong developer New World unveils $3.2bn rights issue</title>
       <link>https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Beijing accuses US of fabricating ‘espionage narratives’ that ultimately forced resignation of co-founder Jensen Huang</description>
       <guid isPermaLink="true">https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 12 Nov 2026 14:17:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Nvidia investor’s guide to (maybe) losing your CEO</title>
-      <link>https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</link>
-      <description>Without Jensen Huang as chief, the company would probably shed some of its dominant market share and its generous pricing power</description>
-      <guid isPermaLink="true">https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 12 Nov 2026 10:39:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

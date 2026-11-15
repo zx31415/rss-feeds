@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:41:26 +0000</lastBuildDate>
+    <item>
+      <title>Bessent Urges Nvidia to Pick Outsider as Next CEO</title>
+      <link>https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=rss_worldnews</link>
+      <description>The Treasury Secretary questioned whether the chip maker pushed illicit China sales to boost revenue.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83?mod=rss_worldnews</guid>
+      <pubDate>Sun, 15 Nov 2026 18:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race</title>
       <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>Lt. Col. Brandon Tyner was arrested after unwittingly speaking with British officials.</description>
       <guid isPermaLink="true">https://www.wsj.com/politics/national-security/u-s-military-officer-arrested-in-the-u-k-was-detained-in-sting-operation-e809a042?mod=rss_worldnews</guid>
       <pubDate>Thu, 12 Nov 2026 20:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Collected $12 Billion in Venezuelan Oil Sales, Returning Nearly All of It</title>
-      <link>https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews</link>
-      <description>A State Department report shows Caracas has received most of the revenue, while Trump says the U.S. has profited from the oil sales.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/u-s-collected-12-billion-in-venezuelan-oil-sales-returning-nearly-all-of-it-140bba70?mod=rss_worldnews</guid>
-      <pubDate>Thu, 12 Nov 2026 20:14:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
