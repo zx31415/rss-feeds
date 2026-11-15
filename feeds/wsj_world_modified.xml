@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:59:32 +0000</lastBuildDate>
+    <item>
+      <title>How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race</title>
+      <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</link>
+      <description>Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</guid>
+      <pubDate>Sun, 15 Nov 2026 09:48:00 +0000</pubDate>
+    </item>
     <item>
       <title>Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally</title>
       <link>https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews</link>
@@ -22,13 +29,6 @@
       <description>Liu Jun’s journey, from Beijing to Boston and back, exemplifies the exodus of Chinese scholars from the U.S.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews</guid>
       <pubDate>Sun, 15 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race</title>
-      <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</link>
-      <description>Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.</description>
-      <guid isPermaLink="true">https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</guid>
-      <pubDate>Sun, 15 Nov 2026 02:00:00 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions</title>
