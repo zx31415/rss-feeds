@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:29:30 +0000</lastBuildDate>
+    <item>
+      <title>Demand for Chinese Goods Is Soaring but Economic Momentum Slows at Home</title>
+      <link>https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews</link>
+      <description>Consumption and investment have weakened, keeping China reliant on exports for growth.</description>
+      <guid isPermaLink="true">https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852?mod=rss_worldnews</guid>
+      <pubDate>Mon, 16 Nov 2026 06:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the Philippines, Trump Checks In With an Ally Resisting Chinese Aggression</title>
+      <link>https://www.wsj.com/world/asia/in-the-philippines-trump-checks-in-with-an-ally-resisting-chinese-aggression-24143b14?mod=rss_worldnews</link>
+      <description>Chinese forces have been increasingly aggressive in the disputed South China Sea and have clashed with the Philippines, a U.S. ally.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/in-the-philippines-trump-checks-in-with-an-ally-resisting-chinese-aggression-24143b14?mod=rss_worldnews</guid>
+      <pubDate>Mon, 16 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Miguel Ángel Félix Gallardo, Architect of Mexico’s Modern Drug Trade, Dies at 80</title>
       <link>https://www.wsj.com/world/americas/miguel-angel-felix-gallardo-architect-of-mexicos-modern-drug-trade-has-died-at-80-4f50a23a?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>Tehran intensifies its effort to cause pain in the physical world with attacks on lightly protected tankers and refrigerators.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc?mod=rss_worldnews</guid>
       <pubDate>Fri, 13 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The U.S. Cut Cuba Off From the World’s Oil. Now It Runs on American Fuel.</title>
-      <link>https://www.wsj.com/world/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-d8f26a9a?mod=rss_worldnews</link>
-      <description>Growing American fuel shipments are keeping Cuba afloat after Trump’s oil embargo pushed the island to the brink of a humanitarian crisis.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/the-u-s-cut-cuba-off-from-the-worlds-oil-now-it-runs-on-american-fuel-d8f26a9a?mod=rss_worldnews</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil Prices Rebound as Trump Questions Need for Iran Deal</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847?mod=rss_worldnews</link>
-      <description>Oil prices rebounded from initial losses and closed higher after President Trump said the U.S. doesn’t need a deal with Iran, putting some risk premium back into the market.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847?mod=rss_worldnews</guid>
-      <pubDate>Thu, 12 Nov 2026 21:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
