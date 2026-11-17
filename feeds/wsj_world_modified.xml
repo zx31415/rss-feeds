@@ -8,13 +8,48 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:31:20 +0000</lastBuildDate>
+    <item>
+      <title>Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State</title>
+      <link>https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews</link>
+      <description>Kang Wei developed the business while his wife was involved with Nvidia’s CEO.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews</guid>
+      <pubDate>Tue, 17 Nov 2026 02:22:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nvidia’s Board Not Considering Reinstating Jensen Huang as CEO</title>
       <link>https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=rss_worldnews</link>
       <description>Billionaire allies have called for his return as inquiries into his relationship with a woman suspected of working with Chinese intelligence proceed.</description>
       <guid isPermaLink="true">https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=rss_worldnews</guid>
-      <pubDate>Mon, 16 Nov 2026 19:54:00 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Advisers Are at War Over China Ahead of Xi Summit</title>
+      <link>https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398?mod=rss_worldnews</link>
+      <description>Before departing Washington, Trump said some on his team want friendly ties with China while others want “a blowup.”</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/china/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-90995398?mod=rss_worldnews</guid>
+      <pubDate>Tue, 17 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Put-Downs, Parties and a ‘Royal Family’: The Culture Inside Jensen Huang’s Nvidia</title>
+      <link>https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=rss_worldnews</link>
+      <description>The longtime Nvidia boss was known for being demanding and difficult. So was his daughter.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/put-downs-parties-and-a-royal-family-the-culture-inside-jensen-huangs-nvidia-6a872194?mod=rss_worldnews</guid>
+      <pubDate>Tue, 17 Nov 2026 00:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Falls as Improving Supply Prospects Offset Mideast Tensions</title>
+      <link>https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_worldnews</link>
+      <description>Oil weakened as improving supply prospects offset Middle East tensions.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/commodities-futures/oil-falls-as-improving-supply-prospects-offset-mideast-tensions-3499b2f6?mod=rss_worldnews</guid>
+      <pubDate>Tue, 17 Nov 2026 00:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commerce Department Rule Aims to Further Limit Chip Shipments to China</title>
+      <link>https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews</link>
+      <description>Plus, Trump said he might meet with Kim Jong Un this week, and Kalshi bought a securities firm to expand into stock trading.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_worldnews</guid>
+      <pubDate>Mon, 16 Nov 2026 22:35:00 +0000</pubDate>
     </item>
     <item>
       <title>Watch What U.S. Aircraft Carriers Bring to the Iran War</title>
@@ -94,13 +129,6 @@
       <pubDate>Sun, 15 Nov 2026 18:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race</title>
-      <link>https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</link>
-      <description>Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.</description>
-      <guid isPermaLink="true">https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews</guid>
-      <pubDate>Sun, 15 Nov 2026 09:48:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally</title>
       <link>https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews</link>
       <description>The island kingdom, repeatedly hit by Tehran since the start of the war, said it destroyed incoming drones.</description>
@@ -120,34 +148,6 @@
       <description>The reconstitution of Tehran’s missile stockpile has factored into the Trump administration’s discussions about whether to resume strikes.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67?mod=rss_worldnews</guid>
       <pubDate>Sun, 15 Nov 2026 01:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Massive Chinese Spy Operation Targeting Western Tech and AI</title>
-      <link>https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86?mod=rss_worldnews</link>
-      <description>Plus, Democrats ordered Elon Musk to preserve records related to Ukraine’s Starlink access, and our columnist hunts for a crisper apple.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86?mod=rss_worldnews</guid>
-      <pubDate>Sat, 14 Nov 2026 12:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State</title>
-      <link>https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews</link>
-      <description>From jail cells, drug lords have turned what was once Latin America’s most peaceful country into a critical artery in the global cocaine trade.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9?mod=rss_worldnews</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Greece Learned From Going Broke—and Others In Europe Still Haven’t</title>
-      <link>https://www.wsj.com/world/europe/greece-debt-today-aaffcb16?mod=rss_worldnews</link>
-      <description>The most fiscally responsible country in Europe is the one you’d least expect.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/greece-debt-today-aaffcb16?mod=rss_worldnews</guid>
-      <pubDate>Sat, 14 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Nvidia Affair Sits a Vast Chinese Spying Machine</title>
-      <link>https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews</link>
-      <description>Beijing is deploying the world’s biggest intelligence-gathering operation to bolster its tech industry. U.S. officials worry Jensen Huang was ensnared.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews</guid>
-      <pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
