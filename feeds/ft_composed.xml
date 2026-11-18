@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:50:36 +0000</lastBuildDate>
+    <item>
+      <title>US tech stocks oscillate after Nvidia results</title>
+      <link>https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1</link>
+      <description>Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off</description>
+      <guid isPermaLink="true">https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 18 Nov 2026 19:44:27 +0000</pubDate>
+    </item>
     <item>
       <title>Xi greets Trump with hug ahead of historic summit with Putin</title>
       <link>https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention</description>
       <guid isPermaLink="true">https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 16 Nov 2026 23:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The delicate balance in America’s AI chip war with China</title>
-      <link>https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1</link>
-      <description>US export controls need to be better enforced, not turned into a wider blockade</description>
-      <guid isPermaLink="true">https://www.ft.com/content/6b475027-f28a-4d1f-9331-c19a0e4d5a68?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 16 Nov 2026 18:35:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
