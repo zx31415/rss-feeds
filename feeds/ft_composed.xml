@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:10:16 +0000</lastBuildDate>
     <item>
       <title>Russia’s Putin to address global CEOs in China</title>
       <link>https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1</link>
       <description>Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump</description>
       <guid isPermaLink="true">https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1</guid>
-      <pubDate>Wed, 18 Nov 2026 01:08:29 +0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 03:23:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia has a chance to trade drama for durability</title>
+      <link>https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1</link>
+      <description>Chip group reports first results without flamboyant co-founder Jensen Huang at the helm</description>
+      <guid isPermaLink="true">https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 18 Nov 2026 02:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Witness the Wonders’: China touts miracle city for Trump summit</title>
+      <link>https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1</link>
+      <description>Authorities hope Shenzhen’s technological prowess will wow Apec attendees after illicit market clean-up</description>
+      <guid isPermaLink="true">https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 18 Nov 2026 02:17:18 +0000</pubDate>
     </item>
     <item>
       <title>US tech stocks slide ahead of Nvidia results</title>
@@ -134,20 +148,6 @@
       <description>Ailing property group to offer new stock at 80% discount as it moves to slash debts</description>
       <guid isPermaLink="true">https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 16 Nov 2026 08:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>The whole world is long America</title>
-      <link>https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1</link>
-      <description>And may soon have to pay the price for its obsession</description>
-      <guid isPermaLink="true">https://www.ft.com/content/1f1a2a9b-9429-4e4b-8606-7be8a1fd701e?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Publishers can afford to play hardball with Big Tech</title>
-      <link>https://www.ft.com/content/89f58e38-4668-4501-b57b-5f083c997ae7?syn-25a6b1a6=1</link>
-      <description>The value of deep wells of real human content has increased as AI fluff floods internet search engines</description>
-      <guid isPermaLink="true">https://www.ft.com/content/89f58e38-4668-4501-b57b-5f083c997ae7?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
