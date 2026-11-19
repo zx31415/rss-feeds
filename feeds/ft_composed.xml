@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:16:50 +0000</lastBuildDate>
+    <item>
+      <title>‘GTA VI’ shows the power of a blockbuster</title>
+      <link>https://www.ft.com/content/d6f65483-2c8f-46eb-89d2-c98270ad4c88?syn-25a6b1a6=1</link>
+      <description>Instead of publishing several mediocre games like its rivals, Take-Two is focusing on getting one release right</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d6f65483-2c8f-46eb-89d2-c98270ad4c88?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 19 Nov 2026 00:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic raises $81bn in record IPO</title>
+      <link>https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1</link>
+      <description>AI giant’s enlarged deal will surpass SpaceX to become world’s biggest public listing</description>
+      <guid isPermaLink="true">https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 18 Nov 2026 22:04:50 +0000</pubDate>
+    </item>
     <item>
       <title>US tech stocks oscillate after Nvidia results</title>
       <link>https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1</link>
@@ -134,20 +148,6 @@
       <description>Established robotics companies are continuing to grow and many are highly profitable</description>
       <guid isPermaLink="true">https://www.ft.com/content/13fb1482-46d8-46a8-9163-f2391204319d?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 17 Nov 2026 05:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade</title>
-      <link>https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1</link>
-      <description>US chip stocks fall as Nvidia sustains fresh bout of selling pressure</description>
-      <guid isPermaLink="true">https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 17 Nov 2026 02:29:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia aims for ‘joint statement’ from trilateral summit with US and China</title>
-      <link>https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1</link>
-      <description>Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention</description>
-      <guid isPermaLink="true">https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 16 Nov 2026 23:22:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
