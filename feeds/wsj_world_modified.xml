@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:38:19 +0000</lastBuildDate>
+    <item>
+      <title>Where in the World Is Mark Carney? Five Continents and 32 Countries in 113 Days</title>
+      <link>https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews</link>
+      <description>The Canadian prime minister has traveled far more than most world leaders, as he cements new alliances to break the country’s reliance on the U.S.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews</guid>
+      <pubDate>Sat, 21 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Political Taboo Tearing France Apart</title>
       <link>https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews</link>
@@ -54,7 +61,7 @@
     <item>
       <title>American State Capitalism Helped Produce the Nvidia Scandal</title>
       <link>https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_worldnews</link>
-      <description>Under Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that.</description>
+      <description>Under President Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that.</description>
       <guid isPermaLink="true">https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_worldnews</guid>
       <pubDate>Fri, 20 Nov 2026 17:08:00 +0000</pubDate>
     </item>
@@ -141,13 +148,6 @@
       <description>As Prime Minister Benjamin Netanyahu advocates for more bombing, Gulf countries are pushing for a deal.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3?mod=rss_worldnews</guid>
       <pubDate>Thu, 19 Nov 2026 20:39:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump-Xi Summit Shows Putin’s Powerful Friendships Have Their Limits</title>
-      <link>https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews</link>
-      <description>The trilateral meeting in China with President Trump and Chinese leader Xi Jinping marked a coup for the Russian leader—but he has little concrete to show for it.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews</guid>
-      <pubDate>Thu, 19 Nov 2026 20:08:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
