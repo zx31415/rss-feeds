@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:22:45 +0000</lastBuildDate>
+    <item>
+      <title>Traders start to move US copper to China as Trump tariff fears ease</title>
+      <link>https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</link>
+      <description>Acute Chinese shortage and high local premium create lucrative arbitrage</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:08 +0000</pubDate>
+    </item>
     <item>
       <title>Asda could find salvation in the supermarket side hustle</title>
       <link>https://www.ft.com/content/8f9453d7-cf5c-41a1-9421-b7eb9e672455?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>By embedding AI into its products, the software group hopes it can dissuade its small business clients from looking elsewhere</description>
       <guid isPermaLink="true">https://www.ft.com/content/0918d3ec-f398-4508-8027-33c0f7327a50?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 19 Nov 2026 18:44:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>US stocks end more than 2% lower in wake of Anthropic debut</title>
-      <link>https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1</link>
-      <description>AI group led by Dario Amodei begins trading on Nasdaq after raising $81bn in upsized public offering</description>
-      <guid isPermaLink="true">https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 19 Nov 2026 16:19:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
