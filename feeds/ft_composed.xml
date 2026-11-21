@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:51:03 +0000</lastBuildDate>
+    <item>
+      <title>US tech stocks plunge into bear market in worst week since Covid-19 crisis</title>
+      <link>https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1</link>
+      <description>Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street</description>
+      <guid isPermaLink="true">https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 20 Nov 2026 21:52:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Anthropic’s historic IPO</title>
+      <link>https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1</link>
+      <description>Can the low-key company preserve its idiosyncratic culture in the glare of public markets?</description>
+      <guid isPermaLink="true">https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 20 Nov 2026 21:21:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>’Tis the season to be grateful to China</title>
+      <link>https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1</link>
+      <description>Forget the harrumphing Scrooges at COP — no other country is doing more for the climate</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 20 Nov 2026 18:57:07 +0000</pubDate>
+    </item>
     <item>
       <title>Anthropic shares slide as tech stocks tumble</title>
       <link>https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1</link>
@@ -31,18 +52,11 @@
       <pubDate>Fri, 20 Nov 2026 15:23:38 +0000</pubDate>
     </item>
     <item>
-      <title>US tech stocks plummet as AI trade unravels</title>
+      <title>Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut</title>
       <link>https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1</link>
       <description>Investors rush for havens as heavy selling sweeps Wall Street</description>
       <guid isPermaLink="true">https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 20 Nov 2026 14:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘A necessary evil’: how Anthropic pulled off its IPO</title>
-      <link>https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1</link>
-      <description>Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?</description>
-      <guid isPermaLink="true">https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 20 Nov 2026 12:02:46 +0000</pubDate>
     </item>
     <item>
       <title>A bubble in . . . defensive stocks?</title>
@@ -134,20 +148,6 @@
       <description>Is that good?</description>
       <guid isPermaLink="true">https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e</guid>
       <pubDate>Thu, 19 Nov 2026 11:06:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>TSMC and Samsung suspend some chip shipments to Chinese customers</title>
-      <link>https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1</link>
-      <description>Halt comes after US commerce department introduces new export controls</description>
-      <guid isPermaLink="true">https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 19 Nov 2026 10:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump hails historic meeting with Putin and Xi</title>
-      <link>https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f</link>
-      <description>Summit with three leaders in southern Chinese city of Shenzhen during week of high-stakes diplomacy</description>
-      <guid isPermaLink="true">https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f</guid>
-      <pubDate>Thu, 19 Nov 2026 07:43:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
