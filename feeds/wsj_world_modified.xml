@@ -8,7 +8,21 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 23:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump</title>
+      <link>https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews</link>
+      <description>The nuclear arsenal controlled by the North Korean dictator has grown stronger while Washington falls further behind in its quest to dismantle it.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews</guid>
+      <pubDate>Sun, 22 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Alice Huang Associate Accused of Funneling Nvidia Chips to China</title>
+      <link>https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_worldnews</link>
+      <description>The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_worldnews</guid>
+      <pubDate>Sun, 22 Nov 2026 02:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mexico Captures Top Drug Boss in Fierce Gunfight</title>
       <link>https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews</link>
@@ -134,20 +148,6 @@
       <description>President Trump’s envoys discussed Ukraine surrendering territory in the Donbas in exchange for NATO membership, a reversal of longstanding U.S. policy.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/u-s-has-floated-nato-membership-for-ukraine-in-recent-meetings-d5c8243a?mod=rss_worldnews</guid>
       <pubDate>Fri, 20 Nov 2026 12:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.K. Government Borrowed More in October, But Is on Track for Smaller Deficit</title>
-      <link>https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_worldnews</link>
-      <description>At 3.5% of gross domestic product, the budget deficit for the fiscal year to October was lower than the 3.8% recorded a year earlier.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_worldnews</guid>
-      <pubDate>Fri, 20 Nov 2026 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spain Remains Europe’s Star Economy. Why Don’t People Feel Richer?</title>
-      <link>https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_worldnews</link>
-      <description>Spain’s economy continues to boast growth rates that are the envy of Europe. But as discontent continues to mount over living standards ahead of next week’s elections, it is clear that not everyone is celebrating.</description>
-      <guid isPermaLink="true">https://www.wsj.com/economy/spain-remains-europes-star-economy-why-dont-people-feel-richer-cfa35091?mod=rss_worldnews</guid>
-      <pubDate>Fri, 20 Nov 2026 07:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
