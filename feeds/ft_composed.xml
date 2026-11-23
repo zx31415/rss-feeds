@@ -8,13 +8,48 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 08:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:14:17 +0000</lastBuildDate>
     <item>
-      <title>Wall Street set to rebound after AI stock sell-off</title>
+      <title>Nasdaq jumps 7% as Nvidia shares soar</title>
       <link>https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1</link>
-      <description>Asian markets decline as South Korean chipmakers shed about 3%</description>
+      <description>Chip giant up 33% after Huang reinstated while S&amp;P gains 4.3%</description>
       <guid isPermaLink="true">https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 23 Nov 2026 08:32:38 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 17:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capita’s pesky civil service pension mandate may be its saving grace</title>
+      <link>https://www.ft.com/content/e99cf35e-7d96-4eff-8c50-cb66f7d55b48?syn-25a6b1a6=1</link>
+      <description>There are few competitors ready to take on the UK group</description>
+      <guid isPermaLink="true">https://www.ft.com/content/e99cf35e-7d96-4eff-8c50-cb66f7d55b48?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 23 Nov 2026 17:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huang’s return is a triumph of money over morals</title>
+      <link>https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1</link>
+      <description>The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback</description>
+      <guid isPermaLink="true">https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 23 Nov 2026 16:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>What happens when bubbles burst</title>
+      <link>https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1</link>
+      <description>AI enthusiasm has turned into major investor concern that a market might be heading for a fall</description>
+      <guid isPermaLink="true">https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Nvidia tells us about America and China</title>
+      <link>https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1</link>
+      <description>The company’s spy scandal shows how little leverage Washington has against Beijing</description>
+      <guid isPermaLink="true">https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 23 Nov 2026 14:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traders start to move US copper to China as Trump tariff fears ease</title>
+      <link>https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</link>
+      <description>Acute Chinese shortage and high local premium create lucrative arbitrage</description>
+      <guid isPermaLink="true">https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</guid>
+      <pubDate>Mon, 23 Nov 2026 12:21:55 +0000</pubDate>
     </item>
     <item>
       <title>From rotation to contagion</title>
@@ -29,13 +64,6 @@
       <description>Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment</description>
       <guid isPermaLink="true">https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 23 Nov 2026 06:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>What happens when bubbles burst</title>
-      <link>https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1</link>
-      <description>AI enthusiasm has turned into major investor concern that a market might be heading for a fall</description>
-      <guid isPermaLink="true">https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:22 +0000</pubDate>
     </item>
     <item>
       <title>China is winning the car war</title>
@@ -80,13 +108,6 @@
       <pubDate>Sat, 21 Nov 2026 17:00:10 +0000</pubDate>
     </item>
     <item>
-      <title>Traders start to move US copper to China as Trump tariff fears ease</title>
-      <link>https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</link>
-      <description>Acute Chinese shortage and high local premium create lucrative arbitrage</description>
-      <guid isPermaLink="true">https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Asda could find salvation in the supermarket side hustle</title>
       <link>https://www.ft.com/content/8f9453d7-cf5c-41a1-9421-b7eb9e672455?syn-25a6b1a6=1</link>
       <description>Venturing into ‘adjacent’ retailers may be a good strategy</description>
@@ -127,27 +148,6 @@
       <description>Can the low-key company preserve its idiosyncratic culture in the glare of public markets?</description>
       <guid isPermaLink="true">https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1</guid>
       <pubDate>Fri, 20 Nov 2026 21:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>’Tis the season to be grateful to China</title>
-      <link>https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1</link>
-      <description>Forget the harrumphing Scrooges at COP — no other country is doing more for the climate</description>
-      <guid isPermaLink="true">https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 20 Nov 2026 18:57:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthropic shares slide as tech stocks tumble</title>
-      <link>https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1</link>
-      <description>Blockbuster debut from developer of Claude fails to ease concerns over AI capex spending boom</description>
-      <guid isPermaLink="true">https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 20 Nov 2026 18:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Putin was the real winner at the trilateral summit</title>
-      <link>https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519</link>
-      <description>The Shenzhen meeting only emboldened the Russian leader. Now Europe must lay the groundwork for serious diplomacy</description>
-      <guid isPermaLink="true">https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519</guid>
-      <pubDate>Fri, 20 Nov 2026 17:33:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
