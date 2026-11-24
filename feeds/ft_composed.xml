@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 04:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:56:00 +0000</lastBuildDate>
+    <item>
+      <title>Compass exit should spur London to beef up its bench</title>
+      <link>https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1</link>
+      <description>Financial hubs are like football teams, and it’s time for London market to focus on the next generation</description>
+      <guid isPermaLink="true">https://www.ft.com/content/d23b5a83-0ada-4d94-adb1-de826a896174?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 24 Nov 2026 05:00:24 +0000</pubDate>
+    </item>
     <item>
       <title>Japan’s Sanae Takaichi isolated on world stage</title>
       <link>https://www.ft.com/content/13ea1195-a0e7-4b19-8316-d56042ac2678?syn-25a6b1a6=1</link>
@@ -141,13 +148,6 @@
       <description>As the US and China’s AI rivalry intensifies, focus is moving to supply chains</description>
       <guid isPermaLink="true">https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1</guid>
       <pubDate>Sat, 21 Nov 2026 05:00:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>US watchdogs pick a bad time to cut disclosure on executive pay</title>
-      <link>https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1</link>
-      <description>The Securities and Exchange Commission has decided a more ‘principles-based’ regime is needed</description>
-      <guid isPermaLink="true">https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
