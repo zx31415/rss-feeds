@@ -8,13 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:18:35 +0000</lastBuildDate>
     <item>
-      <title>Anthropic falls below IPO price as tech rally fades</title>
+      <title>Asian markets lose ground as AI fears return</title>
+      <link>https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1</link>
+      <description>Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades</description>
+      <guid isPermaLink="true">https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1</guid>
+      <pubDate>Wed, 25 Nov 2026 01:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huawei convicted in US trial that exposed corporate espionage and sanctions evasion</title>
+      <link>https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1</link>
+      <description>Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 24 Nov 2026 22:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial</title>
+      <link>https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1</link>
+      <description>Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs</description>
+      <guid isPermaLink="true">https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 24 Nov 2026 21:55:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic closes below IPO price as tech rally fades</title>
       <link>https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1</link>
       <description>Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides</description>
       <guid isPermaLink="true">https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 24 Nov 2026 16:40:54 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 21:11:37 +0000</pubDate>
     </item>
     <item>
       <title>Shanghai’s powerful Communist Party boss toppled as Xi escalates purge</title>
@@ -127,27 +148,6 @@
       <description>Plus, chips are not cheap</description>
       <guid isPermaLink="true">https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1</guid>
       <pubDate>Mon, 23 Nov 2026 06:30:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asian regulators rush to support sagging markets as AI trade falters</title>
-      <link>https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1</link>
-      <description>Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment</description>
-      <guid isPermaLink="true">https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 23 Nov 2026 06:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>China is winning the car war</title>
-      <link>https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1</link>
-      <description>Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home</description>
-      <guid isPermaLink="true">https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investors flip the switch on the AI trade</title>
-      <link>https://www.ft.com/content/77bfc0d6-e494-4e8c-86ec-b15c5cb79688?syn-25a6b1a6=1</link>
-      <description>After tech stocks tumbled, are markets entering a new era?</description>
-      <guid isPermaLink="true">https://www.ft.com/content/77bfc0d6-e494-4e8c-86ec-b15c5cb79688?syn-25a6b1a6=1</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
