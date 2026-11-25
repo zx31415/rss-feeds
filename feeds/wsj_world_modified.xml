@@ -8,7 +8,14 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 02:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:04:11 +0000</lastBuildDate>
+    <item>
+      <title>China’s Military Ambitions in the Pacific Suffer Setback</title>
+      <link>https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews</link>
+      <description>The Solomon Islands said it won’t allow foreign bases on its soil, calming worries that the country was slipping into China’s orbit and that Beijing could open a military outpost there.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews</guid>
+      <pubDate>Wed, 25 Nov 2026 02:44:00 +0000</pubDate>
+    </item>
     <item>
       <title>Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu</title>
       <link>https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews</link>
@@ -141,13 +148,6 @@
       <description>The data-industry executive was in contact with Chinese intelligence during her affair with Jensen Huang.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/china/alice-huang-us-intel-nvidia-china-34e2404a?mod=rss_worldnews</guid>
       <pubDate>Tue, 24 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships</title>
-      <link>https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews</link>
-      <description>As many as 50 ships carrying oil and other explosive substances are believed to have been attacked, U.S. officials said.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
