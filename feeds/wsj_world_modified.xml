@@ -8,13 +8,34 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:45:07 +0000</lastBuildDate>
+    <item>
+      <title>Iranian Drone Attack Kills Two Italians in Kuwait</title>
+      <link>https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35?mod=rss_worldnews</link>
+      <description>The attack hit as technicians from Rheinmetall Italia worked on an air-defense system.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/iranian-drone-attack-kills-two-italians-in-kuwait-5e360a35?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 18:24:00 +0000</pubDate>
+    </item>
     <item>
       <title>Europe Has Picked a New Central Bank Chief. He’s in for a Bumpy Ride.</title>
       <link>https://www.wsj.com/world/europe/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-7d6f7fea?mod=rss_worldnews</link>
-      <description>Pablo Hernández de Cos is set to take over at the ECB from Christine Lagarde next year.</description>
+      <description>Pablo Hernández de Cos is set to take over from Christine Lagarde at the ECB next year.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/europe/europe-has-picked-a-new-central-bank-chief-hes-in-for-a-bumpy-ride-7d6f7fea?mod=rss_worldnews</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:00 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nvidia Tells Partners to Pause Shipments to Southeast Asia</title>
+      <link>https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_worldnews</link>
+      <description>Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.</description>
+      <guid isPermaLink="true">https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 17:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Another Wartime Winter Sets In, Kyiv Residents Weigh Finally Leaving</title>
+      <link>https://www.wsj.com/world/as-another-wartime-winter-sets-in-kyiv-residents-weigh-finally-leaving-c76357dc?mod=rss_worldnews</link>
+      <description>Russia is pummeling Ukraine’s power lines and generating plants, making everyday life a survival mission.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/as-another-wartime-winter-sets-in-kyiv-residents-weigh-finally-leaving-c76357dc?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Game-Changing Move Just Gave America the Edge Over China in AI</title>
@@ -127,27 +148,6 @@
       <description>The Solomon Islands said it won’t allow foreign bases on its soil, calming worries that the country was slipping into China’s orbit and that Beijing could open a military outpost there.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews</guid>
       <pubDate>Wed, 25 Nov 2026 02:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu</title>
-      <link>https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews</link>
-      <description>The Pennsylvania governor said Biden didn’t go far enough to constrain Netanyahu in his first interview on foreign policy ahead of a potential 2028 run.</description>
-      <guid isPermaLink="true">https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews</guid>
-      <pubDate>Wed, 25 Nov 2026 02:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital</title>
-      <link>https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews</link>
-      <description>The strike on the Public Investment Fund Tower follows a previous Houthi assault on the building on Thursday.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews</guid>
-      <pubDate>Wed, 25 Nov 2026 01:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s Huawei Convicted of Fraud in U.S. Criminal Trial</title>
-      <link>https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews</link>
-      <description>A federal jury convicted the tech and telecom giant of fraud and other offenses but acquitted it of racketeering conspiracy.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_worldnews</guid>
-      <pubDate>Tue, 24 Nov 2026 22:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

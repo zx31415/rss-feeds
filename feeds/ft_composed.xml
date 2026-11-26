@@ -8,13 +8,20 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:45:07 +0000</lastBuildDate>
     <item>
       <title>Global stocks climb after volatile US trading over AI risks</title>
       <link>https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1</link>
       <description>Tech shares hit this month by fears over whether boom can be sustained</description>
       <guid isPermaLink="true">https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 26 Nov 2026 14:09:52 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 16:49:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Want more apprentices? Start by upskilling the trainers</title>
+      <link>https://www.ft.com/content/bbc6102c-832c-4a63-86e9-0748023c49e8?syn-25a6b1a6=1</link>
+      <description>Abundance of further education and skills providers in UK means huge diversity in heft and quality</description>
+      <guid isPermaLink="true">https://www.ft.com/content/bbc6102c-832c-4a63-86e9-0748023c49e8?syn-25a6b1a6=1</guid>
+      <pubDate>Thu, 26 Nov 2026 14:08:45 +0000</pubDate>
     </item>
     <item>
       <title>Trafigura calls for greater European metals support after zinc shutdown</title>
@@ -141,13 +148,6 @@
       <description>Projects that touted chip access to Chinese customers face tighter US scrutiny</description>
       <guid isPermaLink="true">https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1</guid>
       <pubDate>Wed, 25 Nov 2026 02:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Huawei convicted in US trial that exposed corporate espionage and sanctions evasion</title>
-      <link>https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1</link>
-      <description>Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company</description>
-      <guid isPermaLink="true">https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 24 Nov 2026 22:36:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
