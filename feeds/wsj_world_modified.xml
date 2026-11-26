@@ -8,7 +8,28 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 22:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:56:43 +0000</lastBuildDate>
+    <item>
+      <title>Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan</title>
+      <link>https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_worldnews</link>
+      <description>Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.</description>
+      <guid isPermaLink="true">https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 03:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Behind France’s Unrest Lies a Historic Decline in Spending Power</title>
+      <link>https://www.wsj.com/world/europe/behind-frances-unrest-lies-a-historic-decline-in-spending-power-ab0c7d65?mod=rss_worldnews</link>
+      <description>As inflation rises, real wages in France are going in the opposite direction, fueling protests.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/behind-frances-unrest-lies-a-historic-decline-in-spending-power-ab0c7d65?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade</title>
+      <link>https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews</link>
+      <description>Cuts to subsidies for fuel and food have put new pressure on the Iranian public, while highlighting internal political divides.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews</guid>
+      <pubDate>Thu, 26 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oil Futures Pick Up as Middle East Tensions Persist</title>
       <link>https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-supply-outlook-renewed-middle-east-tensions-182b1198?mod=rss_worldnews</link>
@@ -127,27 +148,6 @@
       <description>Beat average interest rates with one of these top high-yield savings accounts.</description>
       <guid isPermaLink="true">https://www.wsj.com/buyside/personal-finance/banking/best-high-yield-savings-account?mod=rss_worldnews</guid>
       <pubDate>Tue, 24 Nov 2026 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem</title>
-      <link>https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews</link>
-      <description>Plus: Nvidia reinstates Jensen Huang as CEO and new study raises Bayer cancer link again</description>
-      <guid isPermaLink="true">https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews</guid>
-      <pubDate>Tue, 24 Nov 2026 12:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Warplanes Trigger Alarm Among U.S. Partners in Asia</title>
-      <link>https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews</link>
-      <description>Military aircraft has skirted or entered the airspace of U.S. allies in Asia several times in recent days, prompting Japan and South Korea to scramble jet fighters.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews</guid>
-      <pubDate>Tue, 24 Nov 2026 12:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Gap Between China’s Military Spectacle and Battlefield Reality</title>
-      <link>https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews</link>
-      <description>Plus, U.S. chip restrictions deepen China’s AI computing crunch and the shadow network behind Nvidia’s China chip-smuggling scandal resurfaces.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews</guid>
-      <pubDate>Tue, 24 Nov 2026 11:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
