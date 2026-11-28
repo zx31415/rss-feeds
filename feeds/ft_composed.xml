@@ -8,13 +8,27 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:53:47 +0000</lastBuildDate>
+    <item>
+      <title>The ‘diehard separatist’ shaking up Taipei’s election</title>
+      <link>https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1</link>
+      <description>Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028</description>
+      <guid isPermaLink="true">https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 27 Nov 2026 23:50:03 +0000</pubDate>
+    </item>
     <item>
       <title>US tech stocks rise in latest market swing</title>
       <link>https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1</link>
       <description>All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings</description>
       <guid isPermaLink="true">https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1</guid>
-      <pubDate>Fri, 27 Nov 2026 17:27:23 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 20:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Nvidia intervention has a cost for US stocks</title>
+      <link>https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1</link>
+      <description>Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities</description>
+      <guid isPermaLink="true">https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1</guid>
+      <pubDate>Fri, 27 Nov 2026 18:26:25 +0000</pubDate>
     </item>
     <item>
       <title>EU weighs tighter export controls to prevent battery waste going to China</title>
@@ -134,20 +148,6 @@
       <description>Muse’s US launch in September sparked concerns the price comparison industry would be wiped out, but the panic has died down</description>
       <guid isPermaLink="true">https://www.ft.com/content/7f81ffd9-c259-4f36-9e22-77269244de1b?syn-25a6b1a6=1</guid>
       <pubDate>Thu, 26 Nov 2026 05:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Beauty Tech Group is a reminder of London’s natural assets</title>
-      <link>https://www.ft.com/content/abca3bf7-8245-4490-840f-8c0548042f9a?syn-25a6b1a6=1</link>
-      <description>The City cannot compete with New York’s market size and wealth, but it can serve as a staging post for upwardly mobile companies</description>
-      <guid isPermaLink="true">https://www.ft.com/content/abca3bf7-8245-4490-840f-8c0548042f9a?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 26 Nov 2026 05:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia halts chip shipments to south-east Asia</title>
-      <link>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1</link>
-      <description>Move comes as US steps up export controls to prevent Chinese access to AI computing power</description>
-      <guid isPermaLink="true">https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1</guid>
-      <pubDate>Thu, 26 Nov 2026 05:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

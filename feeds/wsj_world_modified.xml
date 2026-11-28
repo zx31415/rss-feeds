@@ -8,11 +8,39 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <generator>gh-rss-builder</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:53:47 +0000</lastBuildDate>
+    <item>
+      <title>S&amp;P Revises Outlook on France’s Credit Rating to Negative From Stable</title>
+      <link>https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews</link>
+      <description>The decision paves the way for a rating downgrade as mounting public debt and political uncertainty threaten the country’s finances.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews</guid>
+      <pubDate>Fri, 27 Nov 2026 22:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting</title>
+      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews</link>
+      <description>Oil futures settled lower with traders weighing renewed threats to Middle Eastern supplies and awaiting a weekend meeting of the Organization of the Petroleum Exporting Countries and its allies to discuss output policy for 2027.</description>
+      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews</guid>
+      <pubDate>Fri, 27 Nov 2026 20:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada’s Supreme Court Upholds Quebec’s Religious-Symbols Ban</title>
+      <link>https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews</link>
+      <description>The law, the first of its kind in North America, bars most public-sector employees from wearing religious symbols, such as the hijab and the kippah, while on the job.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/americas/canadas-supreme-court-upholds-quebecs-religious-symbols-ban-c1d8371a?mod=rss_worldnews</guid>
+      <pubDate>Fri, 27 Nov 2026 19:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Strikes Vessel Attempting Blockade Run Near Iran</title>
+      <link>https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews</link>
+      <description>President Trump is pressuring Tehran’s economy as diplomatic talks hit a wall.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews</guid>
+      <pubDate>Fri, 27 Nov 2026 19:07:00 +0000</pubDate>
+    </item>
     <item>
       <title>Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash</title>
       <link>https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews</link>
-      <description>Public outcry over the TV investigation highlights nation’s struggle to come to terms with allegations over how it fought the war in Gaza.</description>
+      <description>A public outcry over the TV investigation highlights the nation’s struggle to come to terms with allegations over how it fought the war in Gaza.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews</guid>
       <pubDate>Fri, 27 Nov 2026 18:00:00 +0000</pubDate>
     </item>
@@ -45,13 +73,6 @@
       <pubDate>Fri, 27 Nov 2026 13:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>Oil Prices Mixed Ahead of OPEC+ Meeting as Middle East Supply Risks Persist</title>
-      <link>https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews</link>
-      <description>Oil prices were mixed on Friday as traders weighed renewed threats to Middle Eastern supplies ahead of a meeting of OPEC and its allies during the weekend.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=rss_worldnews</guid>
-      <pubDate>Fri, 27 Nov 2026 12:50:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Inflation Slides in France, Spain on Declining Fuel Prices</title>
       <link>https://www.wsj.com/world/europe/french-inflation-slides-on-drop-in-fuel-prices-2bd7e78e?mod=rss_worldnews</link>
       <description>Inflation fell more than expected in November, while the eurozone economy grew less rapidly than previously estimated in the three months through September.</description>
@@ -73,17 +94,17 @@
       <pubDate>Fri, 27 Nov 2026 04:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>No Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis</title>
-      <link>https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=rss_worldnews</link>
-      <description>The dysfunctional market for homes has become a politically explosive issue at the ballot box—and a warning for everyone else.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=rss_worldnews</guid>
-      <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>The AI Boom Looks Alive and Well in Asia</title>
       <link>https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_worldnews</link>
       <description>Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.</description>
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697?mod=rss_worldnews</guid>
+      <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>No Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis</title>
+      <link>https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=rss_worldnews</link>
+      <description>The dysfunctional market for homes has become a politically explosive issue at the ballot box—and a warning for everyone else.</description>
+      <guid isPermaLink="true">https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f?mod=rss_worldnews</guid>
       <pubDate>Fri, 27 Nov 2026 03:00:00 +0000</pubDate>
     </item>
     <item>
@@ -127,27 +148,6 @@
       <description>The AI investment boom is supporting global economic growth, but the scale and breadth of financing that it requires is making the global financial system more vulnerable to setbacks, the central bank said.</description>
       <guid isPermaLink="true">https://www.wsj.com/world/uk/boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-005ad739?mod=rss_worldnews</guid>
       <pubDate>Thu, 26 Nov 2026 11:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bank of England Proposes Cut to U.K. Bank Capital Requirements</title>
-      <link>https://www.wsj.com/business/bank-of-england-proposes-cut-to-u-k-bank-capital-requirements-456b852d?mod=rss_worldnews</link>
-      <description>The measures would release more capital to be used on dividends, buybacks or lending, and the central bank said it could free up more capacity to lend to U.K. households and businesses.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/bank-of-england-proposes-cut-to-u-k-bank-capital-requirements-456b852d?mod=rss_worldnews</guid>
-      <pubDate>Thu, 26 Nov 2026 11:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle</title>
-      <link>https://www.wsj.com/business/unicredit-clears-final-hurdle-in-commerzbank-takeover-83ae477f?mod=rss_worldnews</link>
-      <description>The Italian bank said it received approval from Poland’s financial regulator, satisfying all regulatory conditions for its takeover of the German lender.</description>
-      <guid isPermaLink="true">https://www.wsj.com/business/unicredit-clears-final-hurdle-in-commerzbank-takeover-83ae477f?mod=rss_worldnews</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Tariffs on China Risk Undermining Trade Truce With U.S.</title>
-      <link>https://www.wsj.com/world/new-tariffs-on-china-could-undermine-trade-truce-with-u-s-bf43adcf?mod=rss_worldnews</link>
-      <description>China warns it could retaliate if the administration goes ahead with the duties.</description>
-      <guid isPermaLink="true">https://www.wsj.com/world/new-tariffs-on-china-could-undermine-trade-truce-with-u-s-bf43adcf?mod=rss_worldnews</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
